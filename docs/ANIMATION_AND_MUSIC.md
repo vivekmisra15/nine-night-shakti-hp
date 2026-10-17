@@ -1,4 +1,4 @@
-# Nine Nights at Hogwarts: animation and music direction
+# Nine Nights - The Story of Shakti: animation and music direction
 
 This is the audiovisual direction for all nine nights. Apply it together with the project rules in `CLAUDE.md`. Where the two conflict, the guardrails below win.
 

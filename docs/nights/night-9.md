@@ -169,7 +169,7 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 - Harry's "death and return" is our comparison point only. It is not hidden Hindu theology, and the author did not intend a parallel with the Devi.
 
 - **Reference:** Harry. *Deathly Hallows*, chapter 35, "King's Cross", and the end of chapter 36, "The Flaw in the Plan". Film: *Deathly Hallows Part 2* (2011), the closing scenes before the epilogue.
-- **Watch the scene:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Deathly+Hallows+Part+2+Harry+breaks+Elder+Wand+bridge+scene" }`. Swap in an exact clip when one is chosen.
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note, and it matters tonight:** in the book, Harry uses the Elder Wand once, to mend his own broken wand, and decides to put it back in Dumbledore's tomb. In the film, standing on a bridge at Hogwarts with Ron and Hermione, he snaps the Elder Wand in two and throws the pieces away. The film does not show him mending his old wand *(to check)*. The film's King's Cross scene is much shorter, and Dumbledore's words about power come from the book *(to check that the film leaves them out)*. Keeping a power asleep and destroying it are two different ways of giving it up, and the difference is worth discussing.
 
 **Retelling (spoken style).** Harry has walked into the forest and let Voldemort's curse hit him. He wakes in a bright, misty place that looks like King's Cross station, and Dumbledore is there. Dumbledore makes a confession. As a young man he hungered for power, and for the Deathly Hallows, and it led him into terrible mistakes. He was offered the job of Minister for Magic more than once, and refused, because he had learned he couldn't be trusted with power. Perhaps, he says, the people best suited to power are those who never went looking for it, like Harry.
@@ -213,7 +213,7 @@ Harry goes back, and the battle ends. Voldemort's own curse rebounds on him. The
 ## Beat 12: The Mirror and the Stone (hogwarts)
 
 - **Reference:** Harry. *Philosopher's Stone*, chapter 12, "The Mirror of Erised", and chapter 17, "The Man with Two Faces". Film: *Philosopher's Stone* (2001), the Mirror scene at Christmas, the final chamber, and the hospital wing. The film keeps Dumbledore's explanation of the Mirror's rule.
-- **Watch the scenes:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Philosopher%27s+Stone+Mirror+of+Erised+Dumbledore+scene" }` and `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Philosopher%27s+Stone+Quirrell+Mirror+Stone+in+pocket+scene" }`.
+- **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 
 **Retelling (spoken style).** At Christmas in his first year, Harry finds an old mirror in an empty classroom. When he looks in it, he sees his mother and father behind him, and a whole family he has never met. He goes back night after night. Then Dumbledore finds him there. The Mirror, he explains, shows you the deepest wish of your heart. People have wasted their lives in front of it. It will be moved, and Harry shouldn't look for it again: it does no good to dwell on dreams and forget to live.
 

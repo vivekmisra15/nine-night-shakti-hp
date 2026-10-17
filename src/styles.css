@@ -1,0 +1,1169 @@
+/* One stylesheet for the whole app. Colours are CSS variables, so the look
+   can be changed in one place. Nothing on the night screens scrolls: the
+   layout fits the window, from phone width (about 360px) to desktop. */
+
+:root {
+  --bg: #0d1024; /* deep night */
+  --surface: #161b38;
+  --surface-strong: #20284d;
+  --text: #f3e6cc; /* parchment */
+  --muted: #b3ab98;
+  --faint: #7d7867;
+  --gold: #e8b45a;
+  --accent: #f5a623; /* marigold */
+  --accent-text: #1a1206; /* text on gold buttons */
+  --border: #2e3766;
+  --parent: #a37cd6; /* "For the parent" */
+
+  --serif: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, 'SF Mono', Menlo, monospace;
+
+  /* One colour per label, so labels are easy to tell apart. */
+  --label-tradition: #f29f3d;
+  --label-interpretation: #e7c46a;
+  --label-contemporary: #8fd0b8;
+  --label-comparison: #c9a3f0;
+  --label-hogwarts: #9fb8f0;
+  --label-hypothetical: #f0a3b8;
+
+  /* Heights used to fit the picture into the window. */
+  --header-h: 64px;
+  --bar-h: 72px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--serif);
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h3 {
+  margin: 0 0 0.6rem;
+  font-size: 1.2rem;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  min-height: 40px;
+  padding: 0.35rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface-strong);
+  cursor: pointer;
+}
+
+button:hover:not(:disabled) {
+  border-color: var(--gold);
+}
+
+button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+button[aria-pressed='true'] {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+button.primary {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: var(--accent-text);
+  font-weight: 600;
+}
+
+button.big {
+  min-height: 56px;
+  padding: 0.6rem 2rem;
+  font-size: 1.2rem;
+}
+
+.link-button {
+  border: none;
+  background: none;
+  color: var(--muted);
+  padding: 0.3rem 0.4rem;
+}
+
+.link-button:hover {
+  color: var(--text);
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+input:not([type]),
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+}
+
+input[type='range'] {
+  accent-color: var(--gold);
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.small {
+  font-size: 0.85rem;
+}
+
+.mono {
+  font-family: var(--mono);
+}
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.row.center {
+  justify-content: center;
+}
+
+.card {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+}
+
+/* ---------- Labels ---------- */
+
+.label {
+  display: inline-block;
+  padding: 0.05rem 0.6rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.label-tradition { color: var(--label-tradition); }
+.label-interpretation { color: var(--label-interpretation); }
+.label-contemporary { color: var(--label-contemporary); }
+.label-comparison { color: var(--label-comparison); }
+.label-hogwarts { color: var(--label-hogwarts); }
+.label-hypothetical { color: var(--label-hypothetical); }
+
+/* ---------- Splash ---------- */
+
+.splash {
+  position: relative;
+  min-height: 100dvh;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  padding: 2rem 16px;
+}
+
+.splash-sky {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.splash-content {
+  position: relative;
+  max-width: 46rem;
+  text-align: center;
+}
+
+.splash-questions {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: clamp(1.15rem, 2.6vw, 1.7rem);
+}
+
+.splash-questions li {
+  margin: 0.6rem 0;
+  animation: rise-in 1.4s ease-out;
+  transition: opacity 1.2s;
+}
+
+.q-current { opacity: 1; }
+.q-past { opacity: 0.55; }
+
+.splash-heading {
+  font-size: clamp(2.2rem, 6vw, 4.2rem);
+  margin: 0 0 1.5rem;
+  transition: font-size 1s ease;
+}
+
+/* After Begin, the title moves up and steps back for the questions. */
+.splash-begun .splash-heading {
+  font-size: clamp(1.6rem, 4vw, 2.6rem);
+}
+
+.splash-footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 0 16px;
+}
+
+.splash-disclaimer {
+  margin: 0;
+  max-width: 40rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+
+.volume {
+  width: 110px;
+}
+
+/* ---------- Map ---------- */
+
+.map {
+  min-height: 100dvh;
+  padding: 1.5rem 16px 2rem;
+  max-width: 100rem;
+  margin: 0 auto;
+}
+
+.map-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.map-header h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 4.5vw, 3.2rem);
+}
+
+.constellation {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: calc(100dvh - 140px);
+  margin-top: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.map-stop.built {
+  cursor: pointer;
+}
+
+.map-stop:focus-visible {
+  outline: none;
+}
+
+.map-stop:focus-visible .map-ring,
+.map-stop.built:hover .map-ring {
+  stroke-width: 4;
+}
+
+.map-ring {
+  animation: breathe 3s ease-in-out infinite;
+}
+
+@keyframes breathe {
+  50% { opacity: 0.45; }
+}
+
+.map-night {
+  fill: var(--muted);
+  font-family: var(--mono);
+  font-size: 15px;
+}
+
+.map-devi {
+  fill: var(--text);
+  font-family: var(--serif);
+  font-size: 22px;
+}
+
+.map-meaning {
+  fill: var(--gold);
+  font-size: 16px;
+}
+
+/* ---------- Spoiler notice ---------- */
+
+.notice {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 2rem 16px;
+}
+
+/* ---------- Night player ---------- */
+
+.player {
+  height: 100dvh;
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  grid-template-columns: minmax(0, 1fr); /* never wider than the screen */
+  overflow: hidden;
+}
+
+.player > * {
+  min-width: 0;
+}
+
+.player-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  white-space: nowrap;
+  min-height: var(--header-h);
+  padding: 0.5rem 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.night-name {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  white-space: nowrap;
+}
+
+.devanagari {
+  font-size: 1.35rem;
+  color: var(--gold);
+}
+
+.night-devi {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+}
+
+.bell {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--parent);
+  border-color: var(--parent);
+  background: transparent;
+  min-height: 34px;
+  font-size: 0.85rem;
+}
+
+/* On narrower laptops, the bell keeps just its icon. */
+@media (max-width: 1360px) {
+  .bell-label { display: none; }
+}
+
+/* The bell pulses for a few seconds when a parent note becomes relevant. */
+.bell-pulse {
+  animation: bell-pulse 1.2s ease-in-out 4;
+}
+
+@keyframes bell-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgb(163 124 214 / 0); }
+  50% { box-shadow: 0 0 0 8px rgb(163 124 214 / 0.35); background: rgb(163 124 214 / 0.2); }
+}
+
+.section-strip {
+  margin-left: auto;
+  min-width: 0;
+  display: flex;
+  gap: 0.3rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.section {
+  white-space: nowrap;
+  background: transparent;
+  border-color: transparent;
+  color: var(--muted);
+  font-size: 0.9rem;
+  min-height: 34px;
+  padding: 0.2rem 0.65rem;
+}
+
+.section.current {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.player-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(340px, 32vw, 500px);
+  gap: clamp(16px, 2.5vw, 40px);
+  align-items: center;
+  min-height: 0;
+  padding: 20px clamp(16px, 3vw, 48px);
+}
+
+.stage-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 0;
+  height: 100%;
+}
+
+/* The picture: 16:9, as large as fits both the width and the height. */
+.stage {
+  position: relative;
+  width: 100%;
+  max-width: calc((100dvh - var(--header-h) - var(--bar-h) - 48px) * 16 / 9);
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #000;
+}
+
+.visual {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Harry Potter scenes are framed like a film. */
+.stage.letterbox::before,
+.stage.letterbox::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 8%;
+  background: #000;
+  z-index: 1;
+}
+
+.stage.letterbox::before { top: 0; }
+.stage.letterbox::after { bottom: 0; }
+
+.caption {
+  position: absolute;
+  left: 50%;
+  bottom: 10%;
+  z-index: 2;
+  transform: translateX(-50%);
+  margin: 0;
+  padding: 0.25rem 0.7rem;
+  border-radius: 6px;
+  background: rgb(0 0 0 / 0.6);
+  color: #fff;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.stage-hint,
+.stage-badge {
+  position: absolute;
+  top: 0.7rem;
+  z-index: 2;
+  margin: 0;
+  padding: 0.15rem 0.6rem;
+  border: 1px solid var(--gold);
+  border-radius: 4px;
+  background: rgb(0 0 0 / 0.55);
+  color: var(--gold);
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.stage-hint { right: 0.7rem; }
+.stage-badge { left: 0.7rem; }
+
+/* The text beside the picture. It never makes the page scroll; only in
+   Reading mode, or on a very small screen, does the pane itself scroll. */
+.text-pane {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  max-height: 100%;
+  min-height: 0;
+  overflow-y: auto;
+  font-size: 19px;
+}
+
+.text-pane p {
+  margin: 0;
+}
+
+.text-pane .label {
+  align-self: flex-start;
+}
+
+.step-title {
+  margin: 0;
+  font-size: clamp(1.6rem, 2.6vw, 2.4rem);
+}
+
+.source-line {
+  margin-top: 0.5rem !important;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+/* Narration: the current sentence bright, the last one or two dimmed. */
+.narration {
+  flex: 1 1 auto;
+  min-height: 6rem;
+  overflow: hidden;
+}
+
+.narration.narration-complete {
+  overflow-y: auto;
+}
+
+.narration-inner {
+  transition: transform 0.6s ease;
+}
+
+.line {
+  margin: 0 0 0.9rem !important;
+  transition: opacity 0.6s ease;
+  animation: rise-in 0.8s ease-out;
+}
+
+.line-current,
+.line-all { opacity: 1; }
+.line-recent { opacity: 0.55; }
+.line-past { opacity: 0.3; }
+
+.line-seek {
+  all: unset;
+  cursor: pointer;
+}
+
+.line-seek:hover {
+  text-decoration: underline dotted var(--faint);
+}
+
+.line-seek:focus-visible {
+  outline: 2px solid var(--accent);
+}
+
+/* Steps led by text: full width over a faint picture. */
+.text-led-layout {
+  position: relative;
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.backdrop {
+  position: absolute;
+  inset: 0;
+  opacity: 0.16;
+  pointer-events: none;
+}
+
+.text-pane.wide {
+  position: relative;
+  width: min(100%, 52rem);
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.text-led {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.primary-idea {
+  font-family: var(--serif);
+  font-size: clamp(2rem, 4.4vw, 4rem);
+  line-height: 1.15;
+  animation: rise-in 1.6s ease-out;
+}
+
+.theme-word {
+  font-family: var(--serif);
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  line-height: 1;
+  color: var(--gold);
+  animation: rise-in 1.4s ease-out;
+}
+
+.theme-description {
+  max-width: 44rem;
+  color: var(--muted);
+}
+
+.idea-big {
+  font-family: var(--serif);
+  font-size: clamp(1.6rem, 3vw, 2.6rem);
+  line-height: 1.2;
+}
+
+.unfold {
+  animation: rise-in 0.8s ease-out;
+}
+
+.choices {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.choice {
+  text-align: left;
+  border-radius: 12px;
+}
+
+.acknowledgement,
+.reveal,
+.did-you-know {
+  border-left: 3px solid var(--gold);
+  padding-left: 0.8rem;
+}
+
+.strength {
+  font-weight: 600;
+  color: var(--label-comparison);
+}
+
+.doesnt-compare {
+  margin-top: 0.5rem !important;
+  padding: 0.7rem;
+  border: 1px solid var(--label-comparison);
+  border-radius: 10px;
+  font-size: 0.95rem;
+}
+
+.questions,
+.perspectives {
+  margin: 0;
+}
+
+.ladder li,
+.questions li,
+.perspectives li {
+  margin-bottom: 0.5rem;
+}
+
+/* A Harry Potter scene's reference, in a small line under the retelling. */
+.scene-ref {
+  margin-top: auto;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+}
+
+.scene-ref p {
+  margin: 0 0 0.3rem;
+}
+
+.scene-ref summary {
+  cursor: pointer;
+}
+
+/* The connection: one full-width screen. */
+.connection ul {
+  margin: 0.3rem 0 0;
+}
+
+/* "Think it through" on one screen: the ladder on the left, the stance line
+   and activity on the right (one column on a phone). */
+.think-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  gap: 1.5rem 2.5rem;
+  align-items: start;
+  font-size: 18px;
+}
+
+.think-grid .card {
+  margin: 0 0 0.8rem;
+  padding: 0.7rem 0.9rem;
+}
+
+/* Compact versions of the stance line and timer, so the screen fits. */
+.think-grid .stance-line {
+  height: 48px;
+}
+
+.think-grid .activity p {
+  font-size: 16px;
+}
+
+.think-grid .timer {
+  width: 72px;
+  height: 72px;
+}
+
+.think-grid .timer-text {
+  font-size: 1.1rem;
+}
+
+/* Give the two columns more room than other full-width steps. */
+.text-pane.wide:has(.think-grid) {
+  width: min(100%, 72rem);
+}
+
+@media (max-width: 900px) {
+  .think-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.parent-drawer {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.parent-drawer summary {
+  cursor: pointer;
+  color: var(--parent);
+}
+
+.parent-note {
+  border-color: var(--parent);
+}
+
+/* ---------- Timer ---------- */
+
+.activity {
+  margin: 0;
+}
+
+.timer {
+  position: relative;
+  width: 92px;
+  height: 92px;
+  flex: none;
+}
+
+.timer-row {
+  gap: 1rem;
+}
+
+.timer-ring {
+  width: 100%;
+  height: 100%;
+}
+
+.timer-track {
+  fill: none;
+  stroke: var(--border);
+  stroke-width: 8;
+}
+
+.timer-fill {
+  fill: none;
+  stroke: var(--gold);
+  stroke-width: 8;
+  stroke-linecap: round;
+}
+
+.timer-text {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-family: var(--mono);
+  font-size: 1.4rem;
+}
+
+/* ---------- Stance line ---------- */
+
+.stance-ends {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.95rem;
+}
+
+.stance-ends span:last-child {
+  text-align: right;
+}
+
+.stance-line {
+  position: relative;
+  height: 64px;
+  margin: 0.5rem 1.5rem;
+  touch-action: none; /* dragging a marker must not scroll the page */
+}
+
+.stance-line::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 4px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--label-tradition), var(--label-hogwarts));
+}
+
+.stance-marker {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  min-height: 34px;
+  padding: 0.2rem 0.6rem;
+  border-color: var(--gold);
+  background: var(--bg);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  cursor: grab;
+  touch-action: none;
+}
+
+/* ---------- Bottom bar ---------- */
+
+.control-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  min-height: var(--bar-h);
+  padding: 0.5rem 20px;
+  border-top: 1px solid var(--border);
+  background: #0a0d1e;
+}
+
+.bar-group {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.bar-progress {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  min-width: 0;
+}
+
+.bar-progress input {
+  flex: 1;
+  min-width: 60px;
+}
+
+.step-count {
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.round {
+  width: 42px;
+  min-height: 42px;
+  padding: 0;
+  border-radius: 50%;
+}
+
+.toggle {
+  display: flex;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.toggle button {
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  font-size: 0.85rem;
+}
+
+.toggle button[aria-pressed='true'] {
+  background: var(--surface-strong);
+}
+
+.next {
+  min-width: 96px;
+}
+
+/* ---------- Panels ---------- */
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  overflow-y: auto;
+  background: rgb(8 10 22 / 0.94);
+}
+
+.overlay-inner {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1rem 16px 3rem;
+}
+
+.overlay-header {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  background: rgb(8 10 22 / 0.97);
+}
+
+.overlay-header h2 {
+  margin: 0;
+}
+
+.script-parent {
+  color: var(--parent);
+  font-style: italic;
+}
+
+.table-scroll {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+
+th,
+td {
+  padding: 0.4rem;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+fieldset {
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.option {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  min-height: 40px;
+}
+
+.slider {
+  display: grid;
+  grid-template-columns: 9rem 1fr 3rem;
+  gap: 0.5rem;
+  align-items: center;
+  min-height: 40px;
+}
+
+/* ---------- Closing ---------- */
+
+.closing-screen {
+  height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: #000;
+}
+
+.closing-stage {
+  position: relative;
+  width: min(100%, calc((100dvh - 32px) * 16 / 9));
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+.closing-idea {
+  position: absolute;
+  inset: 12% 10% auto;
+  margin: 0;
+  display: grid;
+  gap: 0.6rem;
+  text-align: center;
+  font-family: var(--serif);
+  font-size: clamp(1.4rem, 3.6vw, 3rem);
+  line-height: 1.2;
+  color: #fff8e7;
+  text-shadow: 0 2px 18px rgb(0 0 0 / 0.6);
+}
+
+.closing-idea p {
+  margin: 0;
+}
+
+.closing-word {
+  color: #f7d58a;
+  font-size: 1.3em;
+}
+
+.closing-skip {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+}
+
+/* ---------- No motion ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .line,
+  .unfold,
+  .primary-idea,
+  .splash-questions li,
+  .map-ring,
+  .bell-pulse {
+    animation: none;
+  }
+  .narration-inner {
+    transition: none;
+  }
+}
+
+/* ---------- Phone and small tablet ---------- */
+
+@media (max-width: 760px) {
+  :root {
+    --header-h: 96px;
+  }
+
+  .player-header {
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+    padding: 0.4rem 12px;
+  }
+
+  .section-strip {
+    order: 3;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .bell-label {
+    display: none;
+  }
+
+  /* The picture on top, the text underneath. */
+  .player-main {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr);
+    align-items: stretch;
+    padding: 10px 12px;
+    gap: 10px;
+  }
+
+  .stage {
+    max-width: none;
+  }
+
+  .text-pane {
+    font-size: 17px;
+  }
+
+  .text-pane.wide {
+    font-size: 18px;
+  }
+
+  .step-title {
+    font-size: 1.4rem;
+  }
+
+  /* A compact bar: the music volume and step count live in Settings. */
+  .control-bar {
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.4rem 12px;
+  }
+
+  .bar-progress {
+    order: -1;
+    flex-basis: 100%;
+  }
+
+  .control-bar .volume,
+  .step-count {
+    display: none;
+  }
+
+  /* One compact row on a phone: back, play, replay, settings and Next.
+     The length switch, music, Text and Context are in the Settings panel. */
+  .bar-wide,
+  .untimed,
+  .back-label {
+    display: none;
+  }
+
+  .control-bar > .bar-group:last-child {
+    margin-left: auto;
+  }
+
+  /* With nothing to show (an untimed step), the progress row disappears. */
+  .bar-progress:not(:has(input)) {
+    display: none;
+  }
+
+  .night-name .eyebrow {
+    display: none;
+  }
+
+  .control-bar button {
+    min-height: 38px;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.85rem;
+  }
+
+  .slider {
+    grid-template-columns: 1fr 3rem;
+  }
+
+  .slider span:first-child {
+    grid-column: 1 / -1;
+  }
+}

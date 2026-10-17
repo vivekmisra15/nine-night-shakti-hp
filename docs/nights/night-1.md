@@ -4,12 +4,12 @@ The lesson and the read-aloud script for Night 1. The plan for all nine nights i
 
 # Lesson
 
-Night 1 takes about 30 minutes, or about 20 on the short path. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.
+Night 1 takes about 23 minutes, or about 20 on the short path. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.
 
 ## At a glance
 
 - **Intensity:** gentle. Sati's death is told gently, as a sacred act and not an example. Read the parent note in Beat 5 before you begin.
-- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, skip the second scene's activity, and use only the first "Today" dilemma.
+- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, and skip the second scene's activity.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
@@ -17,19 +17,21 @@ Night 1 takes about 30 minutes, or about 20 on the short path. Its question: wha
 | 1 | Before we begin | opening | contemporary | 2 |
 | 2 | The daughter who chose | story | tradition | 1.5 |
 | 3 | A sacrifice without Shiva | story | tradition | 1 |
-| 4 | Should Sati go? | choice | hypothetical | 4 |
+| 4 | Should Sati go? | choice | hypothetical | 1.5 |
 | 5 | At her father's house | story | tradition | 1.5 |
 | 6 | Shiva's grief | story | tradition | 1.5 |
 | 7 | What will Shiva do? | choice | hypothetical | 2 |
 | 8 | Daughter of the mountain | story | tradition | 1 |
-| 9 | Three ideas | idea | interpretation | 3 |
+| 9 | The theme | idea | interpretation | 1 |
 | 10 | Aunt Marge's dinner | sceneIntro | hogwarts | 2 |
 | 11 | Think it through | think | comparison | 3 |
 | 12 | The Sorting | sceneIntro | hogwarts | 1.5 |
 | 13 | Think it through | think | comparison | 3 |
 | 14 | Side by side | comparison | comparison | 2 |
-| 15 | Today | today | contemporary | 3 |
+| 15 | Today | today | contemporary | 1.5 |
 | 16 | Reflection | reflection | contemporary | 2 |
+
+Beats 15 and 16 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -70,15 +72,13 @@ At a great gathering, everyone rose to greet Daksha except Brahma and Shiva. Dak
 
 **What happens:** Sati went.
 
-**Activity (4 minutes; this is the night's main activity):** one person argues as Sati for going and the other as Shiva for staying, 90 seconds each. Then swap roles and do it again. Afterwards, ask: what did you hear in the other side's argument once you had to make it yourself?
-
 ### Beat 5: At her father's house (tradition)
 
 Her mother and sisters ran to welcome her with tears of joy. Her father did not speak to her at all. She looked around and saw that no share of the offering had been set aside for Shiva. Shiva's attendants wanted to attack Daksha, and Sati stopped them. Then she spoke in front of everyone. Shiva is a friend to every being, she said, and has no enemies; her father hunted for faults where Shiva would look for good. She said she was ashamed that her body had come from such a father, and that she would not keep it. She sat down facing north, closed her eyes, and went into deep meditation with her mind fixed on Shiva. Through the power of that meditation a fire rose from within, and she left her body. A great cry went up across the worlds, and everyone who watched blamed Daksha. (BP 4.4)
 
 **Visual:** a single lamp flame rising and going out. No body, and no fire around a figure.
 
-**For the parent (show before this beat):**
+**For the parent (a notification: the bell pulses at the start of this beat and again before Sati leaves her body; the story does not stop):**
 
 - This is a sacred story about a Devi, and the texts treat her act as hers alone. It is not a model for how people respond to being hurt.
 - Say plainly, even if it feels obvious, that if anyone ever hurts or humiliates you, the answer is to tell someone you trust and get help, never to harm yourself.
@@ -118,40 +118,23 @@ Himavat, king of the mountains, and his wife Mena prayed for a daughter, and Sat
 
 **Did you know? (tradition and interpretation):** in the Kena Upanishad (3.12–4.1), "Uma Haimavati", Uma of the Himalaya, appears to the god Indra and teaches the proud gods that their victory was not really their own. Tradition identifies her with Parvati. So this is a daughter of the mountain who corrects pride, on the night of a story about a proud father.
 
-## Beat 9: Three ideas (interpretation)
+## Beat 9: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. Standing by someone others scorn**
-
-- **Simply:** when people close to you look down on someone you love, do you stand with that person?
-- **From the story:** Sati defends Shiva before the whole assembly, in her own father's house. Even in her anger, she stops Shiva's attendants from attacking her father.
-- **Traditional reading:** Shiva and Shakti cannot be separated, so an insult to Shiva is an insult to her. Devotional readings hold up Sati's loyalty as a model of devotion.
-- **Other readings:** Sati was loyal to both sides; she went because she loved her family too. Was going brave, or a mistake Shiva had foreseen? It can be both.
-
-**2. Contempt costs the person who holds it**
-
-- **Simply:** looking down on people harms you as well as them.
-- **From the story:** Daksha's pride costs him his daughter, his sacrifice and his own head.
-- **Traditional reading:** a sacrifice that leaves out the divine at its centre cannot be complete. Shiva himself warns that pride makes people blind (BP 4.3).
-- **Other readings:** Daksha may have believed he was defending proper order, because Shiva ignored the customs Daksha lived by. Pride can look like principle. And even Daksha is given a second chance.
-
-**3. Beginning again from steady ground**
-
-- **Simply:** after a loss, you can start again without stopping being yourself.
-- **From the story:** Sati returns as Parvati, daughter of the mountain: the same Devi, a new family, the same love.
-- **Traditional reading (interpretation):** Shailaputri is the root of the nine nights, so the journey begins from steady ground.
-- **Contemporary:** think of a fresh start, such as a new school or a new home. What do you carry with you, and what do you leave behind?
+- **Word:** Rootedness
+- **Idea:** What you are rooted in can survive what you lose.
+- **Description:** The first form of the Devi is named for a relationship, not for something she did: she is the daughter of the mountain. The festival starts with where you stand before it asks what you’ll do. Sati loses her body, her family and her home. What survives is her devotion, which returns whole in Parvati, rooted in a new place. Devotees often link Shailaputri with the mountain’s steadiness. Our reading is that your roots are less about where you live or who you came from, and more about what you’re devoted to. That’s what carries you through change.
 
 ## Beat 10: Aunt Marge's dinner (hogwarts)
 
 - **Reference:** Harry. *Prisoner of Azkaban*, chapter 2, "Aunt Marge's Big Mistake". Film: *Prisoner of Azkaban* (2004), opening scenes.
-- **Watch the scene:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Prisoner+of+Azkaban+Aunt+Marge+dinner+scene" }`. Swap in an exact clip when one is chosen.
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film keeps the insults, the inflating, and Harry leaving on the Knight Bus. Compare how the film handles the deal over the Hogsmeade form with the book before quoting details.
 
 **Retelling (spoken style).** It's the summer Harry turns thirteen. Uncle Vernon's sister Marge comes to stay for a week with her bulldog, and Vernon makes Harry a deal. If Harry behaves, never mentions magic, and goes along with the story that he attends a school for hopeless criminal boys, Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. So Harry grits his teeth. All week Marge sneers at him, and he says nothing. On the last night, after a long dinner and a lot of drink, she turns on his parents. She talks about breeding dogs: if something is wrong with the mother, something is wrong with the pup. She calls his father a jobless good-for-nothing, and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry says they didn't, and she keeps going. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out of the house and into the dark street, certain he'll be expelled. The form is never signed.
 
-**The connection:** Idea 1, standing by someone others scorn, and Idea 2, contempt.
+**The connection:**
 
 - **What is similar:** an elder insults absent loved ones at a family gathering, after contempt that has been building for a long time. The rest of the household stays silent, as the guests at Daksha's sacrifice did out of fear of him. Aunt Petunia says nothing, though Marge is insulting her own sister, Lily.
 - **What is different:**
@@ -188,13 +171,13 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 ## Beat 12: The Sorting (hogwarts)
 
 - **Reference:** Harry. *Philosopher's Stone*, chapter 7, "The Sorting Hat", with *Chamber of Secrets*, chapter 18, "Dobby's Reward". Films: *Philosopher's Stone* (2001), the Sorting; *Chamber of Secrets* (2002), Dumbledore's office at the end. The film keeps the "choices" idea, though its wording may differ from the book's.
-- **Watch the scenes:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Philosopher%27s+Stone+Sorting+Hat+Harry+not+Slytherin" }` and `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Chamber+of+Secrets+Dumbledore+choices+scene" }`.
+- **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 
 **Retelling (spoken style).** It's Harry's first night at Hogwarts. The new students are called up one by one to sit on a stool and put on an old, patched hat that decides their house. Harry already has an opinion. Hagrid has told him that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who sneered at Ron's family and was sure he'd be a Slytherin. Now the Hat speaks inside Harry's head. It sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.
 
 A year later Harry is troubled. He can talk to snakes, as Salazar Slytherin could, the Hat had said he'd do well in Slytherin, and Tom Riddle told him they were alike. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.
 
-**The connection:** Idea 3, beginning again, and the night's question of who you are.
+**The connection:**
 
 - **What is similar:** in the Bhagavata, Sati can no longer bear being called "Dakshayani", Daksha's daughter (BP 4.4.23). She returns as the mountain's daughter, in a family that honours what she loves. Harry refuses to be defined by what he shares with Voldemort. Both stories separate what you were given from who you are.
 - **What is different:**
@@ -240,9 +223,9 @@ Questions are revealed one at a time. None has a single right answer.
 
 ## Beat 15: Today (contemporary)
 
-There are three situations; the short path uses only the first. Each shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
 
-**1. The joke at the family dinner.** At a big family gathering, an uncle makes fun of your older cousin's new partner, who comes from a different background. Everyone laughs, and your cousin goes quiet.
+**The joke at the family dinner.** At a big family gathering, an uncle makes fun of your older cousin's new partner, who comes from a different background. Everyone laughs, and your cousin goes quiet.
 
 - "Say something now. Silence looks like agreement."
 - "Talk to him privately later. People dig in when they're challenged in public."
@@ -250,31 +233,14 @@ There are three situations; the short path uses only the first. Each shows sever
 - "Let it go this time. It's one evening, and family peace matters too."
 - **Ask:** which of these would you be proud of tomorrow? Which would your cousin want?
 
-**2. The group chat.** In a class group chat, your friends start mocking someone you like who isn't in the chat. They are your friends too.
-
-- "Post 'not cool'. One voice can stop it."
-- "Leave the chat quietly."
-- "Check on the person privately." But they don't know about the chat; would telling them help or hurt?
-- "Screenshot it and tell a teacher." That may protect them, and it may cost you friends.
-- "Stay out of it. It's not my fight."
-- **Ask:** online, nobody sees your face. Does that make staying silent easier, or worse?
-
-**3. Starting again.** You're moving to a new school next term. You could stay exactly who you are, or reinvent yourself.
-
-- "Start fresh. Nobody there knows my embarrassing moments."
-- "Keep what matters. Reinventing yourself is a kind of pretending."
-- "Both. Parvati was a new birth and the same Devi."
-- **Ask:** what is one thing you would keep, no matter where you went?
 
 ## Beat 16: Reflection (contemporary)
 
-Pick one or two questions; you don't need them all. The night's main activity, the Sati and Shiva role-play, comes earlier, in Beat 4.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
 - Shiva warned Sati not to go. Why do you think she went anyway?
-- What did Daksha do that was unfair, and when did it start?
-- Harry kept quiet for a whole week. At what moment would you have found it hardest?
 - If you started again somewhere new, what would you keep?
 
 **Go deeper**
@@ -288,7 +254,9 @@ Pick one or two questions; you don't need them all. The night's main activity, t
 
 **Private note (saved only on this device):** one thing I want to remember from tonight is…
 
-**Takeaway (shown last):** tonight's story asks a question instead of answering it. When people close to us scorn someone we love, what do we protect, and how? Tomorrow, the daughter of the mountain sets out to reach Shiva, who doesn't notice her at all.
+**The theme again (shown last, then in the closing):** Rootedness. What you are rooted in can survive what you lose.
+
+**Tomorrow:** the daughter of the mountain sets out to reach Shiva, who doesn't notice her at all.
 
 ## For the parent
 
@@ -324,9 +292,9 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 23 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 12 minutes)
+## Part 1: Opening and the story (about 8 minutes)
 
 **[Before you start: these nights discuss the whole Harry Potter series, including its ending. Check that's fine for your child.]**
 
@@ -347,8 +315,6 @@ Some time later, Daksha held an enormous ceremony, a sacrifice, and invited ever
 She asked Shiva to come with her. Surely, she said, a daughter doesn't need an invitation to her father's house. Shiva answered gently. You can visit family without an invitation, he said, but not someone who is angry with you. Hard words from family hurt more than an enemy's arrows. You won't be honoured there.
 
 **[PAUSE: Choice. Ask: "If you were Sati, what would you do? Go, stay, go and try to make peace, or send a message first?" Listen to the reasons.]**
-
-**[ACTIVITY: 4 minutes. One of you argues as Sati for going, the other as Shiva for staying, 90 seconds each. Then swap. Ask: "What did you hear in the other side once you had to argue it yourself?"]**
 
 Sati went.
 
@@ -376,17 +342,11 @@ In pictures she rides a bull, which stands for steadiness. She holds a trident i
 
 **[Pause: about 1 minute. Optional: "Which part of the story will you remember?"]**
 
-## Part 2: The ideas and two Hogwarts scenes (about 12 minutes)
+## Part 2: The theme and two Hogwarts scenes (about 10 minutes)
 
-Three ideas come out of this story. People read them in different ways, so these are readings, not rules.
+Tonight's word is rootedness. What you are rooted in can survive what you lose.
 
-The first is standing by someone others scorn. Sati defended Shiva in her own father's house. Even when she was angry, she stopped Shiva's attendants from hurting her father. She loved both sides.
-
-The second is that contempt costs the person who holds it. Daksha's pride cost him his daughter, his ceremony, and very nearly himself. He probably thought he was defending the proper way of doing things, and pride often believes it's being principled. And yet even Daksha got a second chance.
-
-The third is beginning again from steady ground. Sati came back as the daughter of the mountain: the same Devi, and a new start.
-
-**[Pause: ask, "Which of these three feels most true to you?"]**
+The first form of the Devi is named for a relationship, not for something she did: she is the daughter of the mountain. The festival starts with where you stand before it asks what you’ll do. Sati loses her body, her family and her home. What survives is her devotion, which returns whole in Parvati, rooted in a new place. Devotees often link Shailaputri with the mountain’s steadiness. Our reading is that your roots are less about where you live or who you came from, and more about what you’re devoted to. That’s what carries you through change.
 
 Now, Hogwarts. This is from *Prisoner of Azkaban*, chapter two, "Aunt Marge's Big Mistake". It's near the start of the film too.
 
@@ -432,7 +392,7 @@ Remember how Sati felt about being called "Daksha's daughter", and how she came 
 
 **[ACTIVITY (skip on the short path): 2 minutes. You play the Hat and argue for 30 seconds that your child belongs in the house they'd least pick. They answer for 30 seconds. Then swap.]**
 
-## Part 3: Side by side, today, and closing (about 7 minutes)
+## Part 3: Side by side, today, and closing (about 5 minutes)
 
 Let's put the two stories next to each other. There's no single right answer to any of these.
 
@@ -449,7 +409,7 @@ Imagine a big family gathering. An uncle makes fun of your older cousin's new pa
 
 Some people would say speak up now, because silence looks like agreement. Some would say talk to the uncle privately later, because people dig in when they're challenged in public. Some would tell a parent and let an adult handle it. And some would let it go this time, because family peace matters too.
 
-**[PAUSE: ask, "Which of these would you be proud of tomorrow? Which would your cousin want?" On the long path, also use the group-chat or new-school situation from Beat 15.]**
+**[PAUSE: ask, "Which of these would you be proud of tomorrow? Which would your cousin want?"]**
 
 Last questions.
 
@@ -457,10 +417,10 @@ Last questions.
 
 **[TOGETHER: "If someone in our family were mocked at a family gathering, what would we want each other to do?"]**
 
-Tonight's story doesn't hand us an answer. It asks a question: when people close to us scorn someone we love, what do we protect, and how?
+Tonight's word is rootedness. What you are rooted in can survive what you lose.
 
 And it ends with a beginning. The daughter of the mountain is born. Tomorrow she sets out to reach Shiva, who is sitting in meditation and doesn't notice her at all.
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from tonight.]**
 
-**Timing:** about 12 minutes for Part 1 (including the 4-minute role-play), 12 for Part 2 and 7 for Part 3, so about 30 minutes in all. The short path takes about 20: two ladder questions per scene, no second activity, and one "Today" situation.
+**Timing:** about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. The short path takes about 20: two ladder questions per scene, and no second activity.

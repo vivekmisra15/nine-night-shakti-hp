@@ -152,7 +152,7 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 
 - **Reference:** *Deathly Hallows*, chapter 10, "Kreacher's Tale"; chapter 11, "The Bribe"; chapter 12, "Magic is Might". Background: *Order of the Phoenix*, chapter 37, "The Lost Prophecy"; and *Deathly Hallows*, chapter 36, "The Flaw in the Plan".
 - **Book only:** the films leave out Kreacher's tale of the cave, Harry's gift and Kreacher's change. *Deathly Hallows Part 1* (2010) keeps only a short Kreacher scene *(to check how much of the tale it includes)*.
-- **Watch the scene:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Deathly+Hallows+Part+1+Kreacher+Grimmauld+Place+scene" }`. The film scene is short and does not show the change, so the retelling below carries this beat.
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above. The film scene is short and does not show the change, so the retelling below carries this beat.
 - **Film note:** because the change is book only, read the retelling in full even if your child knows the films well.
 
 **For the parent (some peril):** Kreacher's tale describes a cave, a poisoned potion, and Regulus Black being dragged under dark water by the dead. The book tells it briefly and without gore. Read it calmly.
@@ -206,7 +206,7 @@ Days pass. Kreacher comes back with Mundungus, apologising for taking so long. A
 ## Beat 12: The silver doe (hogwarts)
 
 - **Reference:** *Deathly Hallows*, chapter 15, "The Goblin's Revenge" (Ron leaves), and chapter 19, "The Silver Doe". Film: *Deathly Hallows Part 1* (2010).
-- **Watch the scene:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Deathly+Hallows+Part+1+Ron+returns+destroys+locket+scene" }`. Swap in an exact clip when one is chosen.
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film keeps the doe, the frozen pool, Ron's rescue, the locket's attack on Ron, and Hermione's fury. Ron's explanation of how the Deluminator led him back is also in the film *(to check the wording)*. The choices discussed are the same in both.
 
 **For the parent (some peril):** Harry nearly drowns, held down by the locket's chain. The locket then torments Ron with his worst fears, including a cruel vision of Harry and Hermione together. It is brief and not graphic.

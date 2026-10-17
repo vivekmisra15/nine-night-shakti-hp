@@ -166,7 +166,7 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 ## Beat 9: Dumbledore's Army (hogwarts)
 
 - **Reference:** Harry. *Order of the Phoenix*, chapter 15, "The Hogwarts High Inquisitor"; chapter 16, "In the Hog's Head"; chapter 17, "Educational Decree Number Twenty-Four"; chapter 18, "Dumbledore's Army". Film: *Order of the Phoenix* (2007).
-- **Watch the scene:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Order+of+the+Phoenix+Hog%27s+Head+meeting+scene" }`. Swap in an exact clip when one is chosen.
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show the naming as the book does; the name appears on the list of members that Umbridge seizes *(to check)*. The choice to join is the same in both.
 
 **Retelling (spoken style).** It's Harry's fifth year. Voldemort is back, but the Ministry of Magic insists he isn't, and the newspapers call Harry a liar. The new Defence teacher, Professor Umbridge, comes from the Ministry. Her lessons are reading from a book, with no spells at all. When Harry says Voldemort has returned, she gives him cruel detentions.
@@ -213,7 +213,7 @@ Days later, a new rule bans every student group that Umbridge hasn't approved. D
 ## Beat 11: Through the trapdoor (hogwarts)
 
 - **Reference:** Harry, Ron and Hermione. *Philosopher's Stone*, chapter 16, "Through the Trapdoor", with the end-of-year feast in chapter 17, "The Man with Two Faces". Film: *Philosopher's Stone* (2001), the final obstacles.
-- **Watch the scenes:** `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Philosopher%27s+Stone+Devil%27s+Snare+flying+keys+scene" }` and `video: { type: "search", url: "https://www.youtube.com/results?search_query=Harry+Potter+Philosopher%27s+Stone+wizard+chess+scene" }`.
+- **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 - **Film note:** the film leaves out the troll and Snape's potion riddle. In the film, Hermione beats the Devil's Snare by relaxing and using a light spell. Her line about books, cleverness, friendship and bravery comes after the chess game, and she stays behind with Ron. Each friend still wins one obstacle, so the choice is the same.
 
 **Retelling (spoken style).** It's the end of Harry's first year. Harry, Ron and Hermione are sure someone will try to steal the Philosopher's Stone tonight, and Dumbledore is away. So they go after it themselves.

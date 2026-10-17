@@ -1,4 +1,4 @@
-# Nine Nights at Hogwarts: the plan
+# Nine Nights - The Story of Shakti: the plan
 
 This file is the approved plan for all nine nights (16 October 2026): each night's Devi, main idea, Harry Potter scenes, strength of the comparison and cautions. The full lesson and read-aloud script for each night are in `docs/nights/night-N.md`. Components must not contain lesson text; it is copied from those files into `src/content/`.
 
@@ -23,7 +23,7 @@ Each night starts with the Devi's story, finds the *decision* inside it, and onl
 **How a night is built (about 25–30 minutes)**
 
 1. The traditional story, told plainly, with its source named (5–7 min).
-2. Two or three ideas drawn from it, each with its traditional reading and at least one other reading.
+2. The night's theme: one word, a one-line idea children can remember, and a short reading (see "The nine themes" below).
 3. Two Harry Potter scenes: a primary one and one that complements or contrasts. Each gives book, chapter and film, says what is similar and what is different, and rates the strength of the link.
 4. A present-day dilemma with several perspectives, not a verdict.
 5. Questions for the child, "go deeper" questions, and one for parent and child together, plus one 5–15 minute thinking activity.
@@ -42,6 +42,8 @@ Each night starts with the Devi's story, finds the *decision* inside it, and onl
 - Every comparison states the differences as clearly as the similarities, and is rated **strong**, **partial** or **speculative**.
 - Harry Potter's death-and-return imagery (the forest walk, King's Cross, "master of death") is offered as *our* comparison, never as hidden theology. Never suggest that J.K. Rowling or the filmmakers intended a parallel.
 - Paraphrase every quote. Any direct quotation stays well under 15 words, and they are rare.
+
+**Disclaimer (shown on the opening splash and with "How we compare"; draft wording, 17 October 2026, for Supriya to review):** The Harry Potter books and films were not written with Navaratri or the Devi in mind. The links we draw between them are our own interpretation.
 
 **Spoilers and intensity**
 
@@ -65,6 +67,57 @@ Molly Weasley appears on two nights (3 and 5) for different choices. She is not 
 | 7 | Kalaratri | A terrifying form with protective hands; facing fear | The boggart lesson and Lupin's talk with Harry (PoA 7–8) | Snape's memories reveal what he protected (DH 33) | Strong | Some peril; second scene intense |
 | 8 | Mahagauri | Restoration after long effort; renewal | Kreacher changes after Harry's kindness (DH 10, 12; book only) | Ron returns and destroys the locket (DH 19) | Partial to strong | Gentle; some peril |
 | 9 | Siddhidatri | Power as a gift; the right relationship with power | Harry lays down the Elder Wand (DH 35–36; film differs) | Only someone who wants the Stone but not to use it can find it (PS 17) | Strong | Gentle |
+
+## The nine themes (agreed 17 October 2026)
+
+Each night has one **theme**: a single word, a one-line idea children can remember, and a longer description. The story ends on the theme, and the night ends on it again. The descriptions are readings, so the app labels them **interpretation**.
+
+### Night 1 · Shailaputri · Rootedness
+What you are rooted in can survive what you lose.
+
+The first form of the Devi is named for a relationship, not for something she did: she is the daughter of the mountain. The festival starts with where you stand before it asks what you’ll do. Sati loses her body, her family and her home. What survives is her devotion, which returns whole in Parvati, rooted in a new place. Devotees often link Shailaputri with the mountain’s steadiness. Our reading is that your roots are less about where you live or who you came from, and more about what you’re devoted to. That’s what carries you through change.
+
+### Night 2 · Brahmacharini · Resolve
+What you practise, day after day, changes who you are.
+
+Her name means “one who practises”. Parvati first tried the quick way, with Kama’s arrow and her own beauty, and it went up in flames. Only then did she choose the slow path of tapas, season after season. Her final test isn’t about how much she can endure. Shiva, in disguise, mocks her choice to see whether she still knows why she’s doing it. In this story, resolve is less about toughness than about a reason that survives being laughed at. The practice wins Shiva, but first it changes her.
+
+### Night 3 · Chandraghanta · Readiness
+Strength can protect just by being ready.
+
+Her emblem is a bell, and in the Devi Mahatmya the bell protects by its sound alone: the ringing that overwhelms demons reassures the gods. She is pictured with a calm face and weapons in every hand. She isn’t calm first and fierce later. She is both at once, fierce towards harm and serene towards the frightened. Calling her simply “a warrior” misses this. Her strength is often a signal that stops a fight before it has to happen. Readiness, held calmly, is itself a kind of protection.
+
+### Night 4 · Kushmanda · Creation
+What you make carries something of why you made it.
+
+In her story the universe isn’t built by force or labour. It begins with a smile in the dark, and a small warm egg of light. Old Indian philosophy asks why anyone would create at all, and one answer is lila, play: creation out of delight, not need. And Kushmanda doesn’t leave what she made. She lives at the core of the sun, keeping it warm. Our reading is that why you make something shows up in what it becomes, and that making something starts a relationship with it rather than finishing a task.
+
+### Night 5 · Skandamata · Nurture
+True care helps someone grow strong enough to go their own way.
+
+Skanda’s story is full of carers: a fire god, a river, six star-mothers, and Parvati. Each carries him for a while; none of them keeps him. Parvati gathers him close, and then, when the gods need him, she sends him out. In Tamil tradition she arms him with the vel, a spear holding her own power. She’s pictured with the child on her lap, facing outward towards the world. Nurture here means both holding close and getting ready to let go. Good care prepares someone to need you less.
+
+### Night 6 · Katyayani · Courage
+When something is wrong, stand up to it, and stand together.
+
+Mahisha had driven the gods out of heaven, and each of them, alone, had lost. Their shared anger at the injustice blazed out as light and gathered into one form: the Devi. The Devi Mahatmya says she is eternal and simply appears when she is needed. Each god then gave her his own weapon, trusting her with what he couldn’t win alone. In a popular telling (not in the Devi Mahatmya), Mahisha had asked that only a woman could kill him, because he thought no woman could. In this story, courage isn’t the absence of fear. It’s refusing to accept a wrong, and it’s strongest when it’s shared. Often it comes from exactly where the arrogant weren’t looking.
+
+### Night 7 · Kalaratri · Fearlessness
+Face the dark without becoming part of it.
+
+Kalaratri is the darkest form: unbound hair, three blazing eyes, fire on her breath. Yet she’s called Shubhankari, “the one who does good”, and her raised hand says “do not fear”. Her fierceness is aimed at what harms, not at the people she protects. In the Raktabija story, every blow made the demon multiply. Kali didn’t strike harder. She caught each drop before it reached the ground. Fearlessness, in this reading, isn’t fighting the dark louder. It’s facing it steadily, refusing to feed it, and not letting it change you.
+
+### Night 8 · Mahagauri · Renewal
+After a hard time, you can begin again, clearer than before.
+
+In a common devotional telling, Parvati’s long tapas left her covered in the dust and darkness of years outdoors. When Shiva accepted her, he washed her with the waters of the Ganga, and she shone radiant: Mahagauri, “the greatly bright one”. She’s pictured calm, dressed in white, riding a bull, with hands of fearlessness and blessing. Renewal here doesn’t mean pretending the hard time never happened. The tapas made her who she is. What washes away is the weight; what stays is what you learned. She’s linked with calm, forgiveness and fresh starts.
+
+**For the parent:** some tellings frame this as dark skin becoming fair, and in some Shiva teases her about her colour. Tell it as washing away the dust of a hard journey, and name the colour version openly with your child rather than repeating it uncritically.
+
+### Night 9 · Siddhidatri · Wholeness
+You are whole when you know you are part of the whole.
+
+Siddhidatri is the giver of siddhis, perfected powers, and many images show gods and sages bowing to her. In a devotional account, even Shiva received his powers through her and became Ardhanarishvara, half Shiva and half Shakti: one whole. Yet the tradition keeps saying powers are not the goal. The Yoga Sutras warn they can become obstacles, and the Devi Mahatmya calls the Goddess “the cause of liberation”. The deepest gift of the ninth night is a discovery, not a power. In the Devi Gita, the Goddess teaches that the self in every being is one with the infinite, and that knowing this sets you free. An old image for it is a wave discovering it was always the ocean. After eight nights of rootedness, resolve, readiness, creation, nurture, courage, fearlessness and renewal, the journey ends there: not with becoming stronger, but with no longer feeling separate.
 
 ## Night by night
 
