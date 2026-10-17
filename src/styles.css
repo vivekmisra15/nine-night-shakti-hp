@@ -342,6 +342,129 @@ input[type='range'] {
   font-size: 16px;
 }
 
+/* ---------- Parent prep sheet ---------- */
+
+.prep {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.5rem 16px 3rem;
+}
+
+.prep h1 {
+  margin: 1rem 0 0.5rem;
+}
+
+.prep table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.prep th,
+.prep td {
+  padding: 0.5rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}
+
+.prep th {
+  color: var(--gold);
+  font-weight: 600;
+}
+
+/* A stronger line where each night's group starts. */
+.prep tr.first td {
+  border-top: 2px solid var(--border);
+}
+
+.prep td.intense {
+  color: var(--parent);
+  font-weight: 600;
+}
+
+/* On a phone, each row becomes a small card, with its labels shown. */
+@media (max-width: 700px) {
+  .prep thead {
+    display: none;
+  }
+  .prep tr {
+    display: block;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .prep tr.first td {
+    border-top: none;
+  }
+  .prep td {
+    display: block;
+    padding: 0.15rem 0;
+    border: none;
+  }
+  .prep td:empty {
+    display: none;
+  }
+  .prep td[data-label='Book']::before,
+  .prep td[data-label='Film']::before,
+  .prep td[data-label='Intensity']::before,
+  .prep td[data-label='Note']::before {
+    content: attr(data-label) ': ';
+    color: var(--muted);
+  }
+  .prep td[data-label='Night'] {
+    color: var(--gold);
+    font-family: var(--serif);
+    font-size: 1.15rem;
+  }
+}
+
+/* Printed: black on white, landscape, small enough to fit one page. */
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 8mm;
+  }
+  html,
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 9pt;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .prep {
+    max-width: none;
+    padding: 0;
+  }
+  .prep h1 {
+    margin: 0 0 0.2rem;
+    font-size: 13pt;
+  }
+  .prep p {
+    margin: 0 0 0.15rem;
+    font-size: 7.5pt;
+    line-height: 1.3;
+  }
+  .prep table {
+    font-size: 7.2pt;
+    line-height: 1.2;
+  }
+  .prep th,
+  .prep td {
+    padding: 0.1rem 0.3rem;
+    border-color: #999;
+    color: #000;
+  }
+  .prep td[data-label='Intensity'],
+  .prep td[data-label='Night'] {
+    white-space: nowrap;
+  }
+  .prep tr {
+    break-inside: avoid;
+  }
+}
+
 /* ---------- Spoiler notice ---------- */
 
 .notice {
@@ -389,6 +512,28 @@ input[type='range'] {
 .night-devi {
   font-family: var(--serif);
   font-size: 1.35rem;
+}
+
+/* The speaker button that says the Devi's name. */
+.say-name {
+  align-self: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 0;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border-radius: 50%;
+  color: var(--gold);
+}
+
+.say-name-svg {
+  cursor: pointer;
+}
+
+.say-name-svg:focus-visible circle:nth-of-type(2) {
+  stroke-width: 3;
 }
 
 .bell {

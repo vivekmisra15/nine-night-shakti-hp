@@ -3,6 +3,7 @@
 
 import type { MapStop } from '../content/journey';
 import { type Section, sections } from '../engine/steps';
+import { SayName } from './SayName';
 
 interface Props {
   stop: MapStop;
@@ -23,12 +24,11 @@ export function PlayerHeader({ stop, current, available, onSection, onExit, hasP
       </button>
       <div className="night-name">
         <span className="eyebrow">Night {stop.night}</span>
-        {stop.devanagari && (
-          <span className="devanagari" lang="hi">
-            {stop.devanagari}
-          </span>
-        )}
+        <span className="devanagari" lang="hi">
+          {stop.devanagari}
+        </span>
         <span className="night-devi">{stop.devi}</span>
+        <SayName devi={stop.devi} devanagari={stop.devanagari} />
       </div>
       {hasParentNotes && (
         // The key restarts the pulse animation each time it should flash.

@@ -47,7 +47,7 @@ export interface Settings {
   muted: boolean;
   volumes: { music: number; ambience: number; effects: number }; // 0 to 1
   readingPace: ReadingPace; // how long each sentence stays
-  shortPath: boolean; // the night file's short path (about 20 minutes)
+  shortEvening: boolean; // the night file's short evening (about 15 minutes)
   slowMotion: boolean;
 }
 
@@ -58,7 +58,7 @@ export const defaultSettings: Settings = {
   muted: false,
   volumes: { music: 0.8, ambience: 0.6, effects: 0.7 },
   readingPace: 'slower', // a parent is usually reading aloud
-  shortPath: false,
+  shortEvening: false,
   slowMotion: false,
 };
 

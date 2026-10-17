@@ -181,7 +181,6 @@ export interface FollowUp {
 
 export interface ThinkBeat extends BeatBase {
   type: 'think';
-  shortPathSkipsActivity?: boolean; // the short path leaves out this activity
   ladder: LadderStep[];
   followUps: FollowUp[];
   stance: { left: string; right: string; note?: string };
@@ -256,6 +255,9 @@ export interface Night {
   title: string; // e.g. "Shailaputri, daughter of the mountain"
   summary: string;
   atAGlance: LeadText[];
+  // What the short evening (about 15 minutes) leaves out: whole beats by id,
+  // or single steps by step id (e.g. 'n1-b4:choiceAsk'). See src/engine/steps.ts.
+  shortEveningLeavesOut: string[];
   beats: Beat[];
   forTheParent: {
     remember: string[];

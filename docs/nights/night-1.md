@@ -4,12 +4,12 @@ The lesson and the read-aloud script for Night 1. The plan for all nine nights i
 
 # Lesson
 
-Night 1 takes about 23 minutes, or about 20 on the short path. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.
+Night 1 takes about 23 minutes, or about 15 as a short evening. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.
 
 ## At a glance
 
 - **Intensity:** gentle. Sati's death is told gently, as a sacred act and not an example. Read the parent note in Beat 5 before you begin.
-- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, and skip the second scene's activity.
+- **Short evening (about 15 minutes):** the opening, the story (Beats 2, 3, 5, 6 and 8, plus Shiva's warning from Beat 4's set-up, so the first child question still makes sense), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out both choices, the Sorting and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
@@ -292,7 +292,7 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 23 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 23 minutes with discussion, or about 15 as a short evening: on a short evening, skip the second scene (from "Now a second scene" to its activity) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
 ## Part 1: Opening and the story (about 8 minutes)
 
@@ -390,7 +390,7 @@ Remember how Sati felt about being called "Daksha's daughter", and how she came 
 
 **[STANCE LINE: "Who you are is mostly what you choose" or "Who you are is mostly what you were given".]**
 
-**[ACTIVITY (skip on the short path): 2 minutes. You play the Hat and argue for 30 seconds that your child belongs in the house they'd least pick. They answer for 30 seconds. Then swap.]**
+**[ACTIVITY: 2 minutes. You play the Hat and argue for 30 seconds that your child belongs in the house they'd least pick. They answer for 30 seconds. Then swap.]**
 
 ## Part 3: Side by side, today, and closing (about 5 minutes)
 
@@ -423,4 +423,4 @@ And it ends with a beginning. The daughter of the mountain is born. Tomorrow she
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from tonight.]**
 
-**Timing:** about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. The short path takes about 20: two ladder questions per scene, and no second activity.
+**Timing:** about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. A short evening takes about 15: one scene, two ladder questions, and no side by side.

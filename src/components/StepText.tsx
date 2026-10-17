@@ -20,7 +20,7 @@ interface Props {
   theme?: Theme; // the night's theme, shown again at the end
   t: number; // the step clock, for narration
   complete: boolean; // Reading mode
-  shortPath: boolean;
+  shortEvening: boolean;
   cues: Record<string, number>;
   onCue: (name: string) => void;
   onSeek: (t: number) => void;
@@ -111,7 +111,7 @@ function Choice({ beat, step, complete, cues, onCue }: { beat: Extract<Beat, { t
   );
 }
 
-export function StepText({ beat, step, theme, t, complete, shortPath, cues, onCue, onSeek }: Props) {
+export function StepText({ beat, step, theme, t, complete, shortEvening, cues, onCue, onSeek }: Props) {
   const [rung, setRung] = useState(1);
   const [question, setQuestion] = useState(1);
   const [note, setNote] = useSaved(`note:${beat.id}`, '');
@@ -257,12 +257,11 @@ export function StepText({ beat, step, theme, t, complete, shortPath, cues, onCu
       // the left; the stance line and the activity on the right.
       if (beat.type !== 'think') return null;
       const shown = complete ? beat.ladder : beat.ladder.slice(0, rung);
-      const activity = !(shortPath && beat.shortPathSkipsActivity);
       return (
         <div className="think-grid">
           <div>
             <p className="eyebrow">Think it through</p>
-            {shortPath && <p className="muted small">Short path: choose two of these questions.</p>}
+            {shortEvening && <p className="muted small">Short evening: choose two of these questions.</p>}
             <ol className="ladder">
               {shown.map((r) => (
                 <li key={r.step}>
@@ -293,7 +292,7 @@ export function StepText({ beat, step, theme, t, complete, shortPath, cues, onCu
           </div>
           <div>
             <StanceLine id={beat.id} left={beat.stance.left} right={beat.stance.right} note={beat.stance.note} />
-            {activity && <Timer activity={beat.activity} />}
+            <Timer activity={beat.activity} />
           </div>
         </div>
       );

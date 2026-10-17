@@ -62,6 +62,9 @@ export interface OutlineProps {
 export function Outline({ x, y, scale = 1, pose = 'stand', arms = 'rest', head = 'plain', colour = GOLD, opacity = 1, lean = 0, headTilt = 0 }: OutlineProps) {
   // Sitting and kneeling lower the upper body.
   const drop = pose === 'sit' ? 80 : pose === 'kneel' ? 60 : 0;
+  // A crowned figure (Daksha, Himavat) is dressed as an Indian king, as in
+  // temple art: bare chest, shawl and dhoti, rather than a long robe.
+  const royal = head === 'crown';
   const a = armPoints[arms];
   const arm = ([ex, ey, hx, hy]: number[], side: number) => (
     <path d={`M ${side * 28} -230 Q ${ex} ${ey} ${hx} ${hy}`} fill="none" {...line(colour)} />
@@ -70,7 +73,16 @@ export function Outline({ x, y, scale = 1, pose = 'stand', arms = 'rest', head =
     <g transform={`translate(${x} ${y}) scale(${scale})`} opacity={opacity}>
       <g transform={`rotate(${lean} 0 0)`}>
         {/* The lower body: a robe, or a seated or kneeling lap. */}
-        {pose === 'stand' && <path d="M -30 -232 Q -40 -150 -56 0 L 56 0 Q 40 -150 30 -232 Z" fill={FILL} {...line(colour)} />}
+        {pose === 'stand' && !royal && <path d="M -30 -232 Q -40 -150 -56 0 L 56 0 Q 40 -150 30 -232 Z" fill={FILL} {...line(colour)} />}
+        {pose === 'stand' && royal && (
+          <>
+            {/* The dhoti, falling in pleats from the waist to the ankles. */}
+            <path d="M -29 -140 Q -36 -70 -42 0 Q 0 8 42 0 Q 36 -70 29 -140 Z" fill={FILL} {...line(colour)} />
+            <path d="M 2 -134 L 6 0 M 10 -134 L 16 0" fill="none" {...line(colour, 1.2)} opacity={0.7} />
+            {/* The bare chest. */}
+            <path d="M -40 -226 Q -30 -186 -27 -140 L 27 -140 Q 30 -186 40 -226 Q 20 -236 0 -236 Q -20 -236 -40 -226 Z" fill={FILL} {...line(colour)} />
+          </>
+        )}
         {pose === 'sit' && (
           <path d="M -100 0 Q -92 -48 -40 -62 Q -36 -110 -30 -152 L 30 -152 Q 36 -110 40 -62 Q 92 -48 100 0 Z" fill={FILL} {...line(colour)} />
         )}
@@ -78,8 +90,12 @@ export function Outline({ x, y, scale = 1, pose = 'stand', arms = 'rest', head =
           <path d="M -56 0 Q -66 -40 -34 -66 Q -40 -120 -30 -172 L 30 -172 Q 42 -120 40 -68 Q 76 -30 66 0 Z" fill={FILL} {...line(colour)} />
         )}
         <g transform={`translate(0 ${drop})`}>
-          {/* A fold of cloth across the body, for a little life. */}
-          <path d="M -26 -226 Q 0 -160 36 -116" fill="none" {...line(colour, 1.2)} opacity={0.7} />
+          {royal ? (
+            <RoyalDress colour={colour} />
+          ) : (
+            // A fold of cloth across the body, for a little life.
+            <path d="M -26 -226 Q 0 -160 36 -116" fill="none" {...line(colour, 1.2)} opacity={0.7} />
+          )}
           {arm(a.l, -1)}
           {arm(a.r, 1)}
           <g transform={`rotate(${headTilt} 0 -238)`}>
@@ -87,6 +103,20 @@ export function Outline({ x, y, scale = 1, pose = 'stand', arms = 'rest', head =
           </g>
         </g>
       </g>
+    </g>
+  );
+}
+
+// A king's jewellery and cloth, drawn over the body in any pose: two
+// necklaces, the shawl (uttariya) over both shoulders with its ends falling
+// beside the arms, and a sash knotted at the waist.
+function RoyalDress({ colour }: { colour: string }) {
+  return (
+    <g fill="none">
+      <path d="M -16 -230 Q 0 -206 16 -230" {...line(colour, 1.4)} />
+      <path d="M -22 -230 Q 0 -184 22 -230" {...line(colour, 1.2)} strokeDasharray="1 5" />
+      <path d="M -30 -230 Q -46 -200 -50 -146 M 30 -230 Q 46 -200 50 -146" {...line(colour, 1.4)} />
+      <path d="M -28 -142 Q 0 -132 28 -142 M -4 -137 Q -10 -112 -6 -90" {...line(colour, 1.4)} />
     </g>
   );
 }
@@ -109,7 +139,24 @@ function OutlineHead({ head, colour }: { head: Head; colour: string }) {
     <g fill={FILL}>
       {head === 'veiled' && <path d={`M -26 ${cy + 46} Q -32 ${cy - 30} 0 ${cy - 30} Q 32 ${cy - 30} 26 ${cy + 46}`} fill="none" {...line(colour, 1.4)} />}
       <ellipse cx={0} cy={cy} rx={18} ry={22} {...line(colour)} />
-      {head === 'crown' && <path d={`M -16 ${cy - 16} L -13 ${cy - 42} L -5 ${cy - 30} L 0 ${cy - 50} L 5 ${cy - 30} L 13 ${cy - 42} L 16 ${cy - 16}`} fill="none" {...line(colour)} />}
+      {head === 'crown' && (
+        // A kirita mukuta, the tall tapering crown of kings in Indian temple
+        // art: a jewelled band, tiers narrowing to a small finial, flares at
+        // the sides, and round earrings (kundalas).
+        <>
+          {/* The crown: a tall, rounded dome with one tier, and a small finial. */}
+          <path d={`M -18 ${cy - 14} Q -22 ${cy - 36} -14 ${cy - 50} Q -8 ${cy - 59} 0 ${cy - 60} Q 8 ${cy - 59} 14 ${cy - 50} Q 22 ${cy - 36} 18 ${cy - 14} Q 0 ${cy - 19} -18 ${cy - 14} Z`} {...line(colour)} />
+          <path d={`M -19 ${cy - 33} Q 0 ${cy - 39} 19 ${cy - 33}`} fill="none" {...line(colour, 1.2)} />
+          <circle cx={0} cy={cy - 64} r={3.5} {...line(colour, 1.2)} />
+          {/* Petal points along the jewelled band, with a gem at the centre. */}
+          <path d={`M -14 ${cy - 17} L -10 ${cy - 27} L -6 ${cy - 18} M 6 ${cy - 18} L 10 ${cy - 27} L 14 ${cy - 17}`} fill="none" {...line(colour, 1.2)} />
+          <circle cx={0} cy={cy - 25} r={3.5} {...line(colour, 1.2)} />
+          {/* Small flares behind the ears. */}
+          <path d={`M -18 ${cy - 12} Q -27 ${cy - 15} -26 ${cy - 25} M 18 ${cy - 12} Q 27 ${cy - 15} 26 ${cy - 25}`} fill="none" {...line(colour, 1.2)} />
+          <circle cx={-19} cy={cy + 10} r={4.5} fill="none" {...line(colour, 1.2)} />
+          <circle cx={19} cy={cy + 10} r={4.5} fill="none" {...line(colour, 1.2)} />
+        </>
+      )}
       {head === 'topknot' && <circle cx={0} cy={cy - 30} r={8} {...line(colour)} />}
       {head === 'wild' && (
         // Shiva's attendants: wild, flowing hair.

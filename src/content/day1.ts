@@ -11,21 +11,26 @@ export const day1: Night = {
   devi: 'Shailaputri',
   title: 'Shailaputri, daughter of the mountain',
   summary:
-    "Night 1 takes about 23 minutes, or about 20 on the short path. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.",
+    "Night 1 takes about 23 minutes, or about 15 as a short evening. Its question: what do you do when your own family scorns someone you love? The night tells Sati's story and Shailaputri's new beginning, then two Harry Potter scenes: Aunt Marge's dinner and the Sorting.",
   atAGlance: [
     {
       lead: 'Intensity',
       text: "gentle. Sati's death is told gently, as a sacred act and not an example. Read the parent note in Beat 5 before you begin.",
     },
     {
-      lead: 'Short path (about 20 minutes)',
-      text: "ask two of the six ladder questions per scene, and skip the second scene's activity.",
+      lead: 'Short evening (about 15 minutes)',
+      text: "the opening, the story (Beats 2, 3, 5, 6 and 8, plus Shiva's warning from Beat 4's set-up, so the first child question still makes sense), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out both choices, the Sorting and its Think it through, and Side by side.",
     },
     {
       lead: 'Labels',
       text: 'every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.',
     },
   ],
+
+  // The short evening leaves these out. Each entry is a whole beat ('n1-b7')
+  // or one step of a beat ('n1-b4:choiceAsk'). Beat 4's set-up stays, because
+  // it holds Shiva's warning, which the first Reflect question asks about.
+  shortEveningLeavesOut: ['n1-b4:choiceAsk', 'n1-b4:choiceReveal', 'n1-b7', 'n1-b12', 'n1-b13', 'n1-b14'],
 
   beats: [
     // -----------------------------------------------------------------------
@@ -446,7 +451,6 @@ export const day1: Night = {
       sourceRows: [12, 13],
       number: 13,
       type: 'think',
-      shortPathSkipsActivity: true, // "skip the second scene's activity"
       title: 'Think it through',
       label: 'comparison',
       minutes: 3,
@@ -695,7 +699,7 @@ export const day1: Night = {
   // -------------------------------------------------------------------------
   readAloud: {
     intro:
-      'Read it straight through, or use it alongside the app. It runs about 23 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.',
+      'Read it straight through, or use it alongside the app. It runs about 23 minutes with discussion, or about 15 as a short evening: on a short evening, skip the second scene (from "Now a second scene" to its activity) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.',
     blocks: [
       { kind: 'heading', text: 'Part 1: Opening and the story (about 8 minutes)' },
       {
@@ -864,7 +868,7 @@ export const day1: Night = {
       },
       {
         kind: 'parent',
-        text: "ACTIVITY (skip on the short path): 2 minutes. You play the Hat and argue for 30 seconds that your child belongs in the house they'd least pick. They answer for 30 seconds. Then swap.",
+        text: "ACTIVITY: 2 minutes. You play the Hat and argue for 30 seconds that your child belongs in the house they'd least pick. They answer for 30 seconds. Then swap.",
       },
 
       { kind: 'heading', text: 'Part 3: Side by side, today, and closing (about 5 minutes)' },
@@ -918,6 +922,6 @@ export const day1: Night = {
       },
     ],
     timing:
-      'about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. The short path takes about 20: two ladder questions per scene, and no second activity.',
+      'about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. A short evening takes about 15: one scene, two ladder questions, and no side by side.',
   },
 };

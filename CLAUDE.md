@@ -91,7 +91,7 @@ The order of a night: opening → story beats (with choices) → the theme (the 
 
 **Narration display.** Narrated text (stories and Harry Potter retellings) appears sentence by sentence: the current sentence bright, the one or two before it dimmed. Earlier sentences slide up only when a new sentence starts, never as a continuous scroll. Tapping a dimmed sentence, or dragging the progress bar, moves text and animation together. A **Reading pace** setting offers Relaxed, Slower (the default, for reading aloud) and Tap to continue.
 
-**Short path / Full night.** A switch applies the night file's short path (for example fewer ladder questions, no second activity).
+**Short evening / Full night.** A switch gives a short evening of about 15 minutes, as the night file describes: the story without its choices, the theme, the first Harry Potter scene with its Think it through, and Reflect.
 
 Each beat's content also carries the direction values from `docs/direction/night-N.md` (for example `intensity` from 1 to 10, `palette`, `camera` and `music`), which the visuals and the adaptive score read.
 
@@ -107,7 +107,11 @@ Each beat's content also carries the direction values from `docs/direction/night
 | C | context and sources panel |
 | M | music on or off |
 
-The same actions need on-screen buttons so everything works on a phone. The header has the way back to the map, the night's name, the parent-note bell and a section strip (Enter · Story · Choices · Ideas · Harry Potter · Compare · Reflect). The bottom bar has back, play/pause, replay, a progress bar with the time, the step count, the Short path / Full night switch, music and volume, Text, Context, a settings menu and Next. Don't put letter badges on the section strip: they would clash with the keys above. **Reading mode** turns animation off and shows every beat complete. It switches on automatically when the device asks for reduced motion. There are independent volume sliders for music, ambience and effects, plus mute and captions. Make the layout work from phone width (about 360 px) to desktop.
+The same actions need on-screen buttons so everything works on a phone. The header has the way back to the map, the night's name, the parent-note bell and a section strip (Enter · Story · Choices · Ideas · Harry Potter · Compare · Reflect). The bottom bar has back, play/pause, replay, a progress bar with the time, the step count, the Short evening / Full night switch, music and volume, Text, Context, a settings menu and Next. Don't put letter badges on the section strip: they would clash with the keys above. **Reading mode** turns animation off and shows every beat complete. It switches on automatically when the device asks for reduced motion. There are independent volume sliders for music, ambience and effects, plus mute and captions. Make the layout work from phone width (about 360 px) to desktop.
+
+**Hearing the Devi's name.** A small speaker button beside each Devi's name (map and night header) says the name, using the device's own offline Hindi voice reading the Devanagari spelling from `docs/NINE_NIGHTS_CONTENT.md`. Use only voices that run on the device; if there is none, hide the button. No other text is spoken.
+
+**Parent prep sheet.** A printable page, opened from the map, lists every Harry Potter scene of the nine nights (book, chapter, film, intensity), copied from `docs/PARENT_PREP.md`.
 
 ## Visuals
 

@@ -50,7 +50,7 @@ function pictureFloor(step: Step, beat: Beat) {
   return 0;
 }
 
-// Find a step by id; if it no longer exists (the short path left it out),
+// Find a step by id; if it no longer exists (the short evening left it out),
 // the first step of the same beat or a later one.
 function findStep(steps: Step[], night: Night, id: string | undefined) {
   const exact = steps.findIndex((s) => s.id === id);
@@ -66,7 +66,7 @@ export function NightPlayer(props: Props) {
   // The reading pace is shared by the text, the pictures and the music.
   setReadingPace(settings.readingPace);
 
-  const steps = useMemo(() => buildSteps(night), [night]);
+  const steps = useMemo(() => buildSteps(night, settings.shortEvening), [night, settings.shortEvening]);
   const [stepId, setStepId] = useState(props.startStepId ?? steps[0].id);
   const index = findStep(steps, night, stepId);
   const step = steps[index];
@@ -219,7 +219,7 @@ export function NightPlayer(props: Props) {
   );
 
   const text = (
-    <StepText beat={beat} step={step} theme={theme} t={clock.t} complete={reading} shortPath={settings.shortPath} cues={cues} onCue={onCue} onSeek={clock.seek} />
+    <StepText beat={beat} step={step} theme={theme} t={clock.t} complete={reading} shortEvening={settings.shortEvening} cues={cues} onCue={onCue} onSeek={clock.seek} />
   );
 
   return (

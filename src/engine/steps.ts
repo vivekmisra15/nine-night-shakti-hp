@@ -57,8 +57,9 @@ function openingGroups(beat: Beat) {
 }
 export { openingGroups };
 
-// (The short path changes what some steps show, not which steps there are.)
-export function buildSteps(night: Night): Step[] {
+// On a short evening, the steps the night leaves out (night.shortEveningLeavesOut)
+// are dropped. A choice's set-up that stays is shown as part of the story.
+export function buildSteps(night: Night, shortEvening = false): Step[] {
   const steps: Step[] = [];
   night.beats.forEach((beat, beatIndex) => {
     const add = (kind: StepKind, section: Section, part = 0, textLed = false) =>
@@ -90,7 +91,6 @@ export function buildSteps(night: Night): Step[] {
         break;
       case 'think':
         // One step: everything for the discussion on one full-width screen.
-        // (The short path leaves out the activity on that screen.)
         add('think', 'Harry Potter', 0, true);
         break;
       case 'comparison':
@@ -107,7 +107,9 @@ export function buildSteps(night: Night): Step[] {
         break;
     }
   });
-  return steps;
+  if (!shortEvening) return steps;
+  const leftOut = (step: Step) => night.shortEveningLeavesOut.some((id) => step.id === id || step.id.startsWith(`${id}:`));
+  return steps.filter((step) => !leftOut(step)).map((step) => (step.section === 'Choices' ? { ...step, section: 'Story' } : step));
 }
 
 // Is this step's text narrated (timed sentence by sentence)?

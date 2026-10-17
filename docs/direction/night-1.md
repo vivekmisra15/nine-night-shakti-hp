@@ -52,7 +52,7 @@ Status: approved 16 October 2026; revised 17 October 2026 after the first build.
 
 ### Steps, and where each screen's words come from
 
-All text comes from `docs/nights/night-1.md` unless noted. Steps marked *(full night)* are left out on the short path.
+All text comes from `docs/nights/night-1.md` unless noted. Steps marked *(full night)* are left out on a short evening.
 
 | Section | Step | Content |
 | --- | --- | --- |
@@ -60,30 +60,30 @@ All text comes from `docs/nights/night-1.md` unless noted. Steps marked *(full n
 | | 1.2 | **Regional traditions** and **Contemporary** |
 | Story | 2 | Beat 2 narration |
 | | 3 | Beat 3 narration |
-| Choices | 4.1 | Beat 4 set-up |
-| | 4.2 | The question, four options with acknowledgements |
-| | 4.3 | What happens: "Sati went." |
+| Choices | 4.1 | Beat 4 set-up (kept on a short evening, in the Story section, for Shiva's warning) |
+| | 4.2 | The question, four options with acknowledgements *(full night)* |
+| | 4.3 | What happens: "Sati went." *(full night)* |
 | Story | 5 | Beat 5 narration (parent bell pulses at the start and before the flame sentence) |
 | | 6 | Beat 6 narration |
-| Choices | 7.1 | Beat 7 question and options with acknowledgements |
-| | 7.2 | What happens |
+| Choices | 7.1 | Beat 7 question and options with acknowledgements *(full night)* |
+| | 7.2 | What happens *(full night)* |
 | Story | 8.1 | Beat 8 narration |
 | | 8.2 | The five symbols (one meaning at a time) |
 | | 8.3 | "Did you know?" |
 | Ideas | 9 | **What the story is about:** the night's one core idea, its theme from Beat 9. The word large (*Rootedness*), then the idea (*What you are rooted in can survive what you lose.*); "Go further" opens the description. Labelled interpretation. |
 | Harry Potter | 10.1 | Aunt Marge: the retelling, narrated with the scene's animation (each moment on its sentence), with the reference, "find the scene" and the film note (a fold-out) underneath |
 | | 10.2 | The connection, full width: what is similar, what is different, why it helps, and its strength |
-| | 11 | Think it through, full width, one screen: the ladder one rung at a time (short path: "choose two") and the parent follow-ups on the left; the stance line and the activity, three seconds before, on the right |
-| | 12.1–12.2 | The Sorting, in the same two steps as 10 |
-| | 13 | Think it through, as 11; the activity, the Hat's other speech, is left out on the short path |
-| Compare | 14 | Side by side: questions one at a time, and what doesn't compare |
+| | 11 | Think it through, full width, one screen: the ladder one rung at a time (short evening: "choose two") and the parent follow-ups on the left; the stance line and the activity, three seconds before, on the right |
+| | 12.1–12.2 | The Sorting, in the same two steps as 10 *(full night)* |
+| | 13 | Think it through, as 11, with the activity, the Hat's other speech *(full night)* |
+| Compare | 14 | Side by side: questions one at a time, and what doesn't compare *(full night)* |
 | Reflect | 15 | Today: the joke at the family dinner, with its perspectives (full width) |
 | | 16.1 | Talk about it: the together question large, the two questions for the child, "Go deeper" in a drawer, and the private note (full width) |
 | | 16.2 | The theme again: the word and the idea, and "Tomorrow" (full width); then Finish and the closing |
 
 **The closing** (after step 16.2, about 13 seconds): dawn rises over the mountain, and the theme's word and idea fade in large over it and hold long enough to read. Then the flame becomes a spark, and the map appears with diya 1 lit.
 
-That gives 25 steps on the full night and on the short path (the short path changes what some steps show, not how many there are).
+That gives 25 steps on the full night and 17 on a short evening (about 15 minutes).
 
 
 

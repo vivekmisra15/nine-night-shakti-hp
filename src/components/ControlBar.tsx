@@ -83,10 +83,10 @@ export function ControlBar(p: Props) {
 
       <div className="bar-group">
         <div className="toggle bar-wide" role="group" aria-label="Length of the night">
-          <button aria-pressed={settings.shortPath} onClick={() => set({ shortPath: true })}>
-            Short path
+          <button aria-pressed={settings.shortEvening} onClick={() => set({ shortEvening: true })}>
+            Short evening
           </button>
-          <button aria-pressed={!settings.shortPath} onClick={() => set({ shortPath: false })}>
+          <button aria-pressed={!settings.shortEvening} onClick={() => set({ shortEvening: false })}>
             Full night
           </button>
         </div>

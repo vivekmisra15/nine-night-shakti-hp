@@ -33,11 +33,11 @@ export function SettingsPanel({ settings, onChange, deviceReducedMotion, onClose
       <fieldset>
         <legend>Length of the night</legend>
         <label className="option">
-          <input type="radio" name="length" checked={settings.shortPath} onChange={() => set({ shortPath: true })} />
-          Short path
+          <input type="radio" name="length" checked={settings.shortEvening} onChange={() => set({ shortEvening: true })} />
+          Short evening
         </label>
         <label className="option">
-          <input type="radio" name="length" checked={!settings.shortPath} onChange={() => set({ shortPath: false })} />
+          <input type="radio" name="length" checked={!settings.shortEvening} onChange={() => set({ shortEvening: false })} />
           Full night
         </label>
       </fieldset>

@@ -29,6 +29,8 @@ Each night starts with the Devi's story, finds the *decision* inside it, and onl
 5. Questions for the child, "go deeper" questions, and one for parent and child together, plus one 5–15 minute thinking activity.
 6. A short note for the parent, with sources and confidence.
 
+**Short evening (about 15 minutes):** a switch in the app gives a shorter night: the opening, the story without its choices, the theme, the first Harry Potter scene with its Think it through (two ladder questions), and Reflect. Each night file says exactly what its short evening keeps. (This replaces the older "short path"; Nights 2–9 still describe a short path and will be updated as each is built.)
+
 **Labels on every claim**
 
 - **Tradition:** the account in a named text or regional tradition (e.g. Devi Mahatmya ch. 2, Shiva Purana, Bhagavata Purana, the Tamil Kanda Puranam).
@@ -67,6 +69,20 @@ Molly Weasley appears on two nights (3 and 5) for different choices. She is not 
 | 7 | Kalaratri | A terrifying form with protective hands; facing fear | The boggart lesson and Lupin's talk with Harry (PoA 7–8) | Snape's memories reveal what he protected (DH 33) | Strong | Some peril; second scene intense |
 | 8 | Mahagauri | Restoration after long effort; renewal | Kreacher changes after Harry's kindness (DH 10, 12; book only) | Ron returns and destroys the locket (DH 19) | Partial to strong | Gentle; some peril |
 | 9 | Siddhidatri | Power as a gift; the right relationship with power | Harry lays down the Elder Wand (DH 35–36; film differs) | Only someone who wants the Stone but not to use it can find it (PS 17) | Strong | Gentle |
+
+**The names in Devanagari (for Supriya to check).** Tapping a Devi's name in the app says it aloud, using the device's own offline Hindi voice to read this spelling. Nothing is sent anywhere.
+
+| Night | Devi | Devanagari |
+| --- | --- | --- |
+| 1 | Shailaputri | शैलपुत्री |
+| 2 | Brahmacharini | ब्रह्मचारिणी |
+| 3 | Chandraghanta | चन्द्रघण्टा |
+| 4 | Kushmanda | कूष्माण्डा |
+| 5 | Skandamata | स्कन्दमाता |
+| 6 | Katyayani | कात्यायनी |
+| 7 | Kalaratri | कालरात्रि |
+| 8 | Mahagauri | महागौरी |
+| 9 | Siddhidatri | सिद्धिदात्री |
 
 ## The nine themes (agreed 17 October 2026)
 

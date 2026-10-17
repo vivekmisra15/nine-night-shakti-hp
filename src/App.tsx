@@ -1,6 +1,6 @@
-// The app's screens: the opening splash, the nine-night map, the spoiler
-// notice (once, before the series starts), the night player, and the
-// night's closing.
+// The app's screens: the opening splash, the nine-night map, the parent prep
+// sheet, the spoiler notice (once, before the series starts), the night
+// player, and the night's closing.
 
 import { useCallback, useEffect, useState } from 'react';
 import { unlock, useSplashMusic } from './audio';
@@ -9,6 +9,7 @@ import type { BeatScore } from './audio/score';
 import { ClosingScreen } from './components/ClosingScreen';
 import { NightMap } from './components/NightMap';
 import { NightPlayer } from './components/NightPlayer';
+import { PrepSheet } from './components/PrepSheet';
 import { SplashScreen } from './components/SplashScreen';
 import { SpoilerScreen } from './components/SpoilerScreen';
 import { day1 } from './content/day1';
@@ -25,6 +26,7 @@ const nights: Record<number, { night: Night; score: Record<string, BeatScore> }>
 type Screen =
   | { name: 'splash' }
   | { name: 'map' }
+  | { name: 'prep' }
   | { name: 'notice'; night: number }
   | { name: 'night'; night: number }
   | { name: 'closing'; night: number };
@@ -65,13 +67,17 @@ export default function App() {
     };
   }, []);
 
-  // Calm music under the splash and the map.
-  useSplashMusic(settings, screen.name === 'splash' || screen.name === 'map');
+  // Calm music under the splash, the map and the prep sheet.
+  useSplashMusic(settings, screen.name === 'splash' || screen.name === 'map' || screen.name === 'prep');
 
   const backToMap = useCallback(() => setScreen({ name: 'map' }), []);
 
   if (screen.name === 'splash') {
     return <SplashScreen settings={settings} onSettings={setSettings} reading={reading} onBegin={backToMap} />;
+  }
+
+  if (screen.name === 'prep') {
+    return <PrepSheet onBack={backToMap} />;
   }
 
   if (screen.name === 'closing') {
@@ -125,6 +131,7 @@ export default function App() {
       completed={progress.completedNights}
       settings={settings}
       onSettings={setSettings}
+      onPrep={() => setScreen({ name: 'prep' })}
       onOpen={(night) => setScreen(progress.seenSpoiler ? { name: 'night', night } : { name: 'notice', night })}
     />
   );
