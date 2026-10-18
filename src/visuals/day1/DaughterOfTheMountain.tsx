@@ -4,7 +4,8 @@
 //   Sentence 1   the signature flame relights on the highest peak; the
 //                camera orbits as it blooms into a lotus of light
 //   Sentences 2–3 the lotus descends and settles as Shailaputri: the flame,
-//                calm and breathing slowly. She is formless; her five symbols
+//                calm and breathing slowly, with a faint outline of head and
+//                shoulders within it (never a body); her five symbols
 //                (bull, trident, lotus, crescent moon, mountain) appear around
 //                her as small gold outline icons
 //   Sentence 4   the full picture (freeze-frame); the symbols become
@@ -12,7 +13,7 @@
 //   Sentence 5   far away, Shiva's silver light rests on a distant peak
 
 import { easeInOut, lerp, progress, wobble } from '../../engine/anim';
-import { DivineLight, Outline, SymbolIcon, type SymbolName } from '../figures';
+import { DeviOutline, DivineLight, Outline, SymbolIcon, type SymbolName } from '../figures';
 import { palettes } from '../palettes';
 import { cameraFor, fadeIn, Flame, Glow, Haze, Layer, LightLotus, LightRays, Lotus, mixCam, Particles, Ridge, Sky, Stage } from '../shared';
 import type { VisualProps } from '../types';
@@ -22,7 +23,7 @@ const h = palettes.himalayanDawn;
 
 // Where each symbol icon sits, around her flame. The mountain is the high
 // peak itself, so it has no icon of its own.
-const iconPlaces: Record<Exclude<SymbolName, 'mountain'>, { x: number; y: number }> = {
+const iconPlaces: Record<Extract<SymbolName, 'moon' | 'trident' | 'lotus' | 'bull'>, { x: number; y: number }> = {
   moon: { x: 800, y: 420 },
   trident: { x: 620, y: 560 },
   lotus: { x: 980, y: 560 },
@@ -98,6 +99,8 @@ export function DaughterOfTheMountain({ beat, t, frozen, complete, onCue, pulse 
             around her as small gold outline icons. */}
         <g transform={`translate(800 600) scale(${breathe}) translate(-800 -600)`}>
           <DivineLight x={800} y={640} t={t} kind="warm" size={1.3} pulse={pulse} />
+          {/* Her light-touch silhouette, faint within the light once she has settled. */}
+          <DeviOutline x={800} y={560} size={1.5} opacity={0.32 * fadeIn(t, at(3), 3)} />
           {(Object.keys(iconPlaces) as (keyof typeof iconPlaces)[]).map((name) => (
             <SymbolIcon key={name} name={name} x={iconPlaces[name].x} y={iconPlaces[name].y} size={1.55} colour="#A8741F" />
           ))}

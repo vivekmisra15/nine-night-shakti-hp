@@ -144,12 +144,12 @@ export const day1Score: Record<string, BeatScore> = {
     events: [
       { when: { at: 0 }, play: 'pageTurn', caption: 'low woodwind; a ticking clock' },
       // Moments follow the retelling's sentences (counting from 0).
-      { when: { line: 5 }, set: { layers: ['drone', 'motif', 'percussion'] }, caption: 'pizzicato strings, tightening' }, // "she turns on his parents"
-      { when: { line: 7 }, set: { layers: ['drone', 'motif', 'percussion', 'strings'] }, caption: 'strings climbing' },
-      { when: { line: 9, offset: 1 }, play: 'outburst', caption: 'a sharp rising swell' }, // "his magic escapes him"
-      { when: { line: 9, offset: 3.5 }, set: { layers: ['drone'], silence: 2, details: [] }, caption: 'silence' },
-      { when: { line: 10 }, set: { layers: ['drone', 'motif'], motifVoice: 'harp' }, caption: 'a lone harp' }, // "Harry drags his trunk"
-      { when: { line: 11 }, set: { motifVoice: 'celesta' }, caption: 'soft bells' },
+      { when: { line: 3 }, set: { layers: ['drone', 'motif', 'percussion'] }, caption: 'pizzicato strings, tightening' }, // "she turns on his parents"
+      { when: { line: 4 }, set: { layers: ['drone', 'motif', 'percussion', 'strings'] }, caption: 'strings climbing' },
+      { when: { line: 5, offset: 1 }, play: 'outburst', caption: 'a sharp rising swell' }, // "his magic escapes him"
+      { when: { line: 5, offset: 3.5 }, set: { layers: ['drone'], silence: 2, details: [] }, caption: 'silence' },
+      { when: { line: 6 }, set: { layers: ['drone', 'motif'], motifVoice: 'harp' }, caption: 'a lone harp' }, // "Harry drags his trunk"
+      { when: { line: 7 }, set: { motifVoice: 'celesta' }, caption: 'soft bells' },
     ],
   },
 
@@ -165,9 +165,9 @@ export const day1Score: Record<string, BeatScore> = {
     start: { motifVoice: 'celesta', layers: ['drone', 'motif'] },
     events: [
       { when: { at: 0 }, caption: 'celesta-like bells' },
-      { when: { line: 6 }, set: { layers: ['drone', 'motif', 'strings'] }, caption: 'soft strings and harp at the moment of choice' }, // "not Slytherin"
-      { when: { line: 8 }, set: { layers: ['drone', 'motif'], motifVoice: 'harp', details: ['birds'] }, caption: 'solo harp; morning birds' }, // "A year later"
-      { when: { line: 10 }, set: { motifVoice: 'clarinet' }, caption: 'a low clarinet' },
+      { when: { line: 3 }, set: { layers: ['drone', 'motif', 'strings'] }, caption: 'soft strings and harp at the moment of choice' }, // "not Slytherin"
+      { when: { line: 5 }, set: { layers: ['drone', 'motif'], motifVoice: 'harp', details: ['birds'] }, caption: 'solo harp; morning birds' }, // "A year later"
+      { when: { line: 6 }, set: { motifVoice: 'clarinet' }, caption: 'a low clarinet' },
     ],
   },
 
@@ -198,9 +198,3 @@ export const day1Score: Record<string, BeatScore> = {
   },
 };
 
-// Captions for the closing animation.
-export const closingCaptions = [
-  { at: 0, text: 'the flute falls home' },
-  { at: 4.2, text: 'a temple bell' },
-  { at: 6, text: 'the drone fades to silence' },
-];

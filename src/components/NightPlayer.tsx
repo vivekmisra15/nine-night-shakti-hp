@@ -66,7 +66,8 @@ export function NightPlayer(props: Props) {
   // The reading pace is shared by the text, the pictures and the music.
   setReadingPace(settings.readingPace);
 
-  const steps = useMemo(() => buildSteps(night, settings.shortEvening), [night, settings.shortEvening]);
+  const gentle = settings.gentleScenes.includes(night.number);
+  const steps = useMemo(() => buildSteps(night, { shortEvening: settings.shortEvening, gentle }), [night, settings.shortEvening, gentle]);
   const [stepId, setStepId] = useState(props.startStepId ?? steps[0].id);
   const index = findStep(steps, night, stepId);
   const step = steps[index];
@@ -218,8 +219,28 @@ export function NightPlayer(props: Props) {
     />
   );
 
+  // Nights 2, 3 and 7 offer a gentle alternative to an intense Harry Potter
+  // scene; the parent picks one on the night's first screen (or in Settings).
+  const gentleScene = night.beats.find((b) => b.type === 'sceneIntro' && b.gentleFor);
+  const intenseScene = gentleScene?.type === 'sceneIntro' ? night.beats.find((b) => b.id === gentleScene.gentleFor) : undefined;
+  const setGentle = (on: boolean) =>
+    set({ gentleScenes: on ? [...settings.gentleScenes.filter((n) => n !== night.number), night.number] : settings.gentleScenes.filter((n) => n !== night.number) });
+  const sceneChoice = gentleScene && intenseScene ? { intense: intenseScene.title, gentle: gentleScene.title, onChange: setGentle } : undefined;
+
   const text = (
-    <StepText beat={beat} step={step} theme={theme} t={clock.t} complete={reading} shortEvening={settings.shortEvening} cues={cues} onCue={onCue} onSeek={clock.seek} />
+    <StepText
+      beat={beat}
+      step={step}
+      theme={theme}
+      t={clock.t}
+      complete={reading}
+      shortEvening={settings.shortEvening}
+      gentle={gentle}
+      sceneChoice={sceneChoice}
+      cues={cues}
+      onCue={onCue}
+      onSeek={clock.seek}
+    />
   );
 
   return (

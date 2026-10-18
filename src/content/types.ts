@@ -22,16 +22,10 @@ export type Label =
 // adaptive score read these.
 // ---------------------------------------------------------------------------
 
-// Colour palettes named in the direction brief. Hex values live in the visuals.
-export type PaletteKey =
-  | 'kailasa'
-  | 'dakshaCourt'
-  | 'grief'
-  | 'himalayanDawn'
-  | 'reflective'
-  | 'hogwartsDinner'
-  | 'greatHall'
-  | 'split'; // two palettes side by side (Night 1, Beat 14)
+// A colour palette named in the direction brief (e.g. 'kailasa'), or 'split'
+// for two palettes side by side (Night 1, Beat 14). The colours live in
+// src/visuals/palettes.ts and each night's src/visuals/dayN/palettes.ts.
+export type PaletteKey = string;
 
 export type CameraMove =
   | 'still'
@@ -44,7 +38,7 @@ export type CameraMove =
   | 'crane'
   | 'drift';
 
-export type Raga = 'bhupali' | 'bageshri' | 'marwa' | 'yaman';
+export type Raga = 'bhupali' | 'bageshri' | 'marwa' | 'yaman' | 'malkauns' | 'durga' | 'bhairav';
 
 // The score is built in layers; each beat says which are active.
 export type MusicLayer = 'drone' | 'motif' | 'percussion' | 'strings' | 'climax' | 'resolution';
@@ -138,7 +132,13 @@ export interface ChoiceBeat extends BeatBase {
   setup?: string;
   ask: string;
   options: ChoiceOption[];
-  whatHappens: string;
+  // What happened. Left out when the next story beat is the answer (e.g.
+  // Night 9, Beat 6), so there is no reveal step.
+  whatHappens?: string;
+  // On a short evening the question is skipped and the set-up and what
+  // happened are shown as story. If whatHappens leans on the options (e.g.
+  // "some of the last two"), it starts at this sentence instead.
+  shortEveningFrom?: string;
   activity?: Activity;
 }
 
@@ -156,6 +156,9 @@ export interface IdeaBeat extends BeatBase {
 
 export interface SceneIntroBeat extends BeatBase {
   type: 'sceneIntro';
+  // A gentle alternative names the intense scene it can replace (e.g.
+  // 'n2-b13'). The parent chooses one of the two at the start of the night.
+  gentleFor?: string;
   reference: string; // book, chapter and film
   findScene: LeadText; // there are no video links; families find the scene themselves
   filmNote?: string;
@@ -166,6 +169,7 @@ export interface SceneIntroBeat extends BeatBase {
     different: string[];
     whyItHelps: string;
     strength: { rating: 'strong' | 'partial' | 'speculative'; text: string };
+    themeLink: string; // "Link to the theme": the narrative hook to the night's theme
   };
 }
 
@@ -179,12 +183,21 @@ export interface FollowUp {
   tryAsking: string;
 }
 
+export interface Stance {
+  left: string;
+  right: string;
+  note?: string;
+}
+
 export interface ThinkBeat extends BeatBase {
   type: 'think';
   ladder: LadderStep[];
   followUps: FollowUp[];
-  stance: { left: string; right: string; note?: string };
+  stance: Stance;
   activity: Activity;
+  // When the family chose the gentle alternative scene, these replace the
+  // parts that only fit the intense scene. Anything left out stays the same.
+  gentle?: { ladder?: LadderStep[]; followUps?: FollowUp[]; stance?: Stance; activity?: Activity };
 }
 
 export interface ComparisonBeat extends BeatBase {
@@ -192,6 +205,20 @@ export interface ComparisonBeat extends BeatBase {
   intro: string;
   questions: string[]; // revealed one at a time
   doesntCompare: string; // always shown
+  // With the gentle alternative scene: the full question list and box to use
+  // instead (the docs' "With the gentle alternative" lines swapped in).
+  gentle?: { questions?: string[]; doesntCompare?: string };
+}
+
+// Night 9 only: a look back over the nine nights, closing the series.
+export interface LookBackBeat extends BeatBase {
+  type: 'lookBack';
+  diyasIntro: string; // "Light the diyas…"
+  nights: { night: number; devi: string; word: string; idea: string }[];
+  threadsIntro: string; // "Pick two:"
+  threads: LeadText[];
+  honesty: string; // the honesty check
+  activity: Activity;
 }
 
 export interface TodaySituation {
@@ -214,7 +241,7 @@ export interface ReflectionBeat extends BeatBase {
   goDeeper: string[];
   together: string;
   privateNote: string; // the prompt for the note box (saved only on this device)
-  tomorrow: string; // a glimpse of the next night, shown with the theme at the end
+  tomorrow: string; // a glimpse of the next night (Night 9: the end of the series), shown with the theme at the end
 }
 
 export type Beat =
@@ -225,6 +252,7 @@ export type Beat =
   | SceneIntroBeat
   | ThinkBeat
   | ComparisonBeat
+  | LookBackBeat
   | TodayBeat
   | ReflectionBeat;
 
@@ -269,4 +297,7 @@ export interface Night {
     blocks: ScriptBlock[];
     timing: string;
   };
+  // The closing after Finish: how long it lasts, and its sound captions. Its
+  // picture is the illustration registered as 'nN-closing'.
+  closing: { seconds: number; captions: { at: number; text: string }[] };
 }

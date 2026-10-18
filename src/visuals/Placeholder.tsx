@@ -89,7 +89,7 @@ export function Placeholder({ beat, t, duration, frozen }: VisualProps) {
   // For looping beats, the camera move repeats every 40 seconds.
   const p = Number.isFinite(duration) ? progress(t, 0, duration) : (t % 40) / 40;
   const split = direction.palette === 'split';
-  const colours = direction.palette === 'split' ? palettes.kailasa : palettes[direction.palette];
+  const colours = (direction.palette === 'split' ? undefined : palettes[direction.palette]) ?? palettes.kailasa;
   const hogwarts = direction.music.palette === 'hogwarts';
 
   return (

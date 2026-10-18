@@ -48,6 +48,7 @@ export interface Settings {
   volumes: { music: number; ambience: number; effects: number }; // 0 to 1
   readingPace: ReadingPace; // how long each sentence stays
   shortEvening: boolean; // the night file's short evening (about 15 minutes)
+  gentleScenes: number[]; // nights where the parent chose the gentle alternative Harry Potter scene
   slowMotion: boolean;
 }
 
@@ -59,6 +60,7 @@ export const defaultSettings: Settings = {
   volumes: { music: 0.8, ambience: 0.6, effects: 0.7 },
   readingPace: 'slower', // a parent is usually reading aloud
   shortEvening: false,
+  gentleScenes: [],
   slowMotion: false,
 };
 

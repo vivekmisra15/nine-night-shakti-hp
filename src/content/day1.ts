@@ -19,7 +19,7 @@ export const day1: Night = {
     },
     {
       lead: 'Short evening (about 15 minutes)',
-      text: "the opening, the story (Beats 2, 3, 5, 6 and 8, plus Shiva's warning from Beat 4's set-up, so the first child question still makes sense), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out both choices, the Sorting and its Think it through, and Side by side.",
+      text: "the opening, the story (Beats 2–8; each choice shows its set-up and what happened, without the question), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out the choice questions, the Sorting and its Think it through, and Side by side.",
     },
     {
       lead: 'Labels',
@@ -27,10 +27,10 @@ export const day1: Night = {
     },
   ],
 
-  // The short evening leaves these out. Each entry is a whole beat ('n1-b7')
-  // or one step of a beat ('n1-b4:choiceAsk'). Beat 4's set-up stays, because
-  // it holds Shiva's warning, which the first Reflect question asks about.
-  shortEveningLeavesOut: ['n1-b4:choiceAsk', 'n1-b4:choiceReveal', 'n1-b7', 'n1-b12', 'n1-b13', 'n1-b14'],
+  // The short evening leaves these out: whole beats by id, or single steps
+  // like 'n1-b4:choiceReveal'. (Every choice's question is left out on a short
+  // evening anyway; its set-up and what happened are shown as story.)
+  shortEveningLeavesOut: ['n1-b12', 'n1-b13', 'n1-b14'],
 
   beats: [
     // -----------------------------------------------------------------------
@@ -40,7 +40,7 @@ export const day1: Night = {
       type: 'opening',
       title: 'Before we begin',
       label: 'contemporary',
-      minutes: 2,
+      minutes: 1.5,
       direction: {
         intensity: 2,
         palette: 'kailasa',
@@ -116,7 +116,7 @@ export const day1: Night = {
       type: 'choice',
       title: 'Should Sati go?',
       label: 'hypothetical',
-      minutes: 4,
+      minutes: 1,
       direction: {
         intensity: 3,
         palette: 'kailasa',
@@ -208,7 +208,7 @@ export const day1: Night = {
       type: 'choice',
       title: 'What will Shiva do with his grief?',
       label: 'hypothetical',
-      minutes: 2,
+      minutes: 1.5,
       direction: {
         intensity: 3,
         palette: 'grief',
@@ -224,6 +224,7 @@ export const day1: Night = {
       ],
       whatHappens:
         'all four, in different texts. In the Bhagavata, the gods plead with Shiva and he relents. He restores the sacrifice and brings Daksha back to life with a goat\'s head in place of his own, and Daksha weeps and asks forgiveness (BP 4.7). Grief, like this story, can be more than one thing at once.',
+      shortEveningFrom: 'In the Bhagavata, the gods plead with Shiva and he relents.',
     },
 
     // -----------------------------------------------------------------------
@@ -321,7 +322,7 @@ export const day1: Night = {
       type: 'sceneIntro',
       title: "Aunt Marge's dinner",
       label: 'hogwarts',
-      minutes: 2,
+      minutes: 1.5,
       direction: {
         intensity: 5,
         palette: 'hogwartsDinner',
@@ -337,7 +338,7 @@ export const day1: Night = {
       filmNote:
         'the film keeps the insults, the inflating, and Harry leaving on the Knight Bus. Compare how the film handles the deal over the Hogsmeade form with the book before quoting details.',
       retelling: [
-        "It's the summer Harry turns thirteen. Uncle Vernon's sister Marge comes to stay for a week with her bulldog, and Vernon makes Harry a deal. If Harry behaves, never mentions magic, and goes along with the story that he attends a school for hopeless criminal boys, Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. So Harry grits his teeth. All week Marge sneers at him, and he says nothing. On the last night, after a long dinner and a lot of drink, she turns on his parents. She talks about breeding dogs: if something is wrong with the mother, something is wrong with the pup. She calls his father a jobless good-for-nothing, and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry says they didn't, and she keeps going. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out of the house and into the dark street, certain he'll be expelled. The form is never signed.",
+        "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
       ],
       connection: {
         similar:
@@ -352,6 +353,8 @@ export const day1: Night = {
         whyItHelps:
           "it brings Sati's dilemma down to a scale a pre-teen knows: a dinner table where someone you love is being mocked.",
         strength: { rating: 'partial', text: "The dilemma matches closely; the responses deliberately don't." },
+        themeLink:
+          "Harry walks out having lost the deal, the signed form and his place in the house, but not the thing he is rooted in: his loyalty to parents he never knew. What he would not let Marge take mattered more to him than everything he lost.",
       },
     },
 
@@ -363,7 +366,7 @@ export const day1: Night = {
       type: 'think',
       title: 'Think it through',
       label: 'comparison',
-      minutes: 3,
+      minutes: 2.5,
       direction: {
         intensity: 1,
         palette: 'hogwartsDinner',
@@ -414,7 +417,7 @@ export const day1: Night = {
       type: 'sceneIntro',
       title: 'The Sorting',
       label: 'hogwarts',
-      minutes: 1.5,
+      minutes: 1,
       direction: {
         intensity: 4,
         palette: 'greatHall',
@@ -428,8 +431,8 @@ export const day1: Night = {
         text: 'there are no links. Find them yourselves in your own copies of the books or films, using the references above.',
       },
       retelling: [
-        "It's Harry's first night at Hogwarts. The new students are called up one by one to sit on a stool and put on an old, patched hat that decides their house. Harry already has an opinion. Hagrid has told him that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who sneered at Ron's family and was sure he'd be a Slytherin. Now the Hat speaks inside Harry's head. It sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
-        "A year later Harry is troubled. He can talk to snakes, as Salazar Slytherin could, the Hat had said he'd do well in Slytherin, and Tom Riddle told him they were alike. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.",
+        "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
+        "A year later, Harry worries that he belongs in Slytherin after all: he can talk to snakes, as Salazar Slytherin could. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.",
       ],
       connection: {
         similar:
@@ -442,6 +445,8 @@ export const day1: Night = {
         whyItHelps:
           'it turns a big idea, rebirth, into a question a pre-teen can answer: what part of me did I choose?',
         strength: { rating: 'partial', text: 'The theme of identity matches; the situations are far apart.' },
+        themeLink:
+          "the Hat offers Harry greatness in Slytherin, and he holds on to what he values instead. A year later, when he doubts who he is, Dumbledore points him back to that choice: his roots are in what he chose to stand for, not in what he shares with Voldemort.",
       },
     },
 
@@ -453,7 +458,7 @@ export const day1: Night = {
       type: 'think',
       title: 'Think it through',
       label: 'comparison',
-      minutes: 3,
+      minutes: 2.5,
       direction: {
         intensity: 1,
         palette: 'greatHall',
@@ -513,7 +518,7 @@ export const day1: Night = {
       type: 'comparison',
       title: 'Side by side',
       label: 'comparison',
-      minutes: 2,
+      minutes: 1.5,
       direction: {
         intensity: 2,
         palette: 'split',
@@ -539,7 +544,7 @@ export const day1: Night = {
       type: 'today',
       title: 'Today',
       label: 'contemporary',
-      minutes: 3,
+      minutes: 1,
       direction: {
         intensity: 2,
         palette: 'reflective',
@@ -571,7 +576,7 @@ export const day1: Night = {
       type: 'reflection',
       title: 'Reflection',
       label: 'contemporary',
-      minutes: 2,
+      minutes: 1.5,
       direction: {
         intensity: 2,
         palette: 'kailasa', // dawn arrives in the closing
@@ -798,11 +803,7 @@ export const day1: Night = {
       },
       {
         kind: 'read',
-        text: "It's the summer Harry turns thirteen. Uncle Vernon's sister, Aunt Marge, comes to stay for a week with her bulldog, and Vernon makes Harry a deal. Behave yourself, never mention magic, pretend you go to a school for hopeless criminal boys, and I'll sign the form that lets you visit Hogsmeade with your friends.",
-      },
-      {
-        kind: 'read',
-        text: "So Harry bites his tongue. All week Marge sneers at him, and he takes it. Then, on the last night, after a long dinner, she starts on his parents. She talks about breeding dogs: if the mother's no good, the puppy won't be either. She calls his father a jobless good-for-nothing and repeats the lie that his parents died drunk in a car crash. Harry tells her they didn't. She carries on. Harry's anger rises past anything he can hold, and his magic bursts out of him. Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out of the house into the dark street, sure he'll be expelled. The form never gets signed.",
+        text: "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
       },
       { kind: 'parent', text: 'PAUSE: Think it through. Choose two or three:' },
       {
@@ -837,15 +838,11 @@ export const day1: Night = {
       },
       {
         kind: 'read',
-        text: "It's Harry's first night at Hogwarts. One by one, the new students sit on a stool and put on an old, patched hat that decides their house. Harry already has an opinion. Hagrid told him that every witch or wizard who went bad came from Slytherin. And on the train he met Draco Malfoy, who was rude about Ron's family and certain he'd be in Slytherin.",
+        text: "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
       },
       {
         kind: 'read',
-        text: 'The Hat speaks inside Harry\'s head. It sees courage, a good mind, talent and a hunger to prove himself, and it says Slytherin could help him become great. Harry thinks, as hard as he can: not Slytherin. After a pause, the Hat calls out: Gryffindor.',
-      },
-      {
-        kind: 'read',
-        text: "A year later, Harry is worried. He can talk to snakes, as Slytherin himself could. The Hat said he'd do well there; maybe he belongs there after all. Dumbledore points out that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. It's our choices, Dumbledore says, that show who we really are, much more than our abilities.",
+        text: "A year later, Harry worries that he belongs in Slytherin after all: he can talk to snakes, as Salazar Slytherin could. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.",
       },
       {
         kind: 'read',
@@ -923,5 +920,15 @@ export const day1: Night = {
     ],
     timing:
       'about 8 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 23 minutes in all. A short evening takes about 15: one scene, two ladder questions, and no side by side.',
+  },
+
+  // The closing (Reflection.tsx draws it; Score.closing() plays it).
+  closing: {
+    seconds: 13,
+    captions: [
+      { at: 0, text: 'the flute falls home' },
+      { at: 4.2, text: 'a temple bell' },
+      { at: 6, text: 'the drone fades to silence' },
+    ],
   },
 };

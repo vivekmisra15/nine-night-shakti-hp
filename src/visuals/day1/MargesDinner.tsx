@@ -108,9 +108,9 @@ export function MargesDinner({ beat, t, frozen }: VisualProps) {
   // Each moment follows its sentence in the retelling.
   const L = linesOf(beat);
   const at = (n: number) => L[Math.min(n, L.length - 1)].start;
-  const insults = at(5); // "she turns on his parents"
-  const outburst = at(9); // "his magic escapes him"
-  const street = at(10); // "Harry drags his trunk out of the house"
+  const insults = at(3); // "she turns on his parents"
+  const outburst = at(5); // "his magic escapes him"
+  const street = at(6); // "Harry drags his trunk out into the dark street"
 
   const tension = easeInOut(progress(t, insults, outburst));
   const wave = easeInOut(progress(t, outburst + 1, outburst + 4.5)) * (1 - 0.6 * progress(t, outburst + 5, outburst + 9));

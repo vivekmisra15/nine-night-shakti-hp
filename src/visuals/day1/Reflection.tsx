@@ -45,9 +45,8 @@ export function Reflection({ beat, t, frozen, complete, cues, pulse }: VisualPro
 
 // 13 seconds: dawn rises (0–5 s); the primary idea is shown over it (2.5–11 s,
 // by the closing screen); the flame becomes a spark (9–12 s); then fade out.
-export const CLOSING_SECONDS = 13;
-
-// The closing animation, played by itself after Finish.
+// The closing animation, played by itself after Finish (13 seconds; see
+// closing in day1.ts). Registered as 'n1-closing'.
 export function Closing({ t }: { t: number }) {
   const dawn = easeInOut(progress(t, 0, 5));
   const ember = 1 - 0.75 * easeInOut(progress(t, 1.5, 4));

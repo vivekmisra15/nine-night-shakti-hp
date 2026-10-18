@@ -8,6 +8,10 @@
 //   light. Never as drawn bodies.
 // - Symbols (trident, lotus, crescent moon, the bull, the mountain) are small
 //   gold outline icons.
+// - Added 18 October 2026 for Nights 2–9: within the Devi's light, a very
+//   faint fine-line outline (DeviOutline) may show at key moments, never a
+//   body or features; other gods have their own light colours; demons are
+//   smoke (SmokeShape).
 
 import { useId } from 'react';
 import { wobble } from '../engine/anim';
@@ -170,12 +174,17 @@ function OutlineHead({ head, colour }: { head: Head; colour: string }) {
 // The divine, as light
 // ---------------------------------------------------------------------------
 
-export type LightKind = 'warm' | 'silver' | 'blue';
+export type LightKind = 'warm' | 'dark' | 'silver' | 'blue' | 'gold' | 'rose' | 'ember' | 'violet';
 
-const lightColours: Record<LightKind, { glow: string; core: string; ring: string }> = {
-  warm: { glow: '#F29F3D', core: '#FFF4D6', ring: '#F7B733' }, // Sati, Shailaputri: the signature flame
+export const lightColours: Record<LightKind, { glow: string; core: string; ring: string }> = {
+  warm: { glow: '#F29F3D', core: '#FFF4D6', ring: '#F7B733' }, // the Devi: the signature flame
+  dark: { glow: '#5A5FD0', core: '#E2552B', ring: '#8A7FE0' }, // the Devi's fierce forms (Kali, Kalaratri): indigo light with an ember core
   silver: { glow: '#C9D3E6', core: '#FFFFFF', ring: '#DCE6FF' }, // Shiva
   blue: { glow: '#6F8FE8', core: '#E3EBFF', ring: '#93AEF5' }, // Vishnu: clearly bluer than Shiva's silver
+  gold: { glow: '#E8C66A', core: '#FFFBEA', ring: '#F2DA8F' }, // Brahma: gold-white
+  rose: { glow: '#E88A9A', core: '#FFF0F2', ring: '#F2B0BB' }, // Kama (and Rati, a little more coral)
+  ember: { glow: '#E2552B', core: '#FFE3B0', ring: '#F08A4B' }, // Agni
+  violet: { glow: '#A88AE0', core: '#F5F0FF', ring: '#C4B0EE' }, // Indra and the other gods
 };
 
 interface LightProps {
@@ -188,15 +197,16 @@ interface LightProps {
   pulse?: number; // the music's level, for a gentle breath
 }
 
-// A presence of light. The warm kind is a flame; silver and blue are a soft
-// orb with slowly widening rings, so Shiva and Vishnu never look like flames.
+// A presence of light. The Devi's kinds (warm, and dark for her fierce forms)
+// are a flame; the gods' kinds are a soft orb with slowly widening rings, so
+// a god never looks like the Devi's flame.
 export function DivineLight({ x, y, t, kind, size = 1, strength = 1, pulse = 0 }: LightProps) {
   const id = useId();
   const c = lightColours[kind];
   if (strength <= 0.01) return null;
   const breathe = 1 + wobble(t, 0.8, x) * 0.04 + pulse * 0.05;
   const s = size * breathe;
-  if (kind === 'warm') {
+  if (kind === 'warm' || kind === 'dark') {
     return (
       <g>
         <Glow x={x} y={y - 40 * size} r={170 * s * Math.min(1.6, strength)} colour={c.glow} opacity={0.35 * Math.min(1, strength)} />
@@ -223,11 +233,113 @@ export function DivineLight({ x, y, t, kind, size = 1, strength = 1, pulse = 0 }
   );
 }
 
+// The Devi's light-touch silhouette: a very faint fine-line outline of head
+// and shoulders, drawn over her light at key moments (CLAUDE.md, Visuals).
+// Never a body, and no features beyond the outline. (x, y) is the base of the
+// neck; at size 1 the head is about 50 units tall.
+export function DeviOutline({ x, y, size = 1, opacity = 0.35, colour = '#FFF4D6' }: { x: number; y: number; size?: number; opacity?: number; colour?: string }) {
+  if (opacity <= 0.01) return null;
+  return (
+    <g transform={`translate(${x} ${y}) scale(${size})`} opacity={opacity} fill="none">
+      {/* The face and a hint of hair drawn back. */}
+      <ellipse cx={0} cy={-34} rx={17} ry={22} {...line(colour, 1.3)} />
+      <path d="M -17 -38 Q -14 -60 0 -60 Q 14 -60 17 -38" {...line(colour, 1)} opacity={0.7} />
+      {/* The neck and the line of the shoulders. */}
+      <path d="M -7 -12 L -7 0 Q -40 4 -58 26 M 7 -12 L 7 0 Q 40 4 58 26" {...line(colour, 1.3)} />
+    </g>
+  );
+}
+
+// A demon, or the darkness of a battle: drifting smoke with a few dull ember
+// points, never a monstrous figure. `dissolve` (0 to 1) spreads and fades it,
+// as when the Devi's light pushes it back. `seed` varies the shape.
+export function SmokeShape({ x, y, t, size = 1, seed = 1, dissolve = 0, opacity = 0.85, colour = '#4A4038', ember = '#E2552B' }: {
+  x: number;
+  y: number;
+  t: number;
+  size?: number;
+  seed?: number;
+  dissolve?: number;
+  opacity?: number;
+  colour?: string;
+  ember?: string;
+}) {
+  const id = useId();
+  if (dissolve >= 0.99) return null;
+  const spread = 1 + dissolve * 1.2;
+  const puffs = Array.from({ length: 7 }, (_, i) => {
+    const a = seed * 1.7 + i * 0.9;
+    return {
+      cx: Math.sin(a * 2.1) * 60 * spread + wobble(t, 0.15 + i * 0.03, a) * 14,
+      cy: Math.cos(a * 1.3) * 40 * spread - i * 6 + wobble(t, 0.12, a + 2) * 10,
+      r: 46 + ((i * 37 + seed * 11) % 30),
+    };
+  });
+  return (
+    <g transform={`translate(${x} ${y}) scale(${size})`} opacity={opacity * (1 - dissolve)}>
+      <defs>
+        <radialGradient id={id}>
+          <stop offset="0" stopColor={colour} stopOpacity={0.9} />
+          <stop offset="1" stopColor={colour} stopOpacity={0} />
+        </radialGradient>
+      </defs>
+      {puffs.map((p, i) => (
+        <circle key={i} cx={p.cx} cy={p.cy} r={p.r * spread} fill={`url(#${id})`} />
+      ))}
+      {/* Two dull ember points, flickering. */}
+      {[-14, 14].map((dx, i) => (
+        <circle key={dx} cx={dx} cy={-18} r={3.5} fill={ember} opacity={(0.5 + 0.4 * Math.sin(t * 3 + i + seed)) * (1 - dissolve)} />
+      ))}
+    </g>
+  );
+}
+
 // ---------------------------------------------------------------------------
 // Symbol icons (gold outlines)
 // ---------------------------------------------------------------------------
 
-export type SymbolName = 'bull' | 'trident' | 'lotus' | 'moon' | 'mountain';
+export type SymbolName =
+  | 'bull'
+  | 'trident'
+  | 'lotus'
+  | 'moon'
+  | 'mountain'
+  | 'bell'
+  | 'sword'
+  | 'rosary'
+  | 'waterPot' // kamandalu
+  | 'conch'
+  | 'discus' // chakra
+  | 'mace' // gada
+  | 'bow'
+  | 'arrow'
+  | 'abhaya' // the raised open hand: "do not fear"
+  | 'varada' // the lowered open hand: giving
+  | 'damaru' // Shiva's small drum
+  | 'vel' // Skanda's spear
+  | 'thunderbolt' // vajra
+  | 'lion'
+  | 'kalasha'; // a pot of plenty
+
+// The rosary is drawn as a ring of small beads.
+const rosaryPath = Array.from({ length: 14 }, (_, i) => {
+  const a = (i / 14) * Math.PI * 2;
+  const cx = Math.cos(a) * 24;
+  const cy = Math.sin(a) * 24 + 2;
+  return `M ${cx + 4} ${cy} A 4 4 0 1 0 ${cx - 4} ${cy} A 4 4 0 1 0 ${cx + 4} ${cy}`;
+}).join(' ') + ' M 0 26 L 0 36';
+
+// The lion: a seated body, and a head with a mane of short points.
+const lionMane = Array.from({ length: 14 }, (_, i) => {
+  const a = (i / 14) * Math.PI * 2;
+  const r = i % 2 ? 13 : 19;
+  return `${i ? 'L' : 'M'} ${18 + Math.cos(a) * r} ${-12 + Math.sin(a) * r}`;
+}).join(' ') + ' Z';
+const lionPath = `M -28 20 Q -30 2 -12 0 L 6 0 Q 14 6 16 20 Z ${lionMane} M 25 -12 A 7 7 0 1 0 11 -12 A 7 7 0 1 0 25 -12 M -28 8 Q -40 4 -36 -10 M -20 20 L -20 26 M 10 20 L 10 26`;
+
+// The raised open hand, palm out (the lowered hand is the same, turned over).
+const handPath =
+  'M -14 30 L -14 -2 L -16 -22 Q -16 -27 -12 -27 Q -8 -27 -8 -22 L -6 -6 L -6 -30 Q -6 -35 -2 -35 Q 2 -35 2 -30 L 2 -6 L 4 -28 Q 4 -33 8 -33 Q 12 -33 12 -28 L 10 -4 L 14 -20 Q 15 -24 19 -23 Q 22 -22 21 -18 L 16 6 Q 14 22 10 30 Z';
 
 // One small icon, centred on (x, y), about 70 units across at size 1.
 export function SymbolIcon({ name, x, y, size = 1, colour = GOLD, opacity = 1 }: { name: SymbolName; x: number; y: number; size?: number; colour?: string; opacity?: number }) {
@@ -238,9 +350,27 @@ export function SymbolIcon({ name, x, y, size = 1, colour = GOLD, opacity = 1 }:
     lotus: 'M 0 14 Q -8 -2 0 -22 Q 8 -2 0 14 Z M 0 14 Q -22 4 -24 -12 Q -10 -6 0 14 Z M 0 14 Q 22 4 24 -12 Q 10 -6 0 14 Z M -28 18 Q 0 26 28 18',
     moon: 'M 8 -26 A 26 26 0 1 0 8 26 A 20 20 0 1 1 8 -26 Z',
     mountain: 'M -34 22 L -10 -14 L 0 -4 L 12 -26 L 34 22 Z M 4 -14 L 12 -26 L 20 -14',
+    bell: 'M -18 16 Q -18 -20 0 -24 Q 18 -20 18 16 Z M -24 16 L 24 16 M 0 -24 L 0 -32 M -4 22 A 4 4 0 0 0 4 22',
+    sword: 'M 0 -36 L 4 -28 L 4 14 L -4 14 L -4 -28 Z M -14 14 L 14 14 M 0 14 L 0 28 M -4 30 L 4 30',
+    rosary: rosaryPath,
+    waterPot: 'M -16 -4 Q -22 20 0 24 Q 22 20 16 -4 Q 10 -14 0 -14 Q -10 -14 -16 -4 Z M 16 0 Q 30 -6 32 -16 M -6 -14 Q -10 -26 0 -28 Q 10 -26 6 -14',
+    conch: 'M -24 10 Q -28 -14 -4 -22 Q 22 -26 26 -4 Q 28 14 6 18 Q -10 20 -12 6 Q -12 -6 2 -8 Q 12 -8 12 2 M -24 10 L -32 20 L -18 16',
+    discus: 'M 26 0 A 26 26 0 1 0 -26 0 A 26 26 0 1 0 26 0 Z M 10 0 A 10 10 0 1 0 -10 0 A 10 10 0 1 0 10 0 M 0 -26 L 0 -10 M 0 10 L 0 26 M -26 0 L -10 0 M 10 0 L 26 0 M -18 -18 L -7 -7 M 7 7 L 18 18 M 18 -18 L 7 -7 M -7 7 L -18 18',
+    mace: 'M 0 34 L 0 -4 M 14 -18 A 14 14 0 1 0 -14 -18 A 14 14 0 1 0 14 -18 Z M 0 -32 L 0 -38',
+    bow: 'M -10 -34 Q 26 0 -10 34 M -10 -34 L -10 34',
+    arrow: 'M -30 0 L 26 0 M 16 -8 L 28 0 L 16 8 M -30 0 L -36 -6 M -30 0 L -36 6',
+    abhaya: handPath,
+    varada: handPath,
+    damaru: 'M -18 -22 L 18 -22 L 4 0 L 18 22 L -18 22 L -4 0 Z M 4 0 L 24 -6 M -4 0 L -24 6',
+    vel: 'M 0 36 L 0 -10 M 0 -10 Q -14 -20 0 -38 Q 14 -20 0 -10 Z',
+    thunderbolt: 'M 0 -6 L 0 6 M -6 -6 L 6 -6 M -6 6 L 6 6 M 0 -6 Q -12 -18 0 -34 Q 12 -18 0 -6 M 0 6 Q -12 18 0 34 Q 12 18 0 6',
+    lion: lionPath,
+    kalasha: 'M -18 4 Q -22 26 0 26 Q 22 26 18 4 Q 14 -6 0 -6 Q -14 -6 -18 4 Z M -10 -6 L -12 -12 L 12 -12 L 10 -6 M 8 -18 A 8 8 0 1 0 -8 -18 A 8 8 0 1 0 8 -18 M -8 -16 Q -20 -24 -24 -14 M 8 -16 Q 20 -24 24 -14',
   };
+  // The lowered (giving) hand is the raised hand turned over.
+  const turn = name === 'varada' ? ' rotate(180)' : '';
   return (
-    <g transform={`translate(${x} ${y}) scale(${size})`} opacity={opacity}>
+    <g transform={`translate(${x} ${y}) scale(${size})${turn}`} opacity={opacity}>
       <path d={shapes[name]} fill={FILL} {...line(colour)} />
     </g>
   );

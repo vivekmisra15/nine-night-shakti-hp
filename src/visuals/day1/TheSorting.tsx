@@ -77,10 +77,10 @@ export function TheSorting({ beat, t, duration, frozen }: VisualProps) {
   // brisk, then the picture waits for the words.
   const L = linesOf(beat);
   const at = (n: number) => L[Math.min(n, L.length - 1)].start;
-  const hatSpeaks = at(4); // "Now the Hat speaks inside Harry's head"
-  const begs = at(6); // "Harry silently begs: not Slytherin"
-  const gryffindor = at(7); // "the Hat calls out Gryffindor"
-  const yearLater = at(8); // "A year later Harry is troubled"
+  const hatSpeaks = at(2); // "The Hat sees courage, a good mind…"
+  const begs = at(3); // "Harry silently begs: not Slytherin"
+  const gryffindor = at(4); // "the Hat calls out Gryffindor"
+  const yearLater = at(5); // "A year later, Harry worries…"
 
   // The two paths draw in as the Hat speaks, then the gold one wins.
   const choose = 0.3 * easeInOut(progress(t, hatSpeaks, hatSpeaks + 3)) + 0.7 * easeInOut(progress(t, begs, gryffindor + 1));

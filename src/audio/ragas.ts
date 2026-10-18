@@ -88,6 +88,53 @@ export const ragas: Record<Raga, RagaInfo> = {
       [[11, 2], [9, 2], [7, 2], [6, 2], [4, 4]], // N D P M G
     ],
   },
+
+  // MALKAUNS — deep night. Five notes (Sa, komal Ga, Ma, komal Dha, komal
+  // Ni), with no Re or Pa: grave, still and inward, a raga of the small hours.
+  // Used for darkness that is calm rather than menacing: Parvati's tapas
+  // (Night 2), the dark before creation (Night 4), and Kalaratri (Night 7).
+  malkauns: {
+    notes: [0, 3, 5, 8, 10, 12],
+    droneNote: -7, // Ma below Sa: with no Pa in Malkauns, the tanpura is tuned to Ma
+    restNote: 5,
+    phrases: [
+      [[-2, 2], [0, 2], [3, 2], [5, 4]], // n. S g m
+      [[5, 2], [3, 2], [5, 2], [8, 2], [10, 2], [8, 2], [5, 4]], // m g m d n d m
+      [[3, 2], [5, 2], [3, 2], [0, 4]], // g m g S
+      [[8, 2], [10, 2], [12, 4], [10, 2], [8, 2], [5, 4]], // d n S' n d m
+    ],
+  },
+
+  // DURGA — the Devi taking form. Five notes (Sa Re Ma Pa Dha), with no Ga or
+  // Ni: bright, confident and devotional, and named for the Devi herself.
+  // Used as the Devi appears in her protective forms (Nights 3 and 6).
+  durga: {
+    notes: [0, 2, 5, 7, 9, 12],
+    droneNote: -5, // Pa below Sa
+    restNote: 7,
+    phrases: [
+      [[0, 2], [2, 2], [5, 2], [7, 4]], // S R m P
+      [[5, 2], [7, 2], [9, 2], [12, 4]], // m P D S'
+      [[9, 2], [7, 2], [5, 2], [2, 2], [0, 4]], // D P m R S
+      [[2, 2], [5, 2], [7, 2], [9, 2], [7, 2], [5, 2], [2, 4]], // R m P D P m R
+    ],
+  },
+
+  // BHAIRAV — dawn. Komal Re and komal Dha against a natural Ga and Ni give it
+  // a solemn, prayerful sound, traditionally sung at first light. Used for the
+  // dawns that close the series: Vijayadashami (Night 9) and Night 8's close.
+  bhairav: {
+    notes: [-1, 0, 1, 4, 5, 7, 8, 11, 12],
+    droneNote: -5, // Pa below Sa
+    restNote: 4,
+    phrases: [
+      [[0, 2], [1, 2], [4, 2], [5, 4]], // S r G m
+      [[4, 2], [5, 2], [8, 3], [7, 3]], // G m d P
+      [[5, 2], [4, 2], [1, 3], [0, 3]], // m G r S
+      [[-1, 2], [0, 2], [1, 2], [4, 2], [5, 2], [7, 4]], // N. S r G m P
+      [[8, 2], [11, 2], [12, 4], [11, 2], [8, 2], [7, 4]], // d N S' N d P
+    ],
+  },
 };
 
 // The night's signature motif, on the bansuri: rising "the mountain"

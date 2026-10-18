@@ -1,7 +1,7 @@
-// Colour palettes from docs/direction/night-1.md. Beats name a palette by its
-// key; the illustrations take their colours from here.
-
-import type { PaletteKey } from '../content/types';
+// Colour palettes. Night 1's are below (from docs/direction/night-1.md);
+// each later night keeps its own in src/visuals/dayN/palettes.ts (from its
+// direction brief), found automatically and merged in at the bottom. Beats
+// name a palette by its key, so keys must not repeat between nights.
 
 export interface Palette {
   primary: string;
@@ -11,7 +11,7 @@ export interface Palette {
   highlight: string;
 }
 
-export const palettes: Record<Exclude<PaletteKey, 'split'>, Palette> = {
+const night1: Record<string, Palette> = {
   // Kailasa: moonlit snow and indigo night, with a saffron flame.
   kailasa: { primary: '#E8ECF4', secondary: '#1E2A5A', accent: '#F29F3D', shadow: '#0E1430', highlight: '#FFF4D6' },
   // Daksha's court: heavy gold and temple red, the wrong house for Sati.
@@ -26,3 +26,10 @@ export const palettes: Record<Exclude<PaletteKey, 'split'>, Palette> = {
   hogwartsDinner: { primary: '#C98A3E', secondary: '#5E5A48', accent: '#6E1E2B', shadow: '#15130F', highlight: '#FFD9A0' },
   greatHall: { primary: '#121C3D', secondary: '#E8B45A', accent: '#DCE6FF', shadow: '#070A18', highlight: '#FFF0C8' },
 };
+
+const files = import.meta.glob<Record<string, Record<string, Palette>>>('./day*/palettes.ts', { eager: true });
+
+export const palettes: Record<string, Palette> = { ...night1 };
+for (const file of Object.values(files)) {
+  for (const set of Object.values(file)) Object.assign(palettes, set);
+}

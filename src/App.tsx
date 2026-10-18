@@ -4,24 +4,16 @@
 
 import { useCallback, useEffect, useState } from 'react';
 import { unlock, useSplashMusic } from './audio';
-import { day1Score } from './audio/day1Score';
-import type { BeatScore } from './audio/score';
+import { scores } from './audio/scores';
 import { ClosingScreen } from './components/ClosingScreen';
 import { NightMap } from './components/NightMap';
 import { NightPlayer } from './components/NightPlayer';
 import { PrepSheet } from './components/PrepSheet';
 import { SplashScreen } from './components/SplashScreen';
 import { SpoilerScreen } from './components/SpoilerScreen';
-import { day1 } from './content/day1';
 import { mapStops } from './content/journey';
-import type { Night } from './content/types';
+import { nights } from './content/nights';
 import { defaultProgress, defaultSettings, type Settings, useSaved } from './state/progress';
-
-// Built nights, by number, each with its score plan. Add day2 here once
-// Night 2 is approved and built.
-const nights: Record<number, { night: Night; score: Record<string, BeatScore> }> = {
-  1: { night: day1, score: day1Score },
-};
 
 type Screen =
   | { name: 'splash' }
@@ -81,9 +73,7 @@ export default function App() {
   }
 
   if (screen.name === 'closing') {
-    const idea = nights[screen.night].night.beats.find((b) => b.type === 'idea');
-    const theme = idea?.type === 'idea' ? idea.theme : { word: '', idea: '' };
-    return <ClosingScreen theme={theme} captions={settings.captions} onDone={backToMap} />;
+    return <ClosingScreen night={nights[screen.night]} captions={settings.captions} onDone={backToMap} />;
   }
 
   if (screen.name === 'notice') {
@@ -99,11 +89,11 @@ export default function App() {
   }
 
   if (screen.name === 'night') {
-    const { night, score } = nights[screen.night];
+    const night = nights[screen.night];
     return (
       <NightPlayer
         night={night}
-        score={score}
+        score={scores}
         stop={mapStops[night.number - 1]}
         startStepId={progress.lastStep[night.number]}
         settings={settings}

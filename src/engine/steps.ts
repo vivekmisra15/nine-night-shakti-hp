@@ -18,6 +18,9 @@ export type StepKind =
   | 'connection' // what is similar, what is different, why it helps, and its strength
   | 'think' // "Think it through": the ladder, follow-ups, stance line and activity, on one screen
   | 'comparison'
+  | 'lookBackDiyas' // Night 9: the nine nights, one diya at a time
+  | 'lookBackThreads' // Night 9: threads that kept coming back, and the honesty check
+  | 'lookBackActivity' // Night 9: defend a night
   | 'today'
   | 'talk' // the together question, questions for the child, go deeper and the private note
   | 'themeEnd'; // the theme again, to end the night
@@ -57,11 +60,27 @@ function openingGroups(beat: Beat) {
 }
 export { openingGroups };
 
-// On a short evening, the steps the night leaves out (night.shortEveningLeavesOut)
-// are dropped. A choice's set-up that stays is shown as part of the story.
-export function buildSteps(night: Night, shortEvening = false): Step[] {
+export interface StepOptions {
+  shortEvening: boolean; // the short evening (about 15 minutes)
+  gentle: boolean; // use the gentle alternative Harry Potter scene, if the night has one
+}
+
+// Is this Harry Potter scene left out by the family's choice of scene? A
+// gentle alternative names the intense scene it replaces (gentleFor).
+function sceneLeftOut(night: Night, beat: Beat, gentle: boolean) {
+  if (beat.type !== 'sceneIntro') return false;
+  if (beat.gentleFor) return !gentle;
+  return gentle && night.beats.some((b) => b.type === 'sceneIntro' && b.gentleFor === beat.id);
+}
+
+// On a short evening, every choice's question is skipped (its set-up and what
+// happened are shown as story), and the steps the night lists in
+// shortEveningLeavesOut are dropped.
+export function buildSteps(night: Night, options: StepOptions = { shortEvening: false, gentle: false }): Step[] {
+  const { shortEvening, gentle } = options;
   const steps: Step[] = [];
   night.beats.forEach((beat, beatIndex) => {
+    if (sceneLeftOut(night, beat, gentle)) return;
     const add = (kind: StepKind, section: Section, part = 0, textLed = false) =>
       steps.push({ id: `${beat.id}:${kind}${part ? `-${part}` : ''}`, beatIndex, kind, part, section, textLed });
 
@@ -76,9 +95,9 @@ export function buildSteps(night: Night, shortEvening = false): Step[] {
         break;
       case 'choice':
         if (beat.setup) add('choiceSetup', 'Choices');
-        add('choiceAsk', 'Choices');
-        if (beat.activity) add('activity', 'Choices');
-        add('choiceReveal', 'Choices');
+        if (!shortEvening) add('choiceAsk', 'Choices');
+        if (beat.activity && !shortEvening) add('activity', 'Choices');
+        if (beat.whatHappens) add('choiceReveal', 'Choices');
         break;
       case 'idea':
         // The night's one core idea, its theme, is the whole Ideas section.
@@ -95,6 +114,11 @@ export function buildSteps(night: Night, shortEvening = false): Step[] {
         break;
       case 'comparison':
         add('comparison', 'Compare');
+        break;
+      case 'lookBack':
+        add('lookBackDiyas', 'Compare', 0, true);
+        add('lookBackThreads', 'Compare', 0, true);
+        if (!shortEvening) add('lookBackActivity', 'Compare', 0, true);
         break;
       case 'today':
         // Today and Reflection together make one Reflect section of at most

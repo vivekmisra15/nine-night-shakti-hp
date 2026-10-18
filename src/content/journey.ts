@@ -9,19 +9,18 @@ export interface MapStop {
   devi: string;
   devanagari: string; // the name in Devanagari: shown beside it once the night is built, and read aloud by the speaker button
   meaning: string;
-  built: boolean; // unbuilt nights read "being written" on the map
 }
 
 export const mapStops: MapStop[] = [
-  { night: 1, devi: 'Shailaputri', devanagari: 'शैलपुत्री', meaning: 'daughter of the mountain', built: true },
-  { night: 2, devi: 'Brahmacharini', devanagari: 'ब्रह्मचारिणी', meaning: 'the one who practises', built: false },
-  { night: 3, devi: 'Chandraghanta', devanagari: 'चन्द्रघण्टा', meaning: 'the moon-bell', built: false },
-  { night: 4, devi: 'Kushmanda', devanagari: 'कूष्माण्डा', meaning: 'the warm cosmic egg', built: false },
-  { night: 5, devi: 'Skandamata', devanagari: 'स्कन्दमाता', meaning: 'mother of Skanda', built: false },
-  { night: 6, devi: 'Katyayani', devanagari: 'कात्यायनी', meaning: "born of the gods' combined fury", built: false },
-  { night: 7, devi: 'Kalaratri', devanagari: 'कालरात्रि', meaning: 'the dark night', built: false },
-  { night: 8, devi: 'Mahagauri', devanagari: 'महागौरी', meaning: 'radiant and white', built: false },
-  { night: 9, devi: 'Siddhidatri', devanagari: 'सिद्धिदात्री', meaning: 'the giver of perfection', built: false },
+  { night: 1, devi: 'Shailaputri', devanagari: 'शैलपुत्री', meaning: 'daughter of the mountain' },
+  { night: 2, devi: 'Brahmacharini', devanagari: 'ब्रह्मचारिणी', meaning: 'the one who practises' },
+  { night: 3, devi: 'Chandraghanta', devanagari: 'चन्द्रघण्टा', meaning: 'the moon-bell' },
+  { night: 4, devi: 'Kushmanda', devanagari: 'कूष्माण्डा', meaning: 'the warm cosmic egg' },
+  { night: 5, devi: 'Skandamata', devanagari: 'स्कन्दमाता', meaning: 'mother of Skanda' },
+  { night: 6, devi: 'Katyayani', devanagari: 'कात्यायनी', meaning: "born of the gods' combined fury" },
+  { night: 7, devi: 'Kalaratri', devanagari: 'कालरात्रि', meaning: 'the dark night' },
+  { night: 8, devi: 'Mahagauri', devanagari: 'महागौरी', meaning: 'radiant and white' },
+  { night: 9, devi: 'Siddhidatri', devanagari: 'सिद्धिदात्री', meaning: 'the giver of perfection' },
 ];
 
 export const unbuiltText = 'being written';

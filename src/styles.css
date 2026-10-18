@@ -1141,6 +1141,36 @@ fieldset {
   min-height: 40px;
 }
 
+/* The parent's choice of tonight's second Harry Potter scene (Nights 2, 3, 7). */
+.scene-choice {
+  margin: 1rem 0 0;
+  padding: 0.5rem 0.9rem 0.7rem;
+  border: 1px solid var(--parent);
+  border-radius: 12px;
+}
+
+.scene-choice legend {
+  padding: 0 0.3rem;
+  color: var(--parent);
+  font-size: 0.9rem;
+}
+
+/* Night 9's look back: one line per night. */
+.look-back {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.look-back li {
+  margin: 0.25rem 0;
+}
+
+.look-back strong {
+  color: var(--gold);
+  font-weight: 600;
+}
+
 .slider {
   display: grid;
   grid-template-columns: 9rem 1fr 3rem;

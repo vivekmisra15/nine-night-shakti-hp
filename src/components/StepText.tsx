@@ -21,6 +21,9 @@ interface Props {
   t: number; // the step clock, for narration
   complete: boolean; // Reading mode
   shortEvening: boolean;
+  gentle: boolean; // the family chose the gentle alternative Harry Potter scene
+  // Shown on the night's first screen when it offers a gentle alternative.
+  sceneChoice?: { intense: string; gentle: string; onChange: (gentle: boolean) => void };
   cues: Record<string, number>;
   onCue: (name: string) => void;
   onSeek: (t: number) => void;
@@ -60,10 +63,25 @@ function ThemeScreen({ theme, complete, ending = false, tomorrow }: { theme: The
   );
 }
 
-function Choice({ beat, step, complete, cues, onCue }: { beat: Extract<Beat, { type: 'choice' }>; step: Step; complete: boolean; cues: Record<string, number>; onCue: (n: string) => void }) {
+// On a short evening a choice's outcome is shown as story, from the sentence
+// the night file names if the outcome leans on the options.
+function shortOutcome(beat: Extract<Beat, { type: 'choice' }>) {
+  const text = beat.whatHappens ?? '';
+  const from = beat.shortEveningFrom ? text.indexOf(beat.shortEveningFrom) : -1;
+  return from >= 0 ? text.slice(from) : text;
+}
+
+function Choice({ beat, step, complete, shortEvening, cues, onCue }: { beat: Extract<Beat, { type: 'choice' }>; step: Step; complete: boolean; shortEvening: boolean; cues: Record<string, number>; onCue: (n: string) => void }) {
   const picked = Object.keys(cues).filter((k) => k.startsWith('pick:')).at(-1);
   const pickedIndex = picked ? Number(picked.slice(5)) : null;
   if (step.kind === 'choiceReveal') {
+    if (shortEvening) {
+      return (
+        <p className="reveal">
+          <strong>What happens:</strong> <Rich text={shortOutcome(beat)} />
+        </p>
+      );
+    }
     if (!complete && !('reveal' in cues)) {
       return (
         <>
@@ -76,7 +94,7 @@ function Choice({ beat, step, complete, cues, onCue }: { beat: Extract<Beat, { t
     }
     return (
       <p className="reveal">
-        <strong>What happens:</strong> <Rich text={beat.whatHappens} />
+        <strong>What happens:</strong> <Rich text={beat.whatHappens ?? ''} />
       </p>
     );
   }
@@ -111,7 +129,7 @@ function Choice({ beat, step, complete, cues, onCue }: { beat: Extract<Beat, { t
   );
 }
 
-export function StepText({ beat, step, theme, t, complete, shortEvening, cues, onCue, onSeek }: Props) {
+export function StepText({ beat, step, theme, t, complete, shortEvening, gentle, sceneChoice, cues, onCue, onSeek }: Props) {
   const [rung, setRung] = useState(1);
   const [question, setQuestion] = useState(1);
   const [note, setNote] = useSaved(`note:${beat.id}`, '');
@@ -128,6 +146,20 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
               <Lead item={beat.points[i]} />
             </p>
           ))}
+          {step.part === 0 && sceneChoice && (
+            // The parent chooses tonight's second Harry Potter scene.
+            <fieldset className="scene-choice">
+              <legend>For the parent: tonight's second Harry Potter scene</legend>
+              <label className="option">
+                <input type="radio" name="scene" checked={!gentle} onChange={() => sceneChoice.onChange(false)} />
+                <Rich text={sceneChoice.intense} /> (intense)
+              </label>
+              <label className="option">
+                <input type="radio" name="scene" checked={gentle} onChange={() => sceneChoice.onChange(true)} />
+                <Rich text={sceneChoice.gentle} /> (gentle alternative)
+              </label>
+            </fieldset>
+          )}
         </>
       );
     }
@@ -207,7 +239,7 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
 
     case 'choiceAsk':
     case 'choiceReveal':
-      return beat.type === 'choice' ? <Choice beat={beat} step={step} complete={complete} cues={cues} onCue={onCue} /> : null;
+      return beat.type === 'choice' ? <Choice beat={beat} step={step} complete={complete} shortEvening={shortEvening} cues={cues} onCue={onCue} /> : null;
 
     case 'activity':
       return beat.type === 'choice' && beat.activity ? <Timer activity={beat.activity} /> : null;
@@ -248,6 +280,9 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
           <p>
             <span className="strength">Strength: {c.strength.rating}.</span> <Rich text={c.strength.text} />
           </p>
+          <p>
+            <strong>Link to the theme:</strong> <Rich text={c.themeLink} />
+          </p>
         </div>
       );
     }
@@ -256,7 +291,12 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
       // "Think it through" on one screen: the ladder and parent follow-ups on
       // the left; the stance line and the activity on the right.
       if (beat.type !== 'think') return null;
-      const shown = complete ? beat.ladder : beat.ladder.slice(0, rung);
+      // With the gentle alternative scene, its own questions replace those that only fit the intense one.
+      const g = gentle ? beat.gentle : undefined;
+      const ladder = g?.ladder ?? beat.ladder;
+      const followUps = g?.followUps ?? beat.followUps;
+      const stance = g?.stance ?? beat.stance;
+      const shown = complete ? ladder : ladder.slice(0, rung);
       return (
         <div className="think-grid">
           <div>
@@ -269,20 +309,20 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
                 </li>
               ))}
             </ol>
-            {!complete && rung < beat.ladder.length && (
+            {!complete && rung < ladder.length && (
               <button
                 onClick={() => {
                   setRung(rung + 1);
                   onCue(`rung:${rung}`);
                 }}
               >
-                Next question: {beat.ladder[rung].step}
+                Next question: {ladder[rung].step}
               </button>
             )}
             <details className="parent-drawer" open={complete}>
               <summary>For the parent: if they say…, try asking…</summary>
               <ul>
-                {beat.followUps.map((f, i) => (
+                {followUps.map((f, i) => (
                   <li key={i}>
                     “<Rich text={f.ifTheySay} />” → “<Rich text={f.tryAsking} />”
                   </li>
@@ -291,8 +331,8 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
             </details>
           </div>
           <div>
-            <StanceLine id={beat.id} left={beat.stance.left} right={beat.stance.right} note={beat.stance.note} />
-            <Timer activity={beat.activity} />
+            <StanceLine id={g?.stance ? `${beat.id}-gentle` : beat.id} left={stance.left} right={stance.right} note={stance.note} />
+            <Timer activity={g?.activity ?? beat.activity} />
           </div>
         </div>
       );
@@ -300,7 +340,9 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
 
     case 'comparison': {
       if (beat.type !== 'comparison') return null;
-      const shown = complete ? beat.questions : beat.questions.slice(0, question);
+      const questions = (gentle && beat.gentle?.questions) || beat.questions;
+      const doesntCompare = (gentle && beat.gentle?.doesntCompare) || beat.doesntCompare;
+      const shown = complete ? questions : questions.slice(0, question);
       return (
         <>
           <p className="muted small">
@@ -313,7 +355,7 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
               </li>
             ))}
           </ol>
-          {!complete && question < beat.questions.length && (
+          {!complete && question < questions.length && (
             <button
               onClick={() => {
                 setQuestion(question + 1);
@@ -324,11 +366,58 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, cues, o
             </button>
           )}
           <p className="doesnt-compare">
-            <strong>What doesn't compare:</strong> <Rich text={beat.doesntCompare} />
+            <strong>What doesn't compare:</strong> <Rich text={doesntCompare} />
           </p>
         </>
       );
     }
+
+    case 'lookBackDiyas': {
+      // Night 9: each night's line appears in turn, as its diya lights in the picture.
+      if (beat.type !== 'lookBack') return null;
+      return (
+        <div className="text-led">
+          <p className="eyebrow">Nine nights, looking back</p>
+          <p className="muted small">
+            <Rich text={beat.diyasIntro} />
+          </p>
+          <ol className="look-back">
+            {beat.nights.map((n) => (
+              <li key={n.night}>
+                <strong>
+                  {n.night} · {n.devi} · {n.word}.
+                </strong>{' '}
+                <Rich text={n.idea} />
+              </li>
+            ))}
+          </ol>
+        </div>
+      );
+    }
+
+    case 'lookBackThreads':
+      if (beat.type !== 'lookBack') return null;
+      return (
+        <div className="text-led">
+          <p className="eyebrow">Threads that kept coming back</p>
+          <p className="muted small">
+            <Rich text={beat.threadsIntro} />
+          </p>
+          <ul className="questions">
+            {beat.threads.map((thread, i) => (
+              <li key={i}>
+                <Lead item={thread} />
+              </li>
+            ))}
+          </ul>
+          <p>
+            <strong>Honesty check:</strong> <Rich text={beat.honesty} />
+          </p>
+        </div>
+      );
+
+    case 'lookBackActivity':
+      return beat.type === 'lookBack' ? <Timer activity={beat.activity} /> : null;
 
     case 'today': {
       if (beat.type !== 'today') return null;
