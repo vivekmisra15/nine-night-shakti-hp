@@ -1,0 +1,69 @@
+# Builds the app and publishes it to GitHub Pages:
+#   https://vivekmisra15.github.io/nine-night-shakti-hp/
+#
+# GitHub reads every file in .github/workflows/ and runs it when its trigger
+# (the `on:` section) happens. Each run gets a fresh, empty computer in
+# GitHub's cloud; the steps below set it up, build the app, and publish the
+# result. You can watch each run in the repo's "Actions" tab.
+
+name: Deploy to GitHub Pages
+
+# When to run: on every push to the main branch, and from a "Run workflow"
+# button in the Actions tab (workflow_dispatch), for a manual re-publish.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# What the run is allowed to do: read the code, and write to Pages.
+# (id-token lets GitHub check that the publish really comes from this repo.)
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# If two pushes happen close together, publish them one at a time, in order.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+# A workflow is made of jobs, and each job is a list of steps.
+jobs:
+  # Job 1: build the app, the same way `npm run build` does on this Mac.
+  build:
+    runs-on: ubuntu-latest # the kind of cloud computer to use (Linux)
+    steps:
+      # Copy the repo's code onto the cloud computer.
+      - uses: actions/checkout@v4
+
+      # Install Node.js. Vite 8 needs Node 20.19 or later; 22 is a current
+      # long-term release. `cache: npm` keeps downloaded packages between runs.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # Install exactly the package versions listed in package-lock.json.
+      - run: npm ci
+
+      # Type-check and build: this writes the finished app into dist/.
+      - run: npm run build
+
+      # Tell GitHub Pages a site is coming, then hand it the dist/ folder.
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  # Job 2: publish what job 1 built. `needs: build` means it waits for the
+  # build to succeed; if the build fails, nothing is published and the site
+  # keeps its previous version.
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} # shown as a link in the Actions tab
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

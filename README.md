@@ -20,6 +20,10 @@ You need Node.js 20 or later (this Mac has 24). In this folder:
 | `npm run build` | Builds the finished app into `dist/`, which works from any folder or web host. |
 | `npm run preview` | Serves the built `dist/` folder to check it. |
 
+## Publishing (GitHub Pages)
+
+The app is published at https://vivekmisra15.github.io/nine-night-shakti-hp/. Every push to `main` rebuilds and republishes it automatically, using the steps in `.github/workflows/deploy.yml` (each step is explained in that file). Each run, and any error, shows in the repo's **Actions** tab on GitHub. A failed build publishes nothing, so the site keeps its last good version.
+
 ## Where things live
 
 | Path | What it is |
