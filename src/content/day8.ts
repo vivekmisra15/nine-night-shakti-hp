@@ -872,7 +872,7 @@ export const day8: Night = {
       },
       {
         kind: 'read',
-        text: "Now, Hogwarts. This one's from *Deathly Hallows*, chapters ten to twelve. It isn't in the films at all, so listen closely even if you know them well.",
+        text: "Now, Hogwarts. This one's from *Deathly Hallows*, chapters ten to twelve. Kreacher's story and his change aren't in the films, so listen closely even if you know them well.",
       },
       {
         kind: 'parent',

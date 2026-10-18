@@ -366,7 +366,7 @@ Tonight's word is renewal. After a hard time, you can begin again, clearer than 
 
 In a common devotional telling, Parvati’s long tapas left her covered in the dust and darkness of years outdoors. When Shiva accepted her, he washed her with the waters of the Ganga, and she shone radiant: Mahagauri, “the greatly bright one”. She’s pictured calm, dressed in white, riding a bull, with hands of fearlessness and blessing. Renewal here doesn’t mean pretending the hard time never happened. The tapas made her who she is. What washes away is the weight; what stays is what you learned. She’s linked with calm, forgiveness and fresh starts.
 
-Now, Hogwarts. This one's from *Deathly Hallows*, chapters ten to twelve. It isn't in the films at all, so listen closely even if you know them well.
+Now, Hogwarts. This one's from *Deathly Hallows*, chapters ten to twelve. Kreacher's story and his change aren't in the films, so listen closely even if you know them well.
 
 **[For the parent: the next part mentions a cave and a poisoned potion. Read it calmly; the book tells it briefly.]**
 

@@ -243,7 +243,7 @@ export const day9: Night = {
       },
       intro: 'The Devi Mahatmya has been in the background since Night 3, so tonight we finish it.',
       paragraphs: [
-        'The whole Devi Mahatmya is a story told to two people. The first was King Suratha, who lost his kingdom to enemies; even his own ministers turned against him. He rode into the forest alone. There he met Samadhi, a merchant whose wife and sons had taken his wealth and thrown him out. The strange thing, they agreed, was that they both still worried about the people who had wronged them. They asked the sage Medhas why. In answer, Medhas told them the stories of the Devi: the stories of Katyayani, Kalaratri and the rest that we heard on earlier nights (Devi Mahatmya ch. 1–12).',
+        'The whole Devi Mahatmya is a story told to two people. The first was King Suratha, who lost his kingdom to enemies; even his own ministers turned against him. He rode into the forest alone. There he met Samadhi, a merchant whose wife and sons had taken his wealth and thrown him out. The strange thing, they agreed, was that they both still worried about the people who had wronged them. They asked the sage Medhas why. In answer, Medhas told them the stories of the Devi, the battles we heard on earlier nights, which tradition links with Katyayani, Kalaratri and her other forms (Devi Mahatmya ch. 1–12).',
         'When he finished, the king and the merchant went to a sandbank by a river. They made an image of the Devi out of earth. For three years they worshipped her with flowers, incense, fire and water, eating little and keeping their minds steady (DM 13.9–12). At last the Devi appeared and said: ask me for anything.',
       ],
     },
@@ -884,7 +884,7 @@ export const day9: Night = {
       },
       {
         claim: 'Film: Harry snaps the Elder Wand on a bridge and throws it away',
-        source: '*Deathly Hallows Part 2* (2011); producer David Heyman on the change',
+        source: '*Deathly Hallows Part 2* (2011)',
         label: 'Hogwarts',
         confidence: 'High',
       },
@@ -969,7 +969,7 @@ export const day9: Night = {
       },
       {
         kind: 'read',
-        text: 'To answer, Medhas told them all the stories of the Devi: of Katyayani and the buffalo-demon, of Kalaratri and the darkest battles. The stories we heard on earlier nights.',
+        text: 'To answer, Medhas told them all the stories of the Devi: of the Devi and the buffalo-demon, and of the darkest battles. The stories we heard on earlier nights.',
       },
       {
         kind: 'read',

@@ -93,7 +93,7 @@ So that is where our first night began. The Devi born as Daksha's daughter is Sa
 
 ### Beat 5: Two seekers by the river (tradition)
 
-The whole Devi Mahatmya is a story told to two people. The first was King Suratha, who lost his kingdom to enemies; even his own ministers turned against him. He rode into the forest alone. There he met Samadhi, a merchant whose wife and sons had taken his wealth and thrown him out. The strange thing, they agreed, was that they both still worried about the people who had wronged them. They asked the sage Medhas why. In answer, Medhas told them the stories of the Devi: the stories of Katyayani, Kalaratri and the rest that we heard on earlier nights (Devi Mahatmya ch. 1–12).
+The whole Devi Mahatmya is a story told to two people. The first was King Suratha, who lost his kingdom to enemies; even his own ministers turned against him. He rode into the forest alone. There he met Samadhi, a merchant whose wife and sons had taken his wealth and thrown him out. The strange thing, they agreed, was that they both still worried about the people who had wronged them. They asked the sage Medhas why. In answer, Medhas told them the stories of the Devi, the battles we heard on earlier nights, which tradition links with Katyayani, Kalaratri and her other forms (Devi Mahatmya ch. 1–12).
 
 When he finished, the king and the merchant went to a sandbank by a river. They made an image of the Devi out of earth. For three years they worshipped her with flowers, incense, fire and water, eating little and keeping their minds steady (DM 13.9–12). At last the Devi appeared and said: ask me for anything.
 
@@ -344,7 +344,7 @@ Pick one or two questions; you don't need them all. The night ends on its theme.
 | Dumbledore's confession; refusing the Ministry; power best held by those who didn't seek it | *Deathly Hallows* ch. 35 | Hogwarts | High |
 | Harry mends his wand, plans to return the Elder Wand to the tomb; Stone left in the forest; Ron's reaction | *Deathly Hallows* ch. 36 | Hogwarts | High |
 | Harry became the wand's master by disarming Draco | *Deathly Hallows* ch. 36 | Hogwarts | High |
-| Film: Harry snaps the Elder Wand on a bridge and throws it away | *Deathly Hallows Part 2* (2011); producer David Heyman on the change | Hogwarts | High |
+| Film: Harry snaps the Elder Wand on a bridge and throws it away | *Deathly Hallows Part 2* (2011) | Hogwarts | High |
 | Film does not show Harry mending his own wand; film's King's Cross omits the power line | *Deathly Hallows Part 2* | Hogwarts | Medium *(to check)* |
 | The Mirror of Erised at Christmas; Dumbledore's warning | *Philosopher's Stone* ch. 12; 2001 film | Hogwarts | High |
 | Quirrell's "only power" belief; the Stone in Harry's pocket; the Mirror's rule; the Stone destroyed and the Flamels | *Philosopher's Stone* ch. 17; the film keeps the rule (spoken in the hospital wing) | Hogwarts | High |
@@ -391,7 +391,7 @@ Now the second story. It comes from the very end of the Devi Mahatmya, the text 
 
 The Devi Mahatmya is really one long story told to two people. One was a king called Suratha. Enemies took his kingdom, and even his own ministers turned against him, so he rode alone into the forest. There he met a merchant called Samadhi, whose wife and sons had taken all his money and thrown him out. The strange thing, the two men agreed, was that they still worried about the very people who had wronged them. They asked a wise sage, Medhas, why.
 
-To answer, Medhas told them all the stories of the Devi: of Katyayani and the buffalo-demon, of Kalaratri and the darkest battles. The stories we heard on earlier nights.
+To answer, Medhas told them all the stories of the Devi: of the Devi and the buffalo-demon, and of the darkest battles. The stories we heard on earlier nights.
 
 When he finished, the king and the merchant went down to a sandbank by a river. They shaped an image of the Devi out of earth. For three years they worshipped her there, with flowers, incense, fire and water, eating very little and keeping their minds steady. At last the Devi appeared. Ask me for anything, she said.
 

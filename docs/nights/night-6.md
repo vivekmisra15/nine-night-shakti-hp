@@ -105,7 +105,7 @@ Notice that Shiva and Vishnu don't hand over their own weapons. They draw new on
 - Many traditional readers see Mahishasura as pride or ignorance, the "buffalo" in each of us. That is an interpretation.
 - If your child is uneasy about a goddess who kills, that is a good question, not a problem. The gods themselves, in the next chapter, praise her for being merciful in her heart even while she is harsh in battle (DM 4.21–22).
 
-Mahishasura's generals came at her one after another, with chariots, elephants and horses. As she fought, the Devi breathed out, and her breaths became whole armies of helpers (DM 2.53). Her lion charged through the enemy ranks. Her generals fell, among them Chikshura and Chamara (DM 3.2–20).
+Mahishasura's generals came at her one after another, with chariots, elephants and horses. As she fought, the Devi breathed out, and her breaths became whole armies of helpers (DM 2.53). Her lion charged through the enemy ranks. Mahishasura's generals fell, among them Chikshura and Chamara (DM 3.2–20).
 
 Then Mahishasura himself came, in the form of a huge buffalo. The earth shook under his hooves, and his horns tore at mountains and clouds. The Devi caught him in her noose. He became a lion; then a man with a sword; then an elephant; then a buffalo again (DM 3.21–33). Each time she met him.
 
@@ -119,7 +119,7 @@ His army fled. The gods rejoiced, the sages praised her, the heavenly musicians 
 
 The Devi Mahatmya mostly calls her Ambika or Chandika. Where does the name "Katyayani" come from?
 
-- **Tradition (Vamana Purana):** the gods' fiery energies gathered at the hermitage of the sage Katyayana, who gave them form. So she is Katyayani, "daughter of Katyayana". *(Chapter to check.)*
+- **Tradition (Vamana Purana):** the gods' fiery energies gathered at the hermitage of the sage Katyayana, who gave them form. So she is Katyayani, "daughter of Katyayana". *(Around chs. 18–21; numbering varies by edition.)*
 - **Tradition (Kalika Purana):** here Katyayana is simply the first person to worship her.
 - **Tradition (Devi Mahatmya ch. 11):** after a later victory, the gods praise the Devi as Katyayani by name (DM 11.2).
 - **Tradition (Bhagavata Purana 10.22.1–6):** the young cowherd girls of Vraja worship Katyayani for a whole winter month. They bathe in the Yamuna at dawn, make her image from earth on the riverbank, and pray that Krishna will be their husband.
@@ -150,7 +150,7 @@ The Devi Mahatmya mostly calls her Ambika or Chandika. Where does the name "Katy
 
 - **Reference:** Harry. *Order of the Phoenix*, chapter 15, "The Hogwarts High Inquisitor"; chapter 16, "In the Hog's Head"; chapter 17, "Educational Decree Number Twenty-Four"; chapter 18, "Dumbledore's Army". Film: *Order of the Phoenix* (2007).
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
-- **Film note:** the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show the naming as the book does; the name appears on the list of members that Umbridge seizes *(to check)*. The choice to join is the same in both.
+- **Film note:** the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show Ginny suggesting the name as the book does; the name appears on the list of members that Umbridge seizes. The choice to join is the same in both.
 
 **Retelling (spoken style).** It's Harry's fifth year. Voldemort is back, but the Ministry insists he isn't, the newspapers call Harry a liar, and the new Defence teacher, Professor Umbridge, teaches from a book with no spells at all. Hermione has had enough: if nobody will teach them to defend themselves, they should teach themselves, and Harry should be the teacher. Harry protests that he was lucky and always had help. At the Hog's Head, a grubby pub, he expects a handful of people, and about two dozen students turn up from three different houses. Zacharias Smith wants proof, others list what Harry has done, and they all sign Hermione's parchment, promising to keep it secret. When a new rule bans every group Umbridge hasn't approved, Dobby tells Harry about a hidden room that appears when you really need it. There Ginny points out that "D.A." could stand for Dumbledore's Army, the thing the Minister fears most, and they begin with the Disarming Charm.
 
@@ -302,7 +302,7 @@ Pick one or two questions; you don't need them all. The night ends on its theme.
 | Compassion in the heart and harshness in battle; the boon to come when called | DM 4.21–22; 4.35–39 | Tradition | High |
 | "All these powers are my own" | DM 10.3–5 | Tradition | High |
 | The gods name her Katyayani; her gentle three-eyed face | DM 11.2; 11.25 | Tradition | High |
-| Katyayani formed at the sage Katyayana's hermitage | Vamana Purana | Tradition | Medium (chapter to check) |
+| Katyayani formed at the sage Katyayana's hermitage | Vamana Purana (around chs. 18–21; numbering varies by edition) | Tradition | Medium |
 | Katyayana as her first worshipper | Kalika Purana | Tradition | Medium (via secondary sources) |
 | The cowherd girls' Katyayani vow | Bhagavata Purana 10.22.1–6 | Tradition | High |
 | Katyayani identified with Mahishasuramardini on the sixth night | Navaratri practice | Tradition (devotional) | High |

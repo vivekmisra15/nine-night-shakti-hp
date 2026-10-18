@@ -56,7 +56,7 @@ A demon named Taraka spent years in fierce austerity, and Brahma, the creator, o
 
 After the wedding, Shiva and Parvati lived on Mount Kailasa. The gods grew impatient for the promised son, and came to disturb them. A spark of Shiva's fiery energy fell to the ground, and it was far too powerful for anyone to hold. Agni, the god of fire, took the form of a dove and swallowed it, and it burned him from within. In the Shiva Purana it passes from one bearer to the next, and none can keep it. Six wives of the great sages carry it, then Himavat, the mountain, who throws it into the river Ganga. The Ganga carries it on her waves and lays it in a forest of tall reeds. There a radiant boy appears, on the sixth day of the bright half of the month Margashirsha (Kumara Khanda ch. 2, vv. 37–68). The text says the three worlds rejoiced, and Parvati felt a mother's joy before she had even seen him.
 
-**Other tellings (tradition):** in the Valmiki Ramayana (Bala Kanda 37) the sage Vishvamitra tells this story to the young Rama, and Agni and the Ganga carry the child. In the Mahabharata (Vana Parva) Agni and Svaha are his parents, and the reeds of the Ganga are again his cradle.
+**Other tellings (tradition):** in the Valmiki Ramayana (Bala Kanda 37) the sage Vishvamitra tells this story to the young Rama, and Agni and the Ganga carry the child. In the Mahabharata (Vana Parva) Agni and Svaha are his parents, and he is born in a golden lake on a white mountain.
 
 ### Beat 4: Six mothers by the river (tradition)
 
@@ -129,9 +129,9 @@ On the fifth night the Devi is worshipped as Skandamata, the mother with her chi
 
 - **Reference:** Harry. *Order of the Phoenix*, chapter 5, "The Order of the Phoenix". Film: *Order of the Phoenix* (2007), the dinner scene at Grimmauld Place.
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
-- **Film note:** the film keeps the heart of the argument in a much shorter form. Molly says Harry is just a boy and is not James, and Sirius says Harry is as good as his son. Harry asks about a weapon and is cut off, and he says he wants to join the Order. The scene then cuts to his hearing. Mrs Weasley does not send Ginny to bed. Check how much of Lupin's and Mr Weasley's part survives before describing it *(to check)*.
+- **Film note:** the film keeps the heart of the argument in a much shorter form, split in two. Harry and his friends overhear Molly and Sirius through Extendable Ears: Molly says he isn't James; Sirius says he isn't her son; she says he's as good as. At dinner Harry asks about a weapon, Molly says he's just a boy, and he says he wants to join the Order. The scene then cuts to his trip to the Ministry for the hearing. Lupin's argument, Mr Weasley's support and Ginny being sent to bed are not in the film.
 
-**Retelling (spoken style).** It's the summer Harry turns fifteen, weeks after watching Voldemort return. At Grimmauld Place, the Order's secret headquarters, Sirius says after dinner that Harry deserves answers. Mrs Weasley says no: Harry is too young, and he isn't James, though Sirius sometimes talks as if he had his best friend back. Sirius says Harry is as good as his son; who else has he got? Mrs Weasley says he has the Weasleys. Lupin steps in: Molly isn't the only one who cares about Harry, and it's better he hears the general picture from them than a twisted version from someone else. Mr Weasley agrees, and Mrs Weasley gives way, though she sends a protesting Ginny to bed. Harry learns that the Ministry denies Voldemort is back and the Order is recruiting. Then Sirius lets slip that Voldemort may be after a weapon, and Mrs Weasley sends everyone to bed.
+**Retelling (spoken style).** It's the summer Harry turns fifteen, weeks after watching Voldemort return. At Grimmauld Place, the Order's secret headquarters, Sirius says after dinner that Harry deserves answers. Mrs Weasley says no: Harry is too young, and he isn't James, though Sirius sometimes talks as if he had his best friend back. Sirius says Harry isn't her son, and Mrs Weasley answers that he's as good as: who else has he got? Sirius says Harry has him. Lupin steps in: Molly isn't the only one who cares about Harry, and it's better he hears the general picture from them than a twisted version from someone else. Mr Weasley agrees, and Mrs Weasley gives way, though she sends a protesting Ginny to bed. Harry learns that the Ministry denies Voldemort is back and the Order is recruiting. Then Sirius lets slip that Voldemort may be after a weapon, and Mrs Weasley sends everyone to bed.
 
 **The connection:**
 
@@ -370,7 +370,7 @@ Now, Hogwarts. This is from *Order of the Phoenix*, chapter five, "The Order of 
 
 It's the summer Harry turns fifteen, weeks after watching Voldemort return. At Grimmauld Place, the Order's secret headquarters, Sirius says after dinner that Harry deserves answers.
 
-Mrs Weasley says no: Harry is too young, and he isn't James, though Sirius sometimes talks as if he had his best friend back. Sirius says Harry is as good as his son; who else has he got? Mrs Weasley says he has the Weasleys.
+Mrs Weasley says no: Harry is too young, and he isn't James, though Sirius sometimes talks as if he had his best friend back. Sirius says Harry isn't her son, and Mrs Weasley answers that he's as good as: who else has he got? Sirius says Harry has him.
 
 Lupin steps in: Molly isn't the only one who cares about Harry, and it's better he hears the general picture from them than a twisted version from someone else. Mr Weasley agrees, and Mrs Weasley gives way, though she sends a protesting Ginny to bed. Harry learns that the Ministry denies Voldemort is back and the Order is recruiting. Then Sirius lets slip that Voldemort may be after a weapon, and Mrs Weasley sends everyone to bed.
 

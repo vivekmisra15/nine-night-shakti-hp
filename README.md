@@ -6,6 +6,10 @@ An interactive web app for a parent and a pre-teen, one night of Navaratri at a 
 
 *Nine Nights* is independent, free and non-commercial, and is not affiliated with J.K. Rowling, Warner Bros. or the Harry Potter publishers. It reproduces no text, images, audio or video from the books or films: scenes are retold in our own words, the pictures are original abstract artwork, and families find the scenes in their own copies. The interpretations are our own. See the [full disclaimer](docs/DISCLAIMER.md), which the app also shows on its Disclaimer page.
 
+## Licence
+
+This project is dedicated to the public domain under [CC0 1.0](LICENSE): anyone may copy, change, share and build on the code, the lesson text and the pictures, for any purpose, without asking or giving credit. This covers only our own work. It grants no rights in Harry Potter names, titles or other material owned by others (see the disclaimer above).
+
 **Status (18 October 2026):** all nine nights are built and handed over for review: the opening splash, the constellation map, the parent prep sheet, and Nights 1–9, each with its pictures, music, short evening and closing. Nights 2, 3 and 7 offer a gentle alternative Harry Potter scene, and Night 9 closes the series with a look back over all nine nights.
 
 ## Running it

@@ -222,7 +222,7 @@ export const day6: Night = {
         'If your child is uneasy about a goddess who kills, that is a good question, not a problem. The gods themselves, in the next chapter, praise her for being merciful in her heart even while she is harsh in battle (DM 4.21–22).',
       ],
       paragraphs: [
-        "Mahishasura's generals came at her one after another, with chariots, elephants and horses. As she fought, the Devi breathed out, and her breaths became whole armies of helpers (DM 2.53). Her lion charged through the enemy ranks. Her generals fell, among them Chikshura and Chamara (DM 3.2–20).",
+        "Mahishasura's generals came at her one after another, with chariots, elephants and horses. As she fought, the Devi breathed out, and her breaths became whole armies of helpers (DM 2.53). Her lion charged through the enemy ranks. Mahishasura's generals fell, among them Chikshura and Chamara (DM 3.2–20).",
         'Then Mahishasura himself came, in the form of a huge buffalo. The earth shook under his hooves, and his horns tore at mountains and clouds. The Devi caught him in her noose. He became a lion; then a man with a sword; then an elephant; then a buffalo again (DM 3.21–33). Each time she met him.',
         'She drank from the cup that never empties, and laughed. Roar for a moment, she told him, while I drink. Soon the gods will be the ones roaring, for joy (DM 3.34–37). Then she leapt onto him, pressed her foot on his neck, and struck with her trident. Half of him struggled out of the buffalo\'s mouth in his own shape. She ended his life with her sword (DM 3.38–41).',
         'His army fled. The gods rejoiced, the sages praised her, the heavenly musicians sang and the celestial dancers danced (DM 3.42–43). In the next chapter the gods ask for one thing: whenever we think of you in trouble, come and end our troubles. She agrees, and vanishes (DM 4.35–39).',
@@ -246,7 +246,7 @@ export const day6: Night = {
       },
       paragraphs: [
         'The Devi Mahatmya mostly calls her Ambika or Chandika. Where does the name "Katyayani" come from?',
-        '**Tradition (Vamana Purana):** the gods\' fiery energies gathered at the hermitage of the sage Katyayana, who gave them form. So she is Katyayani, "daughter of Katyayana". *(Chapter to check.)*',
+        '**Tradition (Vamana Purana):** the gods\' fiery energies gathered at the hermitage of the sage Katyayana, who gave them form. So she is Katyayani, "daughter of Katyayana". *(Around chs. 18–21; numbering varies by edition.)*',
         '**Tradition (Kalika Purana):** here Katyayana is simply the first person to worship her.',
         '**Tradition (Devi Mahatmya ch. 11):** after a later victory, the gods praise the Devi as Katyayani by name (DM 11.2).',
         '**Tradition (Bhagavata Purana 10.22.1–6):** the young cowherd girls of Vraja worship Katyayani for a whole winter month. They bathe in the Yamuna at dawn, make her image from earth on the riverbank, and pray that Krishna will be their husband.',
@@ -342,7 +342,7 @@ export const day6: Night = {
         text: 'there is no link. Find it yourselves in your own copy of the book or film, using the reference above.',
       },
       filmNote:
-        "the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show the naming as the book does; the name appears on the list of members that Umbridge seizes *(to check)*. The choice to join is the same in both.",
+        "the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show Ginny suggesting the name as the book does; the name appears on the list of members that Umbridge seizes. The choice to join is the same in both.",
       retelling: [
         "It's Harry's fifth year. Voldemort is back, but the Ministry insists he isn't, the newspapers call Harry a liar, and the new Defence teacher, Professor Umbridge, teaches from a book with no spells at all. Hermione has had enough: if nobody will teach them to defend themselves, they should teach themselves, and Harry should be the teacher. Harry protests that he was lucky and always had help. At the Hog's Head, a grubby pub, he expects a handful of people, and about two dozen students turn up from three different houses. Zacharias Smith wants proof, others list what Harry has done, and they all sign Hermione's parchment, promising to keep it secret. When a new rule bans every group Umbridge hasn't approved, Dobby tells Harry about a hidden room that appears when you really need it. There Ginny points out that \"D.A.\" could stand for Dumbledore's Army, the thing the Minister fears most, and they begin with the Disarming Charm.",
       ],
@@ -689,9 +689,9 @@ export const day6: Night = {
       },
       {
         claim: "Katyayani formed at the sage Katyayana's hermitage",
-        source: 'Vamana Purana',
+        source: 'Vamana Purana (around chs. 18–21; numbering varies by edition)',
         label: 'Tradition',
-        confidence: 'Medium (chapter to check)',
+        confidence: 'Medium',
       },
       {
         claim: 'Katyayana as her first worshipper',

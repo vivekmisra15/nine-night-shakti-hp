@@ -338,11 +338,11 @@ export const day1: Night = {
       filmNote:
         'the film keeps the insults, the inflating, and Harry leaving on the Knight Bus. Compare how the film handles the deal over the Hogsmeade form with the book before quoting details.',
       retelling: [
-        "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
+        "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Harry strikes a deal with Uncle Vernon: he'll behave and never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
       ],
       connection: {
         similar:
-          "an elder insults absent loved ones at a family gathering, after contempt that has been building for a long time. The rest of the household stays silent, as the guests at Daksha's sacrifice did out of fear of him. Aunt Petunia says nothing, though Marge is insulting her own sister, Lily.",
+          "an elder insults absent loved ones at a family gathering, after contempt that has been building for a long time. Nobody defends Harry's parents; Vernon even feeds Marge the jibe, much as the guests at Daksha's sacrifice stayed silent out of fear of him. Aunt Petunia says nothing, though Marge is insulting her own sister, Lily.",
         different: [
           "Harry doesn't choose his response; his magic escapes him. The story treats Sati's act as deliberate and sacred.",
           "The scene is partly comic; Sati's story is a tragedy.",
@@ -376,7 +376,7 @@ export const day1: Night = {
       ladder: [
         { step: 'Notice', question: 'what deal had Harry made, and what was he trying to protect by keeping quiet all week?' },
         { step: 'Feel', question: 'what do you think Harry felt as Marge kept talking? Where did it change?' },
-        { step: 'Wonder', question: 'why do you think Vernon and Petunia said nothing?' },
+        { step: 'Wonder', question: 'why do you think Petunia said nothing, and Vernon joined in?' },
         { step: 'Stretch', question: "Harry didn't decide to inflate her. Is he still responsible for what happened?" },
         { step: 'Turn it around', question: "tell the dinner from Aunt Petunia's side. Marge was insulting her sister too." },
         {
@@ -431,7 +431,7 @@ export const day1: Night = {
         text: 'there are no links. Find them yourselves in your own copies of the books or films, using the references above.',
       },
       retelling: [
-        "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
+        "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and in Diagon Alley he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
         "A year later, Harry worries that he belongs in Slytherin after all: he can talk to snakes, as Salazar Slytherin could. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.",
       ],
       connection: {
@@ -803,7 +803,7 @@ export const day1: Night = {
       },
       {
         kind: 'read',
-        text: "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
+        text: "It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Harry strikes a deal with Uncle Vernon: he'll behave and never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.",
       },
       { kind: 'parent', text: 'PAUSE: Think it through. Choose two or three:' },
       {
@@ -811,7 +811,7 @@ export const day1: Night = {
         items: [
           'Notice: what deal had Harry made, and what was he protecting by staying quiet?',
           'Feel: what was Harry feeling as Marge kept going? Where did it change?',
-          "Wonder: why did Vernon and Petunia say nothing? Marge was insulting Petunia's own sister.",
+          "Wonder: why did Petunia say nothing, and why did Vernon join in? Marge was insulting Petunia's own sister.",
           "Stretch: Harry didn't decide to inflate her. Is he still responsible?",
           "Connect: how is Harry at that table like Sati at her father's ceremony, and how is he completely different?",
         ],
@@ -838,7 +838,7 @@ export const day1: Night = {
       },
       {
         kind: 'read',
-        text: "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
+        text: "It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and in Diagon Alley he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.",
       },
       {
         kind: 'read',

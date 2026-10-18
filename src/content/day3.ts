@@ -227,7 +227,7 @@ export const day3: Night = {
         },
       ],
       whatHappens:
-        'Shiva changed. In the Shiva Purana, Vishnu urges Narada to go to Shiva, Narada pleads with him, and Shiva joyfully takes a radiant, beautiful form (ch. 45). In popular tellings, it is Parvati as Chandraghanta who asks. Mena stood stunned, like a figure in a painting. She praised her daughter\'s tapas, asked Shiva to forgive her harsh words, and bowed to him. The wedding went ahead in joy. Which form was the "real" Shiva? The text called the frightening one his real form. Perhaps both were.',
+        'Shiva changed. In the Shiva Purana, Vishnu urges Narada to go to Shiva, Narada pleads with him, and Shiva joyfully takes a radiant, beautiful form (ch. 45). In popular tellings, it is Parvati as Chandraghanta who asks. Mena stood stunned, like a figure in a painting. She praised her daughter\'s tapas, asked Shiva to forgive her harsh words, and bowed to him. The wedding went ahead in joy. Which form was the "real" Shiva? The text called the frightening one his real form, though Narada later tells Mena it was only a form taken in play. Perhaps both were.',
     },
 
     // -----------------------------------------------------------------------
@@ -674,7 +674,7 @@ export const day3: Night = {
         "What's something gentle about you that could turn fierce if it had to?",
       ],
       goDeeper: [
-        'The Shiva Purana calls Shiva\'s frightening form his "real form". If he can also look beautiful, which one is real?',
+        'The Shiva Purana first calls Shiva\'s frightening form his "real form", then has Narada say it isn\'t. If he can also look beautiful, which one is real?',
         'Was it fair for Mena to ask Shiva to change how he looked? Was it kind of him to agree?',
         'Molly protected Ginny and also took revenge for Fred. Can you separate the two? Should you?',
         'Neville was brave and wrong. Can you think of a time someone was right but cowardly? Which is better?',
@@ -1022,7 +1022,7 @@ export const day3: Night = {
       { kind: 'read', text: 'Last questions.' },
       {
         kind: 'parent',
-        text: 'PAUSE: ask one question for your child, and one "go deeper" question if there\'s energy. Suggested: "Parvati stayed calm while her mother shouted at her. How do you think she did it?" and "The old text calls Shiva\'s frightening form his real form. Which one is real?"',
+        text: 'PAUSE: ask one question for your child, and one "go deeper" question if there\'s energy. Suggested: "Parvati stayed calm while her mother shouted at her. How do you think she did it?" and "The old text first calls Shiva\'s frightening form his real form, then says it isn\'t. Which one is real?"',
       },
       {
         kind: 'parent',

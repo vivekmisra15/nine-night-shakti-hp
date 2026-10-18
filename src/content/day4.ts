@@ -248,7 +248,7 @@ export const day4: Night = {
         },
       ],
       whatHappens:
-        'in a way, the first three answers are all true. One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg. This is a devotional reading of the word, not grammar from an old text. Yet in the Devi Mahatmya, Brahma praises the Devi as the one who creates the universe, holds it up and at the end draws it back into herself (ch. 1, verses 72–73 in the hindupad.com numbering; editions number it differently). A smile, and all the power there is, in one Devi.',
+        'in a way, the first three answers are all true. One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg. This is a devotional reading of the word, not grammar from an old text. Yet in the Devi Mahatmya, Brahma praises the Devi as the one who creates the universe, holds it up and at the end draws it back into herself (ch. 1, verses 75–76 in the standard 700-verse numbering). A smile, and all the power there is, in one Devi.',
       shortEveningFrom:
         'One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg.',
     },
@@ -664,9 +664,9 @@ export const day4: Night = {
       },
       {
         claim: 'The Devi creates, sustains and withdraws the universe',
-        source: "Devi Mahatmya ch. 1, Brahma's hymn (vv. 72–73 at hindupad.com; numbering varies)",
+        source: "Devi Mahatmya ch. 1, Brahma's hymn (vv. 75–76 in the standard 700-verse numbering)",
         label: 'Tradition',
-        confidence: 'High (content); medium (verse numbers)',
+        confidence: 'High',
       },
       {
         claim: 'Creation as play (*lila*)',

@@ -47,11 +47,11 @@ This follows the Shiva Purana, Rudra Samhita, Parvati Khanda (chapters 11–28, 
 
 ### Beat 2: The yogi who would not wake (tradition)
 
-After Sati was gone, Shiva went to a high ridge of the Himalaya and sat in meditation, with his attendants keeping guard (ch. 11). Himavat, king of the mountains, came to honour him. He brought his young daughter Parvati and asked that she be allowed to serve Shiva. Shiva refused at first. An ascetic, he said, should keep away from such company, because it pulls the mind back into the world (ch. 12). Parvati answered him herself. Your very power to meditate comes from nature, she said, and nature is what I am. If you are truly beyond nature, why fear having me near? Shiva had no reply to that, and allowed her to serve him every day (ch. 13). So she came each day with flowers and water, and he went on meditating, as if she were not there.
+After Sati was gone, Shiva went to a high ridge of the Himalaya and sat in meditation, with his attendants keeping guard (ch. 11). Himavat, king of the mountains, came to honour him. He brought his young daughter Parvati and asked that she be allowed to serve Shiva. Shiva refused at first. An ascetic, he said, should keep away from such company, because it pulls the mind back into the world (ch. 12). Parvati answered him herself. Your very power to meditate comes from nature, she said, and nature is what I am. If you are truly beyond nature, why fear having me near? Shiva answered her with an argument of his own, but he allowed her to serve him every day (ch. 13). So she came each day with flowers and water, and he went on meditating, as if she were not there.
 
 ### Beat 3: Kama's arrow (tradition)
 
-The gods had their own reason to want Shiva married. A demon named Taraka had won a boon that only a son of Shiva could defeat him. (His story belongs to Night 5.) So Indra, king of the gods, called on Kama, the god of love, to turn Shiva's mind towards Parvati (ch. 17). Kama came with his wife Rati and with Spring. Flowers bloomed out of season and birds sang. As Parvati drew near with her flowers, Kama loosed his arrow. For a moment Shiva's meditation was disturbed and he gazed at her. Then he caught himself, ashamed of the lapse, and looked around for its cause (ch. 18). He saw Kama, bow in hand. Fire blazed from the third eye in Shiva's forehead, and Kama was burned to ash before the gods could cry for mercy (ch. 19).
+The gods had their own reason to want Shiva married. A demon named Taraka had won a boon that only a son of Shiva could defeat him. (His story belongs to Night 5.) So Indra, king of the gods, called on Kama, the god of love, to turn Shiva's mind towards Parvati (ch. 17). Kama came with his wife Rati and with Spring. Flowers bloomed out of season and birds sang. As Parvati drew near with her flowers, Kama loosed his arrow. For a moment Shiva's meditation was disturbed and he gazed at her. Then he caught himself, ashamed of the lapse (ch. 18), and looked around for its cause (ch. 19). He saw Kama, bow in hand. Fire blazed from the third eye in Shiva's forehead, and Kama was burned to ash before the gods could cry for mercy (ch. 19).
 
 Rati collapsed in grief. The gods begged Shiva to restore her husband. Shiva promised that Kama would live again, without a body for now, and later be born as Pradyumna, son of Krishna (ch. 19). Then Shiva vanished. Parvati, terrified by the blast, went home with her friends (ch. 21).
 
@@ -374,7 +374,7 @@ Shiva said no. An ascetic should keep away from company like that, he said; it p
 
 Parvati answered him herself. Your power to meditate comes from nature, she said, and nature is what I am. If you're really beyond nature, why are you afraid of having me near?
 
-Shiva had no answer. So she was allowed to serve him every day. She brought flowers and water, day after day. And he went on meditating as if she wasn't there.
+Shiva argued back, but he let her serve him every day. She brought flowers and water, day after day. And he went on meditating as if she wasn't there.
 
 Now, the gods had their own reasons for wanting Shiva married. A demon called Taraka could only be defeated by a son of Shiva. So Indra, king of the gods, called Kama, the god of love, and asked him to turn Shiva's mind towards Parvati.
 

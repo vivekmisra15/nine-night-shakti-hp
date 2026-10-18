@@ -94,7 +94,7 @@ Devotional tradition says Kushmanda lives at the very centre of the sun. She is 
 | Something gentle, like a smile | That's tonight's story exactly. Gentle isn't the same as weak. |
 | Nobody can know | An honest answer, and one of the oldest. A Rig Veda poet said much the same. |
 
-**What happens:** in a way, the first three answers are all true. One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg. This is a devotional reading of the word, not grammar from an old text. Yet in the Devi Mahatmya, Brahma praises the Devi as the one who creates the universe, holds it up and at the end draws it back into herself (ch. 1, verses 72–73 in the hindupad.com numbering; editions number it differently). A smile, and all the power there is, in one Devi.
+**What happens:** in a way, the first three answers are all true. One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg. This is a devotional reading of the word, not grammar from an old text. Yet in the Devi Mahatmya, Brahma praises the Devi as the one who creates the universe, holds it up and at the end draws it back into herself (ch. 1, verses 75–76 in the standard 700-verse numbering). A smile, and all the power there is, in one Devi.
 
 **Short evening:** start at "One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg."
 
@@ -267,7 +267,7 @@ Pick one or two questions; you don't need them all. The night ends on its theme.
 | Darkness hidden in darkness; desire as the first seed; "who really knows?" | Rig Veda 10.129.3–4, 6–7 | Tradition | High; translations vary |
 | Hiranyagarbha, the golden embryo | Rig Veda 10.121 | Tradition | High |
 | Egg splitting into silver earth and golden sky; the sun as Brahman | Chandogya Upanishad 3.19 | Tradition | High |
-| The Devi creates, sustains and withdraws the universe | Devi Mahatmya ch. 1, Brahma's hymn (vv. 72–73 at hindupad.com; numbering varies) | Tradition | High (content); medium (verse numbers) |
+| The Devi creates, sustains and withdraws the universe | Devi Mahatmya ch. 1, Brahma's hymn (vv. 75–76 in the standard 700-verse numbering) | Tradition | High |
 | Creation as play (*lila*) | Brahma Sutra 2.1.33 | Interpretation (philosophical) | High |
 | Om as the first sound | Widely held Hindu teaching | Interpretation | Medium (stated generally) |
 | Petha made from ash gourd; Durga Kund identified with Kushmanda | Popular and local tradition; temple guides | Tradition (local) | Medium |

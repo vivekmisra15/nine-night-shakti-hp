@@ -302,7 +302,7 @@ A ninth thread is *fierce and gentle together* (Nights 3, 7 and 8).
 ## Still to check
 
 - [ ] The Devi Kavacham's attribution to the Varaha Purana, against a printed edition such as Gita Press.
-- [x] Bhagavata Purana 4.7 as the place where Sati's rebirth is mentioned. Confirmed at 4.7.58–59, which names Mena and the Himalayas but not Himavat.
+- [x] Bhagavata Purana 4.7 as the place where Sati's rebirth is mentioned. Confirmed at 4.7.58–59, which names Mena and Himavat (*himavataḥ*, rendered "the Himalayas" in the English).
 - [ ] The Shiva Purana and Matsya Purana versions of Shiva teasing Parvati (only the Skanda Purana version is confirmed).
 - [x] Whether the CoS film keeps Dumbledore's "choices" line. Confirmed; the wording may differ from the book.
 - [x] How much of Harry's failure to practise Occlumency the OotP film shows (Night 2). Checked against the transcript: the film shows two lessons and never shows Harry skipping practice, so Night 2 retells it from the book.
