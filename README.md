@@ -46,9 +46,10 @@ The app has no YouTube or other video links, to avoid copyright problems. Each s
 - **Steps:** each beat is split into short steps, one screen each (25 on the full night, 17 on a short evening). The list and where each screen's words come from are in `docs/direction/night-1.md`; the code that splits beats into steps is `src/engine/steps.ts`.
 - **Narration** appears sentence by sentence (`src/components/Narration.tsx`). The **reading pace** (Settings) can be Slower (the default, for reading aloud), Relaxed, or Tap to continue.
 - **Theme:** each night has a theme (a word, a one-line idea and a description), agreed in `docs/NINE_NIGHTS_CONTENT.md`. The story ends on it, the night ends on it again, and the closing shows it.
-- **Short evening / Full night:** the switch in the bottom bar (and in Settings) gives a short evening of about 15 minutes: the story without its choices, the theme, the first Harry Potter scene with its Think it through, and Reflect. What it leaves out is listed in `shortEveningLeavesOut` at the top of `src/content/day1.ts` (whole beats like `'n1-b7'`, or single steps like `'n1-b4:choiceAsk'`).
+- **Short evening / Full night:** the switch in the bottom bar (and in Settings) gives a short evening of about 15 minutes: the story (each choice shows its set-up and what happened, without the question), the theme, the first Harry Potter scene with its Think it through, and Reflect. Anything else it leaves out is listed in `shortEveningLeavesOut` near the top of each `src/content/dayN.ts` (whole beats like `'n1-b12'`, or single steps like `'n3-b4:choiceReveal'`).
 - **Hearing the Devi's name:** the speaker button beside each name (map and night header) says it with the device's own offline Hindi voice, reading the Devanagari spelling in `src/content/journey.ts`. Online voices are never used, so nothing is sent anywhere; if the device has no offline Hindi voice, the button is hidden. The code is `src/audio/sayName.ts`.
 - **Parent prep sheet:** "Parent prep sheet" on the map opens every Harry Potter scene of the nine nights in one table, with a Print button (it fits one landscape A4 page). Edit `docs/PARENT_PREP.md` first, then `src/content/prep.ts`.
+- **Gentle alternatives:** Nights 2, 3 and 7 offer a gentler second Harry Potter scene. The parent picks one on the night's first screen; Think it through and Side by side switch to match.
 - **For the parent:** the bell in the header pulses where the night file places a parent note. Tap it to read the note; the story never stops by itself.
 
 ## Controls
@@ -63,11 +64,16 @@ The splash and map play a calm, generative piece in Raga Bhupali that starts sof
 - **A beat's raga, tempo or layers:** edit its `direction.music` in `src/content/day1.ts`.
 - **Overall loudness:** use the volume sliders in Settings. The master chain in `engine.ts` keeps the output below −1 dBFS.
 
-## Adding the next night
+## Adding or changing a night
 
-1. Confirm the night's theme with Supriya (all nine are in `docs/NINE_NIGHTS_CONTENT.md`) and copy it into `docs/nights/night-N.md`.
-2. Write `docs/direction/night-N.md` and get it approved.
-3. Create `src/content/dayN.ts` following `day1.ts`, copying the text from `docs/nights/night-N.md`, including what its short evening leaves out.
-4. Add it to the `nights` list in `src/App.tsx`, and set `built: true` for that night in `src/content/journey.ts`.
-5. Add the night's illustrations in `src/visuals/dayN/` and register them in `src/visuals/index.ts`.
-6. Write its score plan in `src/audio/dayNScore.ts` and add it next to the night in `src/App.tsx`.
+All nine nights follow the same pattern, and each night lives in its own files, which the app finds automatically (nothing else needs editing):
+
+| File | What it holds |
+| --- | --- |
+| `docs/nights/night-N.md` | The lesson and read-aloud script: the source of all text. Change text here first. |
+| `docs/direction/night-N.md` | The step list, pictures, palettes, ragas and music for each beat. |
+| `src/content/dayN.ts` | The night's text, copied from the doc, with each beat's direction values. Once this file exists, the night shows as built on the map (`src/content/nights.ts` finds it). |
+| `src/visuals/dayN/` | One file per picture, the night's palettes (`palettes.ts`, keys prefixed `nN`) and `index.ts`, which says which picture goes with which beat (including `nN-closing`). |
+| `src/audio/dayNScore.ts` | The night's musical moments and sound captions. |
+
+Each night's theme is agreed in `docs/NINE_NIGHTS_CONTENT.md` and is never changed without Supriya.

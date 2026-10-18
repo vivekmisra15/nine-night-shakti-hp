@@ -66,7 +66,7 @@ export interface MusicChange {
 
 // When something happens: at a time, at a sentence (plus an offset), or when
 // the learner does something (a cue name, or a prefix ending in ':').
-export type When = { at: number } | { line: number; offset?: number } | { cue: string };
+export type When = { at: number } | { line: number; offset?: number } | { cue: string; offset?: number };
 
 export interface ScoreEvent {
   when: When;
@@ -94,7 +94,7 @@ export function captionAt(beat: Beat, plan: BeatScore | undefined, t: number, cu
         .filter(([name]) => name === w || (w.endsWith(':') && name.startsWith(w)))
         .map(([, time]) => time);
       if (times.length === 0) continue;
-      at = Math.max(...times);
+      at = Math.max(...times) + (e.when.offset ?? 0);
     } else if ('at' in e.when) at = e.when.at;
     else at = lineTimes(beat, e.when.line).start + (e.when.offset ?? 0);
     if (t >= at && t < at + 3 && at >= latest) {
@@ -150,6 +150,8 @@ export class Score {
   private silentUntil = -1;
   private activity = false;
   private fired = new Set<number>();
+  // Cue moments waiting for their offset (picture time when each is due).
+  private pendingCues: { event: ScoreEvent; at: number }[] = [];
   private enabled = true;
   private free = false; // playing without a beat (the opening splash)
 
@@ -205,6 +207,7 @@ export class Score {
     this.details = new Set();
     if (plan.start) this.apply(plan.start);
     this.fired.clear();
+    this.pendingCues = [];
     this.lastT = -0.001;
     this.silentUntil = -1;
     this.melody = [];
@@ -241,7 +244,10 @@ export class Score {
     for (const e of this.plan.events ?? []) {
       if (!('cue' in e.when)) continue;
       const w = e.when.cue;
-      if (w === name || (w.endsWith(':') && name.startsWith(w))) this.fire(e, this.now + 0.02);
+      if (!(w === name || (w.endsWith(':') && name.startsWith(w)))) continue;
+      // With an offset, it happens that many seconds of picture time later.
+      if (e.when.offset) this.pendingCues.push({ event: e, at: this.transport.t + e.when.offset });
+      else this.fire(e, this.now + 0.02);
     }
   }
 
@@ -254,14 +260,14 @@ export class Score {
 
   // The night's closing: the falling answer on the bansuri, one temple bell,
   // and a calm tanpura tail that fades over five seconds.
-  closing() {
+  closing(raga: Raga = 'bhupali') {
     const when = this.now + 0.1;
     this.layers = new Set(['drone']);
     this.updateGains();
     // The flute plays through the motif layer, so open it for the answer.
     this.layerGain.motif.gain.setTargetAtTime(0.25, this.now, 0.05);
     this.layerGain.drone.gain.setTargetAtTime(0.35, this.now, 0.05);
-    this.playPhrase(signatureAnswer, when, 'bansuri', 60);
+    this.playPhrase(ragas[raga].cadence, when, 'bansuri', 60);
     // The tanpura keeps sounding under the closing, then fades.
     for (let i = 0; i < 8; i++) {
       v.tanpura(this.b.ctx, this.layerGain.drone, when + i * 0.95, freqOf([-17, -12, -12, -24][i % 4]), 0.3);
@@ -347,6 +353,12 @@ export class Score {
         this.fired.add(index);
         this.fire(e, now + 0.02);
       }
+    });
+    // Moments a few seconds after something the learner did.
+    this.pendingCues = this.pendingCues.filter((p) => {
+      if (t < p.at) return true;
+      this.fire(p.event, now + 0.02);
+      return false;
     });
     if (this.silentUntil > 0 && t >= this.silentUntil) {
       this.silentUntil = -1;
@@ -501,12 +513,15 @@ export class Score {
         return;
       case 'bowl':
         return v.singingBowl(ctx, direct, when, freqOf(-12), 0.7);
+      // The signature motif: Night 1's rising phrase and its answer in
+      // Bhupali; in another raga, that raga's first phrase and its cadence,
+      // so the motif never uses a note the raga doesn't have.
       case 'rise':
-        return this.playPhrase(signatureRise, when, 'bansuri', 60, direct);
+        return this.playPhrase(this.raga === 'bhupali' ? signatureRise : ragas[this.raga].phrases[0], when, 'bansuri', 60, direct);
       case 'answer':
-        return this.playPhrase(signatureAnswer, when, 'bansuri', 60, direct);
+        return this.playPhrase(this.raga === 'bhupali' ? signatureAnswer : ragas[this.raga].cadence, when, 'bansuri', 60, direct);
       case 'riseFragment':
-        return this.playPhrase(signatureRise.slice(0, 3), when, 'bansuri', 60, direct);
+        return this.playPhrase((this.raga === 'bhupali' ? signatureRise : ragas[this.raga].phrases[0]).slice(0, 3), when, 'bansuri', 60, direct);
       case 'phrase': {
         const bank = ragas[this.raga].phrases;
         return this.playPhrase(bank[Math.floor(Math.random() * bank.length)], when, 'bansuri', this.bpm, direct);

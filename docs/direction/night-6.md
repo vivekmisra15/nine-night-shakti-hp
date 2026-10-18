@@ -42,8 +42,7 @@ All text comes from `docs/nights/night-6.md`. Steps marked *(full night)* are le
 
 | Section | Step | Content |
 | --- | --- | --- |
-| Enter | 1.1 | Opening invocation; **Last night** |
-| | 1.2 | **Tonight** |
+| Enter | 1 | Opening invocation; **Last night** and **Tonight** (one screen: together they are under 100 words) |
 | Story | 2 | Beat 2 narration |
 | Choices | 3.1 | Beat 3 set-up |
 | | 3.2 | The question, four options with acknowledgements *(full night)* |
@@ -70,7 +69,7 @@ All text comes from `docs/nights/night-6.md`. Steps marked *(full night)* are le
 
 **The closing** (about 13 seconds): the gold dawn from Beat 6 rises over a low ridge; *Courage* and its idea fade in large and hold. The gathered light settles into one diya, becomes a spark, and the map appears with diya 6 lit.
 
-That gives 25 steps on the full night and 19 on a short evening (each choice shows its set-up and what happened, without the question).
+That gives 24 steps on the full night and 18 on a short evening (each choice shows its set-up and what happened, without the question).
 
 ## Beats
 

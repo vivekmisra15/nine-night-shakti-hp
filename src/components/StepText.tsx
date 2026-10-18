@@ -140,7 +140,7 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, gentle,
       const group = openingGroups(beat)[step.part];
       return (
         <>
-          {step.part === 0 && <h3>{beat.heading}</h3>}
+          {step.part === 0 && beat.heading && <h3>{beat.heading}</h3>}
           {group.map((i) => (
             <p key={i}>
               <Lead item={beat.points[i]} />
@@ -319,6 +319,7 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, gentle,
                 Next question: {ladder[rung].step}
               </button>
             )}
+            {followUps.length > 0 && (
             <details className="parent-drawer" open={complete}>
               <summary>For the parent: if they say…, try asking…</summary>
               <ul>
@@ -329,6 +330,7 @@ export function StepText({ beat, step, theme, t, complete, shortEvening, gentle,
                 ))}
               </ul>
             </details>
+            )}
           </div>
           <div>
             <StanceLine id={g?.stance ? `${beat.id}-gentle` : beat.id} left={stance.left} right={stance.right} note={stance.note} />

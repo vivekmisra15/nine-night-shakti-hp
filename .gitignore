@@ -10,3 +10,7 @@ dist/
 # Local editor and environment files
 .vscode/
 *.local
+src/zz-*
+
+# Local test tools and screenshots (not part of the app)
+.scratch/

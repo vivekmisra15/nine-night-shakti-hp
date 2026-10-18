@@ -36,7 +36,17 @@ export interface CaptionLine {
 
 // Split after . ! or ? when the next sentence starts with a capital letter or
 // a bracket, so "ch. 5" and "4.7.58" stay whole.
-const splitSentences = (paragraph: string) => paragraph.split(/(?<=[.!?…])\s+(?=[A-Z("“'*])/);
+// Splits a paragraph into sentences. A full stop after a short abbreviation
+// used in references ("Ch. Up. 3.19", "vv. 5–8", "e.g. ") or after an initial
+// ("R. C. Hazra") doesn't end a sentence.
+const abbreviation = /(?:^|[\s(])(?:Ch|ch|Up|vv|v|cf|e\.g|i\.e|Dr|Mr|Mrs|Ms|St|[A-Z])\.$/;
+const splitSentences = (paragraph: string) =>
+  paragraph.split(/(?<=[.!?…])\s+(?=[A-Z("“'*])/).reduce<string[]>((sentences, piece) => {
+    const last = sentences.at(-1);
+    if (last !== undefined && abbreviation.test(last)) sentences[sentences.length - 1] = `${last} ${piece}`;
+    else sentences.push(piece);
+    return sentences;
+  }, []);
 
 export function captionLines(paragraphs: string[]): CaptionLine[] {
   const { perWord, perLine } = paces[pace];

@@ -59,10 +59,10 @@ export const prepNights: PrepNight[] = [
       },
       {
         scene: 'Occlumency',
-        book: '*Order of the Phoenix*, ch. 24, "Occlumency"; ch. 26, "Seen and Unforeseen"; ch. 28, "Snape\'s Worst Memory"; ch. 31–32, "O.W.L.s" and "Out of the Fire"; ch. 37, "The Lost Prophecy"',
+        book: '*Order of the Phoenix*, ch. 24, "Occlumency"; ch. 26, "Seen and Unforeseen"; ch. 28, "Snape\'s Worst Memory"; ch. 31–32, "O.W.L.s" and "Out of the Fire"; ch. 35, "Beyond the Veil"; ch. 37, "The Lost Prophecy"',
         film: '*Order of the Phoenix* (2007)',
         intensity: 'Intense',
-        note: 'Leads to Sirius\'s death. Gentle alternative: the Summoning Charm, *Goblet of Fire*, ch. 20, "The First Task".',
+        note: 'Leads to Sirius\'s death. Gentle alternative: the Summoning Charm, *Goblet of Fire*, ch. 20, "The First Task" (the practice is in the book only).',
       },
     ],
   },

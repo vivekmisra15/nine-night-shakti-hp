@@ -143,7 +143,10 @@ export function NightPlayer(props: Props) {
   onCueRef.current = onCue;
   useEffect(() => {
     if (step.kind === 'themeEnd') onCueRef.current('takeaway');
-  }, [step.id, step.kind]);
+    // On a short evening there is no question, so a choice's outcome (and its
+    // picture) plays straight away, as if "See what happened" were tapped.
+    if (step.kind === 'choiceReveal' && settings.shortEvening) onCueRef.current('reveal');
+  }, [step.id, step.kind, settings.shortEvening]);
 
   // The parent bell pulses (with a soft chime) at the start of a beat that
   // has a parent note, and again at the sentence the night file names.
@@ -216,6 +219,8 @@ export function NightPlayer(props: Props) {
       cues={cues}
       onCue={onCue}
       pulse={pulse}
+      stepKind={step.kind}
+      gentle={gentle}
     />
   );
 

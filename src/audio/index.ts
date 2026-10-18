@@ -2,7 +2,7 @@
 // functions and the useScore hook; everything else in src/audio is internal.
 
 import { useEffect, useRef } from 'react';
-import type { Beat } from '../content/types';
+import type { Beat, Raga } from '../content/types';
 import type { Settings } from '../state/progress';
 import { applySettings, getBuses, musicLevel, unlock } from './engine';
 import { type BeatScore, Score } from './score';
@@ -29,8 +29,8 @@ export function playEffect(name: 'tick' | 'hotspot') {
 export function sendCue(name: string) {
   getScore()?.cue(name);
 }
-export function playClosing() {
-  getScore()?.closing();
+export function playClosing(raga?: Raga) {
+  getScore()?.closing(raga);
 }
 export function stopMusic() {
   getScore()?.stop();

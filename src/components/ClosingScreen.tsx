@@ -25,7 +25,7 @@ export function ClosingScreen({ night, captions, onDone }: Props) {
   const [t, setT] = useState(0);
 
   useEffect(() => {
-    playClosing();
+    playClosing(night.closing.raga);
     const start = performance.now();
     let frame = requestAnimationFrame(function tick(now) {
       const elapsed = (now - start) / 1000;
@@ -34,7 +34,7 @@ export function ClosingScreen({ night, captions, onDone }: Props) {
       else frame = requestAnimationFrame(tick);
     });
     return () => cancelAnimationFrame(frame);
-  }, [onDone, seconds]);
+  }, [onDone, seconds, night.closing.raga]);
 
   const caption = captions ? closingCaptions.findLast((c) => t >= c.at && t < c.at + 3)?.text : undefined;
   const ideaOpacity = Math.min(fadeIn(t, 2.5, 1.5), fadeOut(t, seconds - 2.5, 1));

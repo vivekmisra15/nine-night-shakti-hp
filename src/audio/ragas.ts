@@ -22,6 +22,7 @@ export interface RagaInfo {
   // tuned to another note of the raga instead.
   droneNote: number;
   restNote: number; // the note long string tones lean on
+  cadence: Phrase; // a phrase falling home to Sa, played at a night's closing
 }
 
 export const ragas: Record<Raga, RagaInfo> = {
@@ -30,6 +31,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // mountain. Used for the opening, Kailasa, the rebirth and the close, and
   // it carries the night's signature motif.
   bhupali: {
+    cadence: [[9, 2], [7, 2], [4, 2], [2, 2], [0, 6]], // D P G R S, Night 1's signature answer
     notes: [0, 2, 4, 7, 9, 12],
     droneNote: -5, // Pa below Sa
     restNote: 4,
@@ -46,6 +48,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // sound, traditionally of late night: Sati missing her mother and sisters
   // and the home she grew up in (Beats 3–4).
   bageshri: {
+    cadence: [[5, 2], [3, 2], [2, 2], [0, 6]], // m g R S
     notes: [0, 2, 3, 5, 9, 10, 12],
     droneNote: -7, // Ma below Sa: Bageshri leans on Ma, and uses Pa only lightly
     restNote: 5,
@@ -62,6 +65,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // sunset turning to dark. Used for her father's house and Shiva's grief
   // (Beats 5–7).
   marwa: {
+    cadence: [[6, 2], [4, 2], [1, 2], [-1, 2], [0, 6]], // M G r N. S
     notes: [-1, 1, 4, 6, 9, 11, 13],
     droneNote: -1, // Ni below Sa: with no Pa in Marwa, the tanpura is tuned to Ni
     restNote: 9,
@@ -77,6 +81,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // tension; it is gentle and reflective. Used while the family thinks
   // together: the ideas, today and the reflection.
   yaman: {
+    cadence: [[4, 2], [6, 2], [2, 2], [0, 6]], // G M R S
     notes: [-1, 2, 4, 6, 7, 9, 11, 12],
     droneNote: -5, // Pa below Sa
     restNote: 4,
@@ -94,6 +99,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // Used for darkness that is calm rather than menacing: Parvati's tapas
   // (Night 2), the dark before creation (Night 4), and Kalaratri (Night 7).
   malkauns: {
+    cadence: [[5, 2], [3, 2], [-2, 2], [0, 6]], // m g n. S
     notes: [0, 3, 5, 8, 10, 12],
     droneNote: -7, // Ma below Sa: with no Pa in Malkauns, the tanpura is tuned to Ma
     restNote: 5,
@@ -109,6 +115,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // Ni: bright, confident and devotional, and named for the Devi herself.
   // Used as the Devi appears in her protective forms (Nights 3 and 6).
   durga: {
+    cadence: [[9, 2], [7, 2], [5, 2], [2, 2], [0, 6]], // D P m R S
     notes: [0, 2, 5, 7, 9, 12],
     droneNote: -5, // Pa below Sa
     restNote: 7,
@@ -124,6 +131,7 @@ export const ragas: Record<Raga, RagaInfo> = {
   // a solemn, prayerful sound, traditionally sung at first light. Used for the
   // dawns that close the series: Vijayadashami (Night 9) and Night 8's close.
   bhairav: {
+    cadence: [[5, 2], [4, 2], [1, 3], [0, 6]], // m G r S
     notes: [-1, 0, 1, 4, 5, 7, 8, 11, 12],
     droneNote: -5, // Pa below Sa
     restNote: 4,

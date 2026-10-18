@@ -102,7 +102,7 @@ interface BeatBase {
 
 export interface OpeningBeat extends BeatBase {
   type: 'opening';
-  heading: string; // e.g. "What Navaratri is."
+  heading?: string; // e.g. "What Navaratri is." (only if the night file gives one)
   points: LeadText[];
 }
 
@@ -168,7 +168,7 @@ export interface SceneIntroBeat extends BeatBase {
     similar: string;
     different: string[];
     whyItHelps: string;
-    strength: { rating: 'strong' | 'partial' | 'speculative'; text: string };
+    strength: { rating: 'strong' | 'partial to strong' | 'partial' | 'speculative'; text: string };
     themeLink: string; // "Link to the theme": the narrative hook to the night's theme
   };
 }
@@ -299,5 +299,6 @@ export interface Night {
   };
   // The closing after Finish: how long it lasts, and its sound captions. Its
   // picture is the illustration registered as 'nN-closing'.
-  closing: { seconds: number; captions: { at: number; text: string }[] };
+  // `raga` sets the closing phrase (default Bhupali, Night 1's signature answer).
+  closing: { seconds: number; captions: { at: number; text: string }[]; raga?: Raga };
 }
