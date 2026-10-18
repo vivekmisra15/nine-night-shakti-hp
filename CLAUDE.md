@@ -8,7 +8,7 @@ Supriya owns this project. She is learning to build applications.
 
 - **Keep code simple, readable and easy to edit.** Prefer plain React state and small files over clever abstractions. Add no infrastructure or libraries unless they clearly earn their place, and ask first.
 - **Content before code.** Lesson content is agreed in `docs/` first. Never invent or rewrite lesson text in code; copy it from the docs. If something in the docs looks wrong, flag it rather than silently changing it.
-- **One night at a time.** Build Night 1 only. Later nights follow the same structure once Supriya approves.
+- **Nights 2–9 are built together** (Supriya's decision, 18 October 2026), each following Night 1's structure. Their docs (night files and direction briefs) are reviewed once, all together, before any of them is built.
 - **Review loop.** Hand over a working prototype with a short note of what was checked. Supriya sends itemised feedback, and you revise.
 - Explain choices briefly and plainly. Keep code comments useful for a learner. For example, comment why each raga was chosen.
 
@@ -28,6 +28,7 @@ Supriya owns this project. She is learning to build applications.
 - **Disclaimer:** the opening splash and "How we compare" say that the Harry Potter books and films were not written with Navaratri or the Devi in mind, and that the links are our own interpretation (wording in `docs/NINE_NIGHTS_CONTENT.md`).
 - **Harry Potter text is always paraphrased.** No direct quotations beyond a few words. Never invent quotes, chapters or scene details.
 - **Spoilers:** the audience has read all seven books and seen all eight films. Show the spoiler notice (Night 1, Beat 1) once, before the series starts.
+- **Gentle alternatives:** where a night offers a gentler second Harry Potter scene in place of an intense one (Nights 2, 3 and 7), the parent chooses which scene to use at the start of that night.
 - **Sensitive content:** "For the parent" notes never stop the story. At the point the night file names (for example Night 1, Beat 5, before Sati's death), a bell in the header pulses and chimes softly, and again just before the sensitive sentence. The parent taps it to read the note at any time.
 
 ## Tech
@@ -72,11 +73,12 @@ A night is a list of **beats**. Beat types:
 | `story` | An animated illustration with narration. Optional slow-motion window, freeze-frames, and tappable hotspots (e.g. a symbol in the Devi's hand). |
 | `choice` | The learner predicts or decides at a turning point, sees their reasoning acknowledged, then sees what actually happened. May include an activity with a timer. |
 | `idea` | The night's one core idea, its **theme**: one word, a one-line idea children can remember, and a longer description (all nine are in `docs/NINE_NIGHTS_CONTENT.md`). It is the whole Ideas section: one step. |
-| `sceneIntro` | Two steps: the spoken-style retelling, narrated sentence by sentence over the scene's animation, with the book, chapter and film and a **Find the scene** note (no link) underneath; then the connection (similar, different, why it helps, strength) on one full-width screen. |
+| `sceneIntro` | Two steps: the spoken-style retelling (about 6–8 sentences), narrated sentence by sentence over the scene's animation, with the book, chapter and film and a **Find the scene** note (no link) underneath; then the connection (similar, different, why it helps, strength) on one full-width screen. |
 | `think` | "Think it through", shown after each Harry Potter scene (see below). |
 | `comparison` | Questions comparing the two traditions, revealed one at a time, plus a "what doesn't compare" box. |
 | `today` | A present-day dilemma with several perspectives, not verdicts. |
 | `reflection` | Questions for the child, "go deeper" questions, one together question, a private note box, and the takeaway. |
+| `lookBack` | Night 9 only: a look back over all nine nights, before Reflect, closing the series. |
 
 The order of a night: opening → story beats (with choices) → the theme (the Ideas section) → scene 1 → think → scene 2 → think → comparison → reflect (today and reflection together, at most three steps, ending on the theme again). Each night's exact beats are in its night file; Night 9 adds a look-back beat that closes the series.
 
@@ -119,7 +121,8 @@ Follow `docs/ANIMATION_AND_MUSIC.md` (due to be rewritten). Where it asks for mo
 
 - The app uses original, hand-built SVG or canvas, animated from the clock's time value. Every scene has layered parallax, a slow camera move, atmosphere (petals, embers, candlelight, haze), entrances and freeze-frames.
 - Keep the look **iconographic and simple**: night skies, mountain lines, soft glowing light, fine gold line-art.
-- **The Devi and the gods are formless:** Shiva, Shakti in all her forms, Vishnu and the like appear as light (a flame, a glow, a column or trail of light), never as drawn bodies. Their symbols (trident, lotus, crescent moon and so on) may appear as small gold outline icons.
+- **The Devi and the gods are formless:** Shiva, Shakti in all her forms, Vishnu and the like appear as light (a flame, a glow, a column or trail of light), never as drawn bodies. Their symbols (trident, lotus, crescent moon and so on) may appear as small gold outline icons. For the Devi only, a very light-touch silhouette is acceptable within her light: a faint fine-line outline such as a face or head and shoulders, never a full body or detailed features (Supriya, 18 October 2026).
+- **Demons and battles:** demons are dark smoke or shadow, never monstrous detail; a battle is light pushing back darkness; a death is a shadow dissolving or a flame going out. No body, wound or blood is ever drawn.
 - **Other people** (Daksha, family members, sages, crowds) are fine gold outlines with simple faces or none. Never caricatured, never filled "costume" figures.
 - Harry Potter scenes are abstract and atmospheric only, shown with letterbox bars so they read as a film or book scene. There are no recognisable characters, actors, crests, logos, film typography, stills or cover art.
 - The app opens on a splash: the title over a night sky, with "Begin the journey". That tap starts the music softly (browsers allow sound only after a tap). The title stays, and four questions fade in beneath it one at a time over the music; then "Continue" leads to the map. The Harry Potter disclaimer is shown small at the bottom.

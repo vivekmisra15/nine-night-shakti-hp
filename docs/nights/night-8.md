@@ -4,34 +4,36 @@ The lesson and the read-aloud script for Night 8. The plan for all nine nights i
 
 # Lesson
 
-Night 8 takes about 30 minutes, or about 20 on the short path. Its question: how does someone become new again after a long, dark stretch, and who decides when they have changed? The night tells how a careless word sent the Devi into long tapas, and how she became Gauri, the bright one. Then come two Harry Potter scenes: Kreacher's tale and what follows it, and Ron's return in the Forest of Dean.
+Night 8 takes about 25 minutes, or about 17 as a short evening. Its question: how does someone become new again after a long, dark stretch, and who decides when they have changed? The night tells how a careless word sent the Devi into long tapas, and how she became Gauri, the bright one. Then come two Harry Potter scenes: Kreacher's tale and what follows it, and Ron's return in the Forest of Dean.
 
 ## At a glance
 
-- **Intensity:** gentle overall. Kreacher's tale includes Regulus Black's death in the cave (some peril). Ron's return has some peril: Harry nearly drowns, and the locket torments Ron. Short parent notes come before both.
-- **Read first:** the "For the parent" note at the start of the story (before Beat 2) about skin colour. It is not optional. Some tellings of tonight's story go from dark to fair, and that needs saying plainly.
-- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, skip the second scene's activity, and use only the first "Today" situation.
+- **Intensity:** gentle overall. Kreacher's tale includes Regulus Black's death in the cave (some peril). Ron's return has some peril: Harry nearly drowns, and the locket torments Ron. Short parent notes (the bell) come with both.
+- **Read first:** the "For the parent" note in Beat 2 about skin colour. It is not optional. Some tellings of tonight's story go from dark to fair, and that needs saying plainly.
+- **Short evening (about 17 minutes):** the opening, the story (Beats 2–8; each choice shows its set-up and what happened, without the question), the theme, Kreacher's tale with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out the choice questions, the silver doe and its Think it through, and Side by side.
 - **Book only:** Kreacher's change is in the books, not the films. Retell it fully; a child who knows the films best may not know it at all.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
 | 1 | Before we begin | opening | contemporary | 2 |
-| 2 | A name that stung | story | tradition | 1.5 |
-| 3 | What would you do? | choice | hypothetical | 4 |
+| 2 | A name that stung | story | tradition | 1 |
+| 3 | What would you do? | choice | hypothetical | 1.5 |
 | 4 | The grove of tapas | story | tradition | 1 |
 | 5 | Gauri | story | tradition | 1 |
-| 6 | What would you ask for? | choice | hypothetical | 2 |
+| 6 | What would you ask for? | choice | hypothetical | 1.5 |
 | 7 | Other tellings | story | tradition | 1.5 |
 | 8 | Mahagauri | story | tradition | 1 |
-| 9 | Three ideas | idea | interpretation | 3 |
-| 10 | Kreacher's tale | sceneIntro | hogwarts | 2.5 |
+| 9 | The theme | idea | interpretation | 1 |
+| 10 | Kreacher's tale | sceneIntro | hogwarts | 2 |
 | 11 | Think it through | think | comparison | 3 |
-| 12 | The silver doe | sceneIntro | hogwarts | 2 |
-| 13 | Think it through | think | comparison | 3 |
-| 14 | Side by side | comparison | comparison | 2 |
-| 15 | Today | today | contemporary | 3 |
-| 16 | Reflection | reflection | contemporary | 2 |
+| 12 | The silver doe | sceneIntro | hogwarts | 1.5 |
+| 13 | Think it through | think | comparison | 2.5 |
+| 14 | Side by side | comparison | comparison | 1.5 |
+| 15 | Today | today | contemporary | 1.5 |
+| 16 | Reflection | reflection | contemporary | 1.5 |
+
+Beats 15 and 16 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -43,17 +45,17 @@ Night 8 takes about 30 minutes, or about 20 on the short path. Its question: how
 
 The main telling follows the Skanda Purana, Prabhasa Khanda (Prabhasa-kshetra-mahatmya, ch. 68). Beat 7 gives the other tellings, including one that runs the opposite way.
 
-**For the parent (show before Beat 2):**
+### Beat 2: A name that stung (tradition)
+
+In the Skanda Purana it is Shiva himself who tells this story, to the Devi, about her own earlier life. (In that chapter she is Sati, in the birth before Parvati; other tellings place it in Parvati's life.) Once, he says, in a pleasant place, he called her "Kali", the dark one. He meant it as a joke. She did not hear it as one. She frowned, and she was angry, and she spoke harshly to him. (Skanda Purana, Prabhasa Khanda 68.1–6)
+
+**For the parent (a notification: the bell pulses at the start of this beat and again before Shiva calls her "Kali"; the story does not stop):**
 
 - Tonight's story, in most tellings, goes from dark to fair. In a world of fairness creams and remarks about skin, a child can easily hear "fair is better" or "fair is purer". The story does not mean that, and you should say so out loud.
 - Traditional readings are about inner purification: *tapas* literally means heat, the heat of discipline that burns away what clouds the mind. The brightness is a picture of clarity, not a skin colour.
 - The texts themselves don't treat dark as lesser. Last night's Kalaratri is dark and worshipped with equal reverence. In the Devi Mahatmya (ch. 5) it is the other way round: Parvati *becomes* dark, as Kalika. Kali is among the most loved forms of the Devi, especially in Bengal. Rama and Krishna are described as dark, and Draupadi's name Krishnaa means "the dark one".
 - In the Skanda Purana the hurt starts with a joke about her colour, and the story takes that hurt seriously. That is worth noticing too.
 - Say plainly: the colour of someone's skin says nothing about their goodness, their cleverness or their beauty. If your child has heard comments about skin colour, at school or in the family, tonight is a good night to talk about it.
-
-### Beat 2: A name that stung (tradition)
-
-In the Skanda Purana it is Shiva himself who tells this story, to the Devi, about her own earlier life. (In that chapter she is Sati, in the birth before Parvati; other tellings place it in Parvati's life.) Once, he says, in a pleasant place, he called her "Kali", the dark one. He meant it as a joke. She did not hear it as one. She frowned, and she was angry, and she spoke harshly to him. (Skanda Purana, Prabhasa Khanda 68.1–6)
 
 ### Beat 3: What would you do? (choice, hypothetical)
 
@@ -69,8 +71,6 @@ In the Skanda Purana it is Shiva himself who tells this story, to the Devi, abou
 | Answer with a joke of your own | Quick, and it makes you equal. Would it heal the hurt, or just add a second one? |
 
 **What happens:** she said that since she had been mocked as dark, she would go to a place where she would become Gauri, the bright one. She left with her companions for Prabhasa, the sacred coast near Somnath in today's Gujarat. (SkP 68.6–8)
-
-**Activity: joke or jab? (4 minutes, with a visible timer; this is the night's main activity).** One person plays Shiva and has 60 seconds to explain why it was only a joke and meant fondly. The other plays the Devi and has 60 seconds to explain why it stung anyway. Then swap and do it again. Afterwards, ask: who gets to decide whether something was a joke, the person who said it or the person who heard it? Argue about the story, not about each other. Don't use real teasing about anyone's looks.
 
 ### Beat 4: The grove of tapas (tradition)
 
@@ -94,6 +94,8 @@ Slowly, the radiance of her body grew. After a long time she shone in every limb
 | Something so this is never forgotten | A marker, so the moment means something. Hold that thought too. |
 
 **What happens:** her wishes were for others, and for a marker. She asked that anyone who came to see her in that grove would have good fortune. She asked that families who brought music and dance there would be free from misery. She asked that those who worshipped there would reach the highest realm. Her last wish was that Shiva be known in that place as Gaurishvara, "Lord of Gauri". He agreed, and stayed there. Her new name became part of his. (SkP 68.14–17)
+
+**Short evening:** start at "She asked that anyone who came to see her in that grove would have good fortune."
 
 ### Beat 7: Other tellings (tradition)
 
@@ -123,30 +125,13 @@ On the eighth night she is worshipped as Mahagauri: *maha*, great, and *gauri*, 
 
 **Did you know? (tradition, regional practice):** many families honour young girls on Ashtami or Navami as living forms of the Devi. In much of North India this is Kanya Puja: girls are welcomed, their feet are washed, and they are given food and small gifts. In Bengal, Kumari Puja on Maha Ashtami is famous, for example at Belur Math near Kolkata. Families keep these customs differently.
 
-## Beat 9: Three ideas (interpretation)
+## Beat 9: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. Renewal takes a long time**
-
-- **Simply:** real change usually isn't quick. It takes seasons, not an afternoon.
-- **From the story:** she stood on one foot, sat between fires, lay in the rain, stood in cold water, season after season, before anything changed.
-- **Traditional reading:** *tapas* means heat. Devotional readings see it as the heat that burns away what clouds the mind, so the brightness is clarity earned slowly.
-- **Other readings:** she began because she was hurt. Is changing yourself because of someone's joke a good reason? Or did the reason stop mattering once the tapas was really hers? People disagree.
-
-**2. Bright means clear, not a colour**
-
-- **Simply:** "bright" in this story means clear and calm inside. It is not about the colour of anyone's skin.
-- **From the story:** her first wishes as Gauri were for other people, not for herself. White, in her images, stands for peace.
-- **Traditional reading:** devotional readings treat Mahagauri's radiance as purity of mind, and worship of her as a way to let go of past wrongs.
-- **Contemporary:** this story has sometimes been used to praise fair skin, which is a misreading. The Devi Mahatmya runs the other way, and last night's dark Kalaratri is just as sacred. A careless joke about colour started the trouble. The story takes that hurt seriously.
-
-**3. Gentle after fierce**
-
-- **Simply:** after the hardest night, a calm one.
-- **From the story:** Night 7's Kalaratri and Night 8's Mahagauri are the same Devi. Both raise the hand that says "do not fear".
-- **Traditional reading:** the Devi is one, in many forms. Fierce and gentle are not opposites in her.
-- **Contemporary:** after a big row, an illness or a hard term, there's a quiet that feels earned. What does that quiet feel like for you?
+- **Word:** Renewal
+- **Idea:** After a hard time, you can begin again, clearer than before.
+- **Description:** In a common devotional telling, Parvati’s long tapas left her covered in the dust and darkness of years outdoors. When Shiva accepted her, he washed her with the waters of the Ganga, and she shone radiant: Mahagauri, “the greatly bright one”. She’s pictured calm, dressed in white, riding a bull, with hands of fearlessness and blessing. Renewal here doesn’t mean pretending the hard time never happened. The tapas made her who she is. What washes away is the weight; what stays is what you learned. She’s linked with calm, forgiveness and fresh starts.
 
 ## Beat 10: Kreacher's tale (hogwarts)
 
@@ -155,21 +140,11 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above. The film scene is short and does not show the change, so the retelling below carries this beat.
 - **Film note:** because the change is book only, read the retelling in full even if your child knows the films well.
 
-**For the parent (some peril):** Kreacher's tale describes a cave, a poisoned potion, and Regulus Black being dragged under dark water by the dead. The book tells it briefly and without gore. Read it calmly.
+**For the parent (a notification: the bell pulses at the start of this beat and again before Kreacher tells of the cave; the story does not stop):** Kreacher's tale describes a cave, a poisoned potion, and Regulus Black being dragged under dark water by the dead. The book tells it briefly and without gore. Read it calmly.
 
-**Retelling (spoken style).** It's the summer after Dumbledore's death. Harry, Ron and Hermione are hiding at Number Twelve, Grimmauld Place, the old Black family house. Harry has inherited it, and with it the family's house-elf, Kreacher. Kreacher has hated Harry for years. He muttered insults at Hermione, and in *Order of the Phoenix* his lies helped lure Harry to the Ministry, where Sirius died. Harry can hardly stand to look at him.
+**Retelling (spoken style).** It's the summer after Dumbledore's death, and Harry is hiding at Grimmauld Place with the house-elf Kreacher, whose lies helped lure him to the Ministry, where Sirius died. Harry orders Kreacher to tell the truth about the locket, and Kreacher tells his story. Voldemort took him to a cave by the sea, made him drink a potion that filled him with horror, and left him to die. Later Regulus, Sirius's younger brother, went back with him, drank the potion himself, and ordered Kreacher to destroy the real locket, which he never could. Hermione explains that Regulus was kind to Kreacher, and Sirius was harsh. So Harry speaks to him differently, and gives him the fake locket Regulus left behind. Days later Kreacher comes back clean, with Regulus's locket on his chest, and the gloomy kitchen is scrubbed and gleaming. In the final battle, he leads the house-elves out to fight, calling out Regulus's name. (DH ch. 10–12, 36)
 
-Then Harry works out who "R.A.B." was: Regulus Black, Sirius's younger brother. Regulus had found Voldemort's locket and left a fake in its place. Harry summons Kreacher and orders him to tell the truth. Kreacher admits the real locket was stolen by Mundungus Fletcher. Then he tells his story.
-
-Regulus joined Voldemort as a teenager. When Voldemort needed a house-elf, Regulus proudly offered Kreacher. Voldemort took Kreacher to a cave by the sea and made him drink a potion that filled him with horror. Then he hid the locket in the basin and left the elf there to die. Kreacher got home only because Regulus had told him to come back. Regulus was shaken. Later he went to the cave with Kreacher himself. He drank all the potion, and ordered Kreacher to swap the lockets, go home, and destroy the real one. Then Regulus was pulled under the water by the dead things in the lake. Kreacher never managed to destroy the locket, though he tried for years. And he was forbidden to tell anyone. He weeps as he finishes.
-
-Harry is still angry about Sirius. But he is more bothered that Voldemort used Kreacher and threw him away. Hermione explains: Kreacher expected cruelty from wizards, so Voldemort's didn't surprise him. Regulus was kind to him. Sirius was harsh. Dumbledore had said something similar a year before: Kreacher is what wizards have made him, and Sirius never saw him as a being with feelings.
-
-So Harry speaks to Kreacher differently. He tells him that they want to finish what Regulus started, and destroy the locket. And he gives Kreacher the fake locket Regulus left behind, a Black family heirloom. Kreacher is overwhelmed. Then Harry asks him to find Mundungus, and he goes.
-
-Days pass. Kreacher comes back with Mundungus, apologising for taking so long. And something has changed. The gloomy kitchen is scrubbed and gleaming. Kreacher is clean, wears a fresh white towel, and has Regulus's locket on his chest. He cooks them proper hot dinners and fusses over them. And at the end of the series, in the Battle of Hogwarts, Kreacher leads the house-elves out of the kitchens to fight, calling out Regulus's name. (DH ch. 36)
-
-**The connection:** Idea 1, renewal takes a long time, and the night's question of who decides when someone has changed.
+**The connection:** the theme, renewal, and the night's question of who decides when someone has changed.
 
 - **What is similar:** someone darkened by long hurt becomes bright again. Kreacher's outward change, the scrubbed kitchen and the care he takes, shows an inner one. And in both stories, words started it: Shiva's careless joke, and years of contempt from Sirius and others.
 - **What is different:**
@@ -180,6 +155,7 @@ Days pass. Kreacher comes back with Mundungus, apologising for taking so long. A
     - In Kreacher's story the key choice is Harry's: to listen, and to treat him differently. In the Devi's story the choice is hers alone.
 - **Why the comparison helps:** it asks a question a pre-teen can test against their own life: can being treated differently change who someone is?
 - **Strength: partial to strong.** The renewal matches; who causes it does not.
+- **Link to the theme (Renewal):** after years of grief for Regulus and a task he could never finish, Kreacher begins again once Harry listens: the kitchen is scrubbed, the meals are cooked, and in the end he fights in Regulus's name. His hard years are not wiped away; his loyalty to Regulus is what he carries forward.
 
 ## Beat 11: Think it through (comparison)
 
@@ -209,19 +185,11 @@ Days pass. Kreacher comes back with Mundungus, apologising for taking so long. A
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film keeps the doe, the frozen pool, Ron's rescue, the locket's attack on Ron, and Hermione's fury. Ron's explanation of how the Deluminator led him back is also in the film *(to check the wording)*. The choices discussed are the same in both.
 
-**For the parent (some peril):** Harry nearly drowns, held down by the locket's chain. The locket then torments Ron with his worst fears, including a cruel vision of Harry and Hermione together. It is brief and not graphic.
+**For the parent (a notification: the bell pulses at the start of this beat and again before the locket's chain tightens round Harry's neck; the story does not stop):** Harry nearly drowns, held down by the locket's chain. The locket then torments Ron with his worst fears, including a cruel vision of Harry and Hermione together. It is brief and not graphic.
 
-**Retelling (spoken style).** Weeks earlier, Ron walked out. The three of them had been taking turns wearing Voldemort's locket, and it made everyone bitter. Ron was cold, hungry, worried sick about his family, and jealous. After a terrible row, he left. Hermione stayed with Harry. (DH ch. 15)
+**Retelling (spoken style).** Weeks earlier, Ron walked out: the locket had made them all bitter, and he was cold, hungry and jealous. Now, in the snowy Forest of Dean, Harry follows a silver doe made of light to a frozen pool with the Sword of Gryffindor at the bottom. He dives in, and the locket's chain tightens round his neck and drags at him. Someone hauls him out: it's Ron, soaking wet, holding the sword. Harry insists that Ron should destroy the locket, and when it opens, Voldemort's voice goes straight for Ron's worst fears: that his mother wanted a daughter more, and that Hermione prefers Harry. Ron hesitates, Harry shouts at him to strike, and Ron brings the sword down. Back at the tent Hermione is furious; Ron explains that he tried to return almost at once, and a light from the Deluminator led him back. Harry forgives him quickly; Hermione takes much longer. (DH ch. 15, 19)
 
-Now it's winter in the Forest of Dean. One night, on watch, Harry sees a silver doe made of light. It looks at him and walks away, and he follows it through the snow. Where it vanishes, there's a frozen pool. At the bottom lies the Sword of Gryffindor. Harry breaks the ice and dives in. As his hand closes on the sword, the locket's chain tightens round his neck and drags at him. He's drowning.
-
-Someone hauls him out. It's Ron, soaking wet, holding the sword.
-
-Harry insists that Ron should be the one to destroy the locket. He opens it by speaking to it in snake language. Out of it comes Voldemort's voice, and it goes straight for Ron's worst fears. It tells him his mother always wanted a daughter more than him. It tells him Hermione prefers Harry. It shows him mocking copies of his two friends. Ron hesitates. Harry shouts at him to strike. Ron brings the sword down, and the locket is destroyed.
-
-Afterwards, Harry tells Ron that there's nothing between him and Hermione: she's like a sister to him. Back at the tent, Hermione is furious and flies at Ron. Ron explains that he tried to come back almost at once, but was caught by Snatchers. Then, he says, he heard Hermione's voice say his name through the Deluminator Dumbledore left him, and a light led him back to them. Harry forgives him quickly. Hermione takes much longer.
-
-**The connection:** Idea 1, renewal after a long, dark stretch, and the night's question of who decides when someone has changed.
+**The connection:** the theme, renewal after a long, dark stretch, and the night's question of who decides when someone has changed.
 
 - **What is similar:** both stories start with a hurt about how someone is seen. The Devi is mocked for her colour; Ron fears he is second-best. Each goes away. Each comes back changed. And in both, a welcome follows: Shiva calls her by her new name, and Harry takes Ron back.
 - **What is different:**
@@ -231,6 +199,7 @@ Afterwards, Harry tells Ron that there's nothing between him and Hermione: she's
     - Ron has to face the very thing that darkened him, and destroy it. The Devi doesn't fight anything; she becomes something.
 - **Why the comparison helps:** it brings the night's question down to a real friendship. When someone comes back, who decides they've changed: them, or the people they left?
 - **Strength: partial to strong.** Leaving, returning and being renewed match; the reasons for leaving do not.
+- **Link to the theme (Renewal):** after weeks away, Ron comes back and faces the very fears the locket fed on, and destroys it. He begins again with his friends, clearer about where he belongs, though Hermione needs longer to trust the new start.
 
 ## Beat 13: Think it through (comparison)
 
@@ -268,9 +237,9 @@ Questions are revealed one at a time. None has a single right answer.
 
 ## Beat 15: Today (contemporary)
 
-There are three situations; the short path uses only the first. Each shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
 
-**1. The nickname.** Last year you dropped an easy catch in a cricket match, and your friends started calling you "Butterfingers". Everyone, including them, thinks it's affectionate. You've started to hate it.
+**The nickname.** Last year you dropped an easy catch in a cricket match, and your friends started calling you "Butterfingers". Everyone, including them, thinks it's affectionate. You've started to hate it.
 
 - "Tell them plainly. Friends would want to know."
 - "Laugh along. Making a fuss makes it stick."
@@ -279,32 +248,14 @@ There are three situations; the short path uses only the first. Each shows sever
 - "Turn it into a joke you own, so it can't sting."
 - **Ask:** the Devi didn't laugh it off. When is it worth saying "that hurt", even to someone who meant well?
 
-**2. The friend who came back.** Your best friend dropped you for a different group at the start of term. Now that group has fallen out, and they want to sit with you again at lunch.
-
-- "Welcome them back. Everyone makes mistakes."
-- "Say yes, but tell them honestly how it felt first."
-- "Wait. See whether they stay when it's harder."
-- "Be friendly, but you don't owe them your best-friend spot."
-- **Ask:** are you being more like Harry or more like Hermione? Is either of them wrong?
-
-**3. The fresh start nobody believes.** A classmate was caught copying homework last term. They have done their own work every week since. The teacher still checks their work extra carefully, and some classmates still joke about it.
-
-- "That's unfair. If they've changed, they deserve a clean slate."
-- "Trust takes time to rebuild. The teacher is being reasonable."
-- "The jokes are worse than the checking. Somebody should say so."
-- "They should keep going. In the end people notice."
-- **Ask:** can you be renewed if nobody around you accepts it? How long is long enough?
-
 ## Beat 16: Reflection (contemporary)
 
-Pick one or two questions; you don't need them all. The night's main activity, "joke or jab?", comes earlier, in Beat 3.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
 - Shiva said it was a joke. Why do you think it hurt so much?
 - If you could ask for one wish after a long, hard effort, would it be for you or for someone else?
-- What was the first thing Harry did differently with Kreacher?
-- If you were Hermione, how long would you have stayed angry with Ron?
 
 **Go deeper**
 
@@ -317,7 +268,9 @@ Pick one or two questions; you don't need them all. The night's main activity, "
 
 **Private note (saved only on this device):** one thing I want to remember from tonight is…
 
-**Takeaway (shown last):** tonight's story asks a question instead of answering it. How does someone become new again, and who decides when they have? Tomorrow is the last night: the Devi who gives every perfection, and then the victory of Vijayadashami.
+**The theme again (shown last, then in the closing):** Renewal. After a hard time, you can begin again, clearer than before.
+
+**Tomorrow:** the last night: the Devi who gives every perfection, and then the victory of Vijayadashami.
 
 ## For the parent
 
@@ -363,9 +316,9 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 25 minutes with discussion, or about 17 as a short evening: on a short evening, skip the two choice questions (but still read what happens after each), the second scene (from "Now a second scene" to its stance line) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 12 minutes)
+## Part 1: Opening and the story (about 10 minutes)
 
 Last night we met Kalaratri, the dark night: the fiercest form of the Devi, who defeated Chanda, Munda and Raktabija. And yet one of her hands said, do not fear.
 
@@ -382,8 +335,6 @@ In one old text, the Skanda Purana, it's Shiva himself who tells this story, and
 Once, he says, in a lovely place, he called the Devi "Kali": the dark one. He meant it as a joke. She didn't hear it as one. She frowned. She was angry. And she told him so, sharply.
 
 **[PAUSE: Choice. Ask: "If you were the Devi, what would you do? Laugh it off, tell him it hurt, go away and think, or answer with a joke of your own?" Listen to the reasons.]**
-
-**[ACTIVITY: 4 minutes. One of you plays Shiva and has 60 seconds to explain it was only a joke. The other plays the Devi and has 60 seconds to explain why it stung anyway. Then swap. Ask: "Who decides whether something was a joke: the one who said it, or the one who heard it?" Keep it about the story, not real teasing.]**
 
 She said: since you mocked me as dark, I'll go somewhere I can become Gauri, the bright one. And she left, with her companions, for Prabhasa, a sacred stretch of coast near Somnath, in what is now Gujarat.
 
@@ -409,35 +360,17 @@ Tonight she is Mahagauri. She wears white, for peace. She rides a white bull, li
 
 **[Pause: about 1 minute. Optional: "Which part of the story will you remember?"]**
 
-## Part 2: The ideas and two Hogwarts scenes (about 12 minutes)
+## Part 2: The theme and two Hogwarts scenes (about 10 minutes)
 
-Three ideas come out of this story. People read them in different ways, so these are readings, not rules.
+Tonight's word is renewal. After a hard time, you can begin again, clearer than before.
 
-The first is that renewal takes a long time. Real change usually takes seasons, not an afternoon. But here's a hard question: she started because someone hurt her. Is that a good reason to change yourself? Or did it stop mattering once the change was really hers?
-
-The second is that bright means clear, not a colour. Her first wishes were for other people. That's what brightness looks like in this story.
-
-The third is gentle after fierce. Last night and tonight are the same Devi. Fierce and gentle aren't opposites in her.
-
-**[Pause: ask, "Which of these three feels most true to you?"]**
+In a common devotional telling, Parvati’s long tapas left her covered in the dust and darkness of years outdoors. When Shiva accepted her, he washed her with the waters of the Ganga, and she shone radiant: Mahagauri, “the greatly bright one”. She’s pictured calm, dressed in white, riding a bull, with hands of fearlessness and blessing. Renewal here doesn’t mean pretending the hard time never happened. The tapas made her who she is. What washes away is the weight; what stays is what you learned. She’s linked with calm, forgiveness and fresh starts.
 
 Now, Hogwarts. This one's from *Deathly Hallows*, chapters ten to twelve. It isn't in the films at all, so listen closely even if you know them well.
 
-**[For the parent: the next part mentions a cave, a poisoned potion, and Regulus being dragged under water by the dead. Read it calmly; the book tells it briefly.]**
+**[For the parent: the next part mentions a cave and a poisoned potion. Read it calmly; the book tells it briefly.]**
 
-It's the summer after Dumbledore died. Harry, Ron and Hermione are hiding in Grimmauld Place, the old Black family house. Harry has inherited it, along with its house-elf, Kreacher. Kreacher has hated Harry for years. He muttered insults at Hermione, and his lies helped lure Harry to the Ministry, where Sirius died. Harry can barely look at him.
-
-Then Harry realises who left the fake locket with the note signed R.A.B. It was Regulus Black, Sirius's younger brother. Harry orders Kreacher to tell the truth. Kreacher admits the real locket was stolen by Mundungus Fletcher. And then he tells his story.
-
-Regulus had joined Voldemort as a teenager. When Voldemort needed a house-elf, Regulus proudly offered Kreacher. Voldemort took Kreacher to a cave by the sea, made him drink a potion full of horrors, hid the locket, and left him there to die. Kreacher only got home because Regulus had told him to come back.
-
-Regulus was shaken. Later, he went to the cave with Kreacher himself. He drank the potion himself, and ordered Kreacher to swap the lockets, go home, and destroy the real one. Then the dead things in the lake pulled Regulus under. Kreacher tried for years to destroy the locket and never could. And he'd been ordered never to tell. He weeps as he finishes.
-
-Harry is still angry about Sirius. But now he's more bothered that Voldemort used Kreacher and threw him away. Hermione explains that Kreacher expected cruelty from wizards. Regulus was kind to him; Sirius was harsh. Dumbledore had said something like it the year before: Kreacher is what wizards have made him.
-
-So Harry speaks to Kreacher differently. He tells him they want to finish what Regulus started. And he gives him the fake locket, Regulus's locket, a Black family heirloom. Kreacher is overwhelmed. Then Harry asks him to find Mundungus, and off he goes.
-
-Days later, Kreacher is back, with Mundungus, apologising for taking so long. And something has changed. The gloomy kitchen is scrubbed and gleaming. Kreacher is clean, in a fresh white towel, with Regulus's locket on his chest. He cooks them hot dinners and fusses over them. And right at the end, in the Battle of Hogwarts, Kreacher leads the house-elves out of the kitchens to fight, calling out Regulus's name.
+It's the summer after Dumbledore's death, and Harry is hiding at Grimmauld Place with the house-elf Kreacher, whose lies helped lure him to the Ministry, where Sirius died. Harry orders Kreacher to tell the truth about the locket, and Kreacher tells his story. Voldemort took him to a cave by the sea, made him drink a potion that filled him with horror, and left him to die. Later Regulus, Sirius's younger brother, went back with him, drank the potion himself, and ordered Kreacher to destroy the real locket, which he never could. Hermione explains that Regulus was kind to Kreacher, and Sirius was harsh. So Harry speaks to him differently, and gives him the fake locket Regulus left behind. Days later Kreacher comes back clean, with Regulus's locket on his chest, and the gloomy kitchen is scrubbed and gleaming. In the final battle, he leads the house-elves out to fight, calling out Regulus's name.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -459,15 +392,7 @@ Now a second scene, from *Deathly Hallows*, chapter nineteen, "The Silver Doe". 
 
 **[For the parent: Harry nearly drowns here, and the locket torments Ron with a cruel vision of Harry and Hermione together. It's brief.]**
 
-Weeks earlier, Ron walked out. The three of them had been taking turns wearing Voldemort's locket, and it made everyone bitter. Ron was cold, hungry, frightened for his family, and jealous. After a terrible row, he left. Hermione stayed.
-
-Now it's winter in the Forest of Dean. One night Harry sees a silver doe made of light. He follows it through the snow to a frozen pool. At the bottom lies the Sword of Gryffindor. Harry breaks the ice and dives in. As he grabs the sword, the locket's chain tightens round his neck and drags him down.
-
-Someone pulls him out. It's Ron, soaking wet, holding the sword.
-
-Harry says Ron should be the one to destroy the locket. When Harry opens it, Voldemort's voice comes out and goes straight for Ron's worst fears. It says his mother always wanted a daughter more than him. It says Hermione prefers Harry. It shows him cruel copies of his two friends. Ron hesitates. Harry yells at him to strike. Ron brings the sword down, and the locket is destroyed.
-
-Back at the tent, Hermione is furious and flies at him. Ron explains that he tried to come back almost at once but was caught. Then he heard Hermione's voice say his name through the Deluminator Dumbledore left him, and a light led him back. Harry forgives him quickly. Hermione takes a lot longer.
+Weeks earlier, Ron walked out: the locket had made them all bitter, and he was cold, hungry and jealous. Now, in the snowy Forest of Dean, Harry follows a silver doe made of light to a frozen pool with the Sword of Gryffindor at the bottom. He dives in, and the locket's chain tightens round his neck and drags at him. Someone hauls him out: it's Ron, soaking wet, holding the sword. Harry insists that Ron should destroy the locket, and when it opens, Voldemort's voice goes straight for Ron's worst fears: that his mother wanted a daughter more, and that Hermione prefers Harry. Ron hesitates, Harry shouts at him to strike, and Ron brings the sword down. Back at the tent Hermione is furious; Ron explains that he tried to return almost at once, and a light from the Deluminator led him back. Harry forgives him quickly; Hermione takes much longer.
 
 The Devi went away hurt, and came back bright. Ron went away angry, and came back changed. But the difference matters: Ron had done something wrong, and the Devi hadn't. Her tapas wasn't making up for anything.
 
@@ -481,9 +406,9 @@ The Devi went away hurt, and came back bright. Ron went away angry, and came bac
 
 **[STANCE LINE: "Forgive quickly, like Harry" or "Make them earn it, like Hermione".]**
 
-**[ACTIVITY (skip on the short path): 2 minutes. One of you argues for 30 seconds that Harry was right to forgive at once; the other argues for 30 seconds that Hermione was right to stay angry. Then swap.]**
+**[ACTIVITY: 2 minutes. One of you argues for 30 seconds that Harry was right to forgive at once; the other argues for 30 seconds that Hermione was right to stay angry. Then swap.]**
 
-## Part 3: Side by side, today, and closing (about 7 minutes)
+## Part 3: Side by side, today, and closing (about 5 minutes)
 
 Let's put the stories next to each other. There's no single right answer to any of these.
 
@@ -500,7 +425,7 @@ Imagine you dropped an easy catch in a cricket match last year, and your friends
 
 Some people would say tell them plainly, because friends would want to know. Some would say laugh along, because making a fuss makes it stick. Some would tell their closest friend privately and let it fade. Some would wait for it to die out. And some would turn it into a joke they own, so it can't sting.
 
-**[PAUSE: ask, "The Devi didn't laugh it off. When is it worth saying 'that hurt', even to someone who meant well?" On the long path, also use the friend-who-came-back or fresh-start situation from Beat 15.]**
+**[PAUSE: ask, "The Devi didn't laugh it off. When is it worth saying 'that hurt', even to someone who meant well?"]**
 
 Last questions.
 
@@ -508,10 +433,10 @@ Last questions.
 
 **[TOGETHER: "Is there something in our family that needs a fresh start? What would the first step be?"]**
 
-Tonight's story doesn't hand us an answer. It asks a question: how does someone become new again, and who decides when they have?
+Tonight's word is renewal. After a hard time, you can begin again, clearer than before.
 
 Tomorrow is the last of the nine nights. We'll meet the Devi who gives every perfection, and then comes Vijayadashami: the day of victory.
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from tonight.]**
 
-**Timing:** about 12 minutes for Part 1 (including the 4-minute role-play), 12 for Part 2 and 7 for Part 3, so about 30 minutes in all. The short path takes about 20: two ladder questions per scene, no second activity, and one "Today" situation.
+**Timing:** about 10 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 25 minutes in all. A short evening takes about 17: no choice questions, one scene, two ladder questions, and no side by side.

@@ -9,27 +9,27 @@ Night 1 takes about 23 minutes, or about 15 as a short evening. Its question: wh
 ## At a glance
 
 - **Intensity:** gentle. Sati's death is told gently, as a sacred act and not an example. Read the parent note in Beat 5 before you begin.
-- **Short evening (about 15 minutes):** the opening, the story (Beats 2, 3, 5, 6 and 8, plus Shiva's warning from Beat 4's set-up, so the first child question still makes sense), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out both choices, the Sorting and its Think it through, and Side by side.
+- **Short evening (about 15 minutes):** the opening, the story (Beats 2–8; each choice shows its set-up and what happened, without the question), the theme, Aunt Marge's dinner with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out the choice questions, the Sorting and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
-| 1 | Before we begin | opening | contemporary | 2 |
+| 1 | Before we begin | opening | contemporary | 1.5 |
 | 2 | The daughter who chose | story | tradition | 1.5 |
 | 3 | A sacrifice without Shiva | story | tradition | 1 |
-| 4 | Should Sati go? | choice | hypothetical | 1.5 |
+| 4 | Should Sati go? | choice | hypothetical | 1 |
 | 5 | At her father's house | story | tradition | 1.5 |
 | 6 | Shiva's grief | story | tradition | 1.5 |
-| 7 | What will Shiva do? | choice | hypothetical | 2 |
+| 7 | What will Shiva do? | choice | hypothetical | 1.5 |
 | 8 | Daughter of the mountain | story | tradition | 1 |
 | 9 | The theme | idea | interpretation | 1 |
-| 10 | Aunt Marge's dinner | sceneIntro | hogwarts | 2 |
-| 11 | Think it through | think | comparison | 3 |
-| 12 | The Sorting | sceneIntro | hogwarts | 1.5 |
-| 13 | Think it through | think | comparison | 3 |
-| 14 | Side by side | comparison | comparison | 2 |
-| 15 | Today | today | contemporary | 1.5 |
-| 16 | Reflection | reflection | contemporary | 2 |
+| 10 | Aunt Marge's dinner | sceneIntro | hogwarts | 1.5 |
+| 11 | Think it through | think | comparison | 2.5 |
+| 12 | The Sorting | sceneIntro | hogwarts | 1 |
+| 13 | Think it through | think | comparison | 2.5 |
+| 14 | Side by side | comparison | comparison | 1.5 |
+| 15 | Today | today | contemporary | 1 |
+| 16 | Reflection | reflection | contemporary | 1.5 |
 
 Beats 15 and 16 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
@@ -102,6 +102,8 @@ The sage Narada brought Shiva the news, and Shiva's grief became fury. He tore a
 
 **What happens:** all four, in different texts. In the Bhagavata, the gods plead with Shiva and he relents. He restores the sacrifice and brings Daksha back to life with a goat's head in place of his own, and Daksha weeps and asks forgiveness (BP 4.7). Grief, like this story, can be more than one thing at once.
 
+**Short evening:** start at "In the Bhagavata, the gods plead with Shiva and he relents."
+
 ### Beat 8: Daughter of the mountain (tradition)
 
 Himavat, king of the mountains, and his wife Mena prayed for a daughter, and Sati resolved to be born to them (Shiva Purana, Rudra Samhita, Parvati Khanda ch. 5). The Bhagavata also says she was reborn to Mena in the Himalayas and chose Shiva again (BP 4.7.58–59). She was Parvati, "she of the mountain". On this first night she is worshipped as Shailaputri: *shaila*, mountain, and *putri*, daughter. She is the same Devi with a new birth, in a family that honours the one she loves. Meanwhile Shiva sits in meditation, unaware of her, and tomorrow's story begins there.
@@ -132,7 +134,7 @@ Himavat, king of the mountains, and his wife Mena prayed for a daughter, and Sat
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film keeps the insults, the inflating, and Harry leaving on the Knight Bus. Compare how the film handles the deal over the Hogsmeade form with the book before quoting details.
 
-**Retelling (spoken style).** It's the summer Harry turns thirteen. Uncle Vernon's sister Marge comes to stay for a week with her bulldog, and Vernon makes Harry a deal. If Harry behaves, never mentions magic, and goes along with the story that he attends a school for hopeless criminal boys, Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. So Harry grits his teeth. All week Marge sneers at him, and he says nothing. On the last night, after a long dinner and a lot of drink, she turns on his parents. She talks about breeding dogs: if something is wrong with the mother, something is wrong with the pup. She calls his father a jobless good-for-nothing, and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry says they didn't, and she keeps going. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out of the house and into the dark street, certain he'll be expelled. The form is never signed.
+**Retelling (spoken style).** It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.
 
 **The connection:**
 
@@ -145,6 +147,7 @@ Himavat, king of the mountains, and his wife Mena prayed for a daughter, and Sat
     - Most important: Harry leaving the house is not like Sati leaving her body, and we never treat it as if it were.
 - **Why the comparison helps:** it brings Sati's dilemma down to a scale a pre-teen knows: a dinner table where someone you love is being mocked.
 - **Strength: partial.** The dilemma matches closely; the responses deliberately don't.
+- **Link to the theme (Rootedness):** Harry walks out having lost the deal, the signed form and his place in the house, but not the thing he is rooted in: his loyalty to parents he never knew. What he would not let Marge take mattered more to him than everything he lost.
 
 ## Beat 11: Think it through (comparison)
 
@@ -173,9 +176,9 @@ Himavat, king of the mountains, and his wife Mena prayed for a daughter, and Sat
 - **Reference:** Harry. *Philosopher's Stone*, chapter 7, "The Sorting Hat", with *Chamber of Secrets*, chapter 18, "Dobby's Reward". Films: *Philosopher's Stone* (2001), the Sorting; *Chamber of Secrets* (2002), Dumbledore's office at the end. The film keeps the "choices" idea, though its wording may differ from the book's.
 - **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 
-**Retelling (spoken style).** It's Harry's first night at Hogwarts. The new students are called up one by one to sit on a stool and put on an old, patched hat that decides their house. Harry already has an opinion. Hagrid has told him that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who sneered at Ron's family and was sure he'd be a Slytherin. Now the Hat speaks inside Harry's head. It sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.
+**Retelling (spoken style).** It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.
 
-A year later Harry is troubled. He can talk to snakes, as Salazar Slytherin could, the Hat had said he'd do well in Slytherin, and Tom Riddle told him they were alike. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.
+A year later, Harry worries that he belongs in Slytherin after all: he can talk to snakes, as Salazar Slytherin could. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.
 
 **The connection:**
 
@@ -186,6 +189,7 @@ A year later Harry is troubled. He can talk to snakes, as Salazar Slytherin coul
     - Sati is the same Devi in a new body. Harry stays the same Harry whatever his house.
 - **Why the comparison helps:** it turns a big idea, rebirth, into a question a pre-teen can answer: what part of me did I choose?
 - **Strength: partial.** The theme of identity matches; the situations are far apart.
+- **Link to the theme (Rootedness):** the Hat offers Harry greatness in Slytherin, and he holds on to what he values instead. A year later, when he doubts who he is, Dumbledore points him back to that choice: his roots are in what he chose to stand for, not in what he shares with Voldemort.
 
 ## Beat 13: Think it through (comparison)
 
@@ -350,9 +354,7 @@ The first form of the Devi is named for a relationship, not for something she di
 
 Now, Hogwarts. This is from *Prisoner of Azkaban*, chapter two, "Aunt Marge's Big Mistake". It's near the start of the film too.
 
-It's the summer Harry turns thirteen. Uncle Vernon's sister, Aunt Marge, comes to stay for a week with her bulldog, and Vernon makes Harry a deal. Behave yourself, never mention magic, pretend you go to a school for hopeless criminal boys, and I'll sign the form that lets you visit Hogsmeade with your friends.
-
-So Harry bites his tongue. All week Marge sneers at him, and he takes it. Then, on the last night, after a long dinner, she starts on his parents. She talks about breeding dogs: if the mother's no good, the puppy won't be either. She calls his father a jobless good-for-nothing and repeats the lie that his parents died drunk in a car crash. Harry tells her they didn't. She carries on. Harry's anger rises past anything he can hold, and his magic bursts out of him. Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out of the house into the dark street, sure he'll be expelled. The form never gets signed.
+It's the summer Harry turns thirteen, and Uncle Vernon's sister Marge comes to stay for a week. Vernon makes Harry a deal: behave, never mention magic, and Vernon will sign the form that lets him visit the wizarding village of Hogsmeade. All week Marge sneers at Harry, and he says nothing. On the last night, after a long dinner, she turns on his parents. She calls his father a jobless good-for-nothing and repeats the Dursleys' lie that his parents died drunk in a car crash. Harry's anger rises past the point he can hold it, and his magic escapes him: Marge swells up like a balloon and floats to the ceiling. Harry drags his trunk out into the dark street, certain he'll be expelled. The form is never signed.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -372,11 +374,9 @@ One thing to hold on to: Harry walking out of the house is *not* like Sati leavi
 
 Now a second scene, from *Philosopher's Stone*, chapter seven, with a moment from the end of *Chamber of Secrets*. Both are in the films.
 
-It's Harry's first night at Hogwarts. One by one, the new students sit on a stool and put on an old, patched hat that decides their house. Harry already has an opinion. Hagrid told him that every witch or wizard who went bad came from Slytherin. And on the train he met Draco Malfoy, who was rude about Ron's family and certain he'd be in Slytherin.
+It's Harry's first night at Hogwarts, and the new students take turns putting on an old hat that decides their house. Hagrid has told Harry that every witch or wizard who went bad came from Slytherin, and on the train he met Draco Malfoy, who was sure he'd be a Slytherin. The Hat sees courage, a good mind, talent and a hunger to prove himself, and says Slytherin could help him to greatness. Harry silently begs: not Slytherin. After a pause, the Hat calls out Gryffindor.
 
-The Hat speaks inside Harry's head. It sees courage, a good mind, talent and a hunger to prove himself, and it says Slytherin could help him become great. Harry thinks, as hard as he can: not Slytherin. After a pause, the Hat calls out: Gryffindor.
-
-A year later, Harry is worried. He can talk to snakes, as Slytherin himself could. The Hat said he'd do well there; maybe he belongs there after all. Dumbledore points out that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. It's our choices, Dumbledore says, that show who we really are, much more than our abilities.
+A year later, Harry worries that he belongs in Slytherin after all: he can talk to snakes, as Salazar Slytherin could. Dumbledore reminds him that the Hat put him in Gryffindor because he *asked* not to go to Slytherin. Our choices, Dumbledore says, show who we really are, far more than our abilities.
 
 Remember how Sati felt about being called "Daksha's daughter", and how she came back as the mountain's daughter? Both stories ask the same question: how much of who we are do we get to choose?
 

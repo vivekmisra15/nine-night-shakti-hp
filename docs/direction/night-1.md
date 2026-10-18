@@ -7,7 +7,7 @@ Status: approved 16 October 2026; revised 17 October 2026 after the first build.
 ### Look
 
 - **Iconographic and simple:** night skies, mountain lines, soft glowing light, fine gold line-art. Keep the colour identity, palettes, signature flame, timing to the narration, freeze-frames, slow motion, gentle camera moves, layered depth and atmosphere below. Leave out anything that adds detail without meaning.
-- **Formless divine figures:** Shiva is a cool silver light. Sati and Shailaputri are a warm flame (the signature flame). Vishnu is a soft blue light, and Virabhadra a towering column of light.
+- **Formless divine figures:** Shiva is a cool silver light. Sati and Shailaputri are a warm flame (the signature flame). Added 18 October 2026: at Shailaputri's settling in Beat 8, a very faint fine-line head-and-shoulders outline shows within her light, as on the other nights; never a body or features. Vishnu is a soft blue light, and Virabhadra a towering column of light.
 - **People as fine gold outlines:** Daksha, Sati's mother and sisters, Shiva's attendants, Narada, Himavat and Mena, the gods and the assembly. Simple faces or none, and never filled costume figures.
 - **Harry Potter scenes:** abstract as before, with letterbox bars.
 - **Captions** describe sounds only. Never put invented lines of text over the picture.
@@ -60,13 +60,13 @@ All text comes from `docs/nights/night-1.md` unless noted. Steps marked *(full n
 | | 1.2 | **Regional traditions** and **Contemporary** |
 | Story | 2 | Beat 2 narration |
 | | 3 | Beat 3 narration |
-| Choices | 4.1 | Beat 4 set-up (kept on a short evening, in the Story section, for Shiva's warning) |
+| Choices | 4.1 | Beat 4 set-up |
 | | 4.2 | The question, four options with acknowledgements *(full night)* |
-| | 4.3 | What happens: "Sati went." *(full night)* |
+| | 4.3 | What happens: "Sati went." |
 | Story | 5 | Beat 5 narration (parent bell pulses at the start and before the flame sentence) |
 | | 6 | Beat 6 narration |
 | Choices | 7.1 | Beat 7 question and options with acknowledgements *(full night)* |
-| | 7.2 | What happens *(full night)* |
+| | 7.2 | What happens (on a short evening it starts at "In the Bhagavata…") |
 | Story | 8.1 | Beat 8 narration |
 | | 8.2 | The five symbols (one meaning at a time) |
 | | 8.3 | "Did you know?" |
@@ -83,7 +83,7 @@ All text comes from `docs/nights/night-1.md` unless noted. Steps marked *(full n
 
 **The closing** (after step 16.2, about 13 seconds): dawn rises over the mountain, and the theme's word and idea fade in large over it and hold long enough to read. Then the flame becomes a spark, and the map appears with diya 1 lit.
 
-That gives 25 steps on the full night and 17 on a short evening (about 15 minutes).
+That gives 25 steps on the full night and 19 on a short evening (about 15 minutes). On a short evening each choice shows its set-up and what happened, without the question, in the Story section.
 
 
 

@@ -29,7 +29,7 @@ Each night starts with the Devi's story, finds the *decision* inside it, and onl
 5. Questions for the child, "go deeper" questions, and one for parent and child together, plus one 5–15 minute thinking activity.
 6. A short note for the parent, with sources and confidence.
 
-**Short evening (about 15 minutes):** a switch in the app gives a shorter night: the opening, the story without its choices, the theme, the first Harry Potter scene with its Think it through (two ladder questions), and Reflect. Each night file says exactly what its short evening keeps. (This replaces the older "short path"; Nights 2–9 still describe a short path and will be updated as each is built.)
+**Short evening (about 15 minutes):** a switch in the app gives a shorter night: the opening, the story without its choices, the theme, the first Harry Potter scene with its Think it through (two ladder questions), and Reflect. Each night file says exactly what its short evening keeps. (This replaces the older "short path".)
 
 **Labels on every claim**
 
@@ -266,7 +266,7 @@ References were checked against the texts and film transcripts on 16 October 202
 
 ## Honest notes on weak nights
 
-**Night 4, Kushmanda (speculative).** Hers is a cosmic creation story told mainly in devotional tradition, and nothing in Harry Potter creates a world. The cake and the jumper match a feeling, not a decision. Recommendation: let the story lead, then hold a family discussion of small things that started big things for us. Hagrid's cake becomes an optional two-minute coda. An optional extra is a conversation about how the universe began, clearly labelled as a different kind of knowledge from a creation story.
+**Night 4, Kushmanda (speculative).** Hers is a cosmic creation story told mainly in devotional tradition, and nothing in Harry Potter creates a world. The cake and the jumper match a feeling, not a decision. Recommendation: let the story lead, then hold a family discussion of small things that started big things for us. Hagrid's cake becomes an optional two-minute coda. An optional extra is a conversation about how the universe began, clearly labelled as a different kind of knowledge from a creation story. (Dropped on 18 October 2026: each night keeps one theme only.)
 
 **Night 1, Shailaputri (partial).** Sati's central act has no Harry Potter parallel, and it should not have one. Only the dilemma matches: what to do when family scorns someone you love.
 

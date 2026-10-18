@@ -4,34 +4,33 @@ The lesson and the read-aloud script for Night 4. The plan for all nine nights i
 
 # Lesson
 
-Night 4 takes about 30 minutes, or about 20 on the short path. Its question: what can a small warmth begin? Tonight the story leads. It goes back before everything, to the moment the Devi smiled into the darkness and the universe began. Then come two short Harry Potter scenes: Hagrid's cake at midnight and Mrs Weasley's Christmas jumper. Last comes a longer family conversation about the small things that started big things for us.
+Night 4 takes about 24 minutes, or about 16 as a short evening. Its question: what can a small warmth begin? Tonight the story leads. It goes back before everything, to the moment the Devi smiled into the darkness and the universe began. Then come two short Harry Potter scenes: Hagrid's cake at midnight and Mrs Weasley's Christmas jumper.
 
 ## At a glance
 
 - **Intensity:** gentle. There is no death, battle or peril tonight.
 - **An honest warning:** tonight's link to Harry Potter is **speculative**. Kushmanda's story is about creating a universe, and nothing in Harry Potter creates a world. The two scenes match a feeling, not a decision. Say this to your child; it is part of comparing honestly.
-- **Short path (about 20 minutes):** skip the optional Beat 8, use only the third idea in Beat 7, ask two ladder questions for the first scene and one for the second, skip the second scene's activity, and in "Today" use only the first situation with a 3-minute family activity.
+- **Short evening (about 16 minutes):** the opening, the story (Beats 2–6; each choice shows its set-up and what happened, without the question), the theme, Hagrid's cake at midnight with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out the two choice questions, the Christmas jumper and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
 | 1 | Before we begin | opening | contemporary | 2 |
 | 2 | Before anything at all | story | tradition | 1.5 |
-| 3 | What comes first? | choice | hypothetical | 2.5 |
+| 3 | What comes first? | choice | hypothetical | 1.5 |
 | 4 | The one who lives in the sun | story | tradition | 1.5 |
-| 5 | How much does it take? | choice | hypothetical | 2 |
+| 5 | How much does it take? | choice | hypothetical | 1.5 |
 | 6 | The gourd and the golden egg | story | tradition | 1 |
-| 7 | Three ideas | idea | interpretation | 2.5 |
-| 8 | Two ways of asking how it began (optional) | idea | contemporary | 2 |
-| 9 | Hagrid's cake at midnight | sceneIntro | hogwarts | 1.5 |
-| 10 | Think it through | think | comparison | 2.5 |
-| 11 | The Christmas jumper | sceneIntro | hogwarts | 1 |
-| 12 | Think it through | think | comparison | 2 |
-| 13 | Side by side | comparison | comparison | 2 |
-| 14 | Today | today | contemporary | 5 |
-| 15 | Reflection | reflection | contemporary | 2 |
+| 7 | The theme | idea | interpretation | 1 |
+| 8 | Hagrid's cake at midnight | sceneIntro | hogwarts | 1.5 |
+| 9 | Think it through | think | comparison | 3 |
+| 10 | The Christmas jumper | sceneIntro | hogwarts | 1 |
+| 11 | Think it through | think | comparison | 3 |
+| 12 | Side by side | comparison | comparison | 2 |
+| 13 | Today | today | contemporary | 1.5 |
+| 14 | Reflection | reflection | contemporary | 2 |
 
-The total is about 29 minutes without Beat 8 and about 31 with it.
+Beats 13 and 14 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -39,7 +38,7 @@ The total is about 29 minutes without Beat 8 and about 31 with it.
 
 **Tonight's form:** tonight the story steps right back, before Sati, before the mountain, before anything at all. Kushmanda is the Devi as the one who began the universe with a smile, and who lives at the heart of the sun.
 
-**For the parent (show at the start):** tonight's Harry Potter scenes are kept short on purpose. The link is a feeling of warmth arriving in the dark, not a matching decision, and the lesson says so. The longest part of the night is a family conversation in Beat 14.
+**For the parent (a notification: the bell pulses at the start of this beat; the story does not stop):** tonight's Harry Potter scenes are kept short on purpose. The link is a feeling of warmth arriving in the dark, not a matching decision, and the lesson says so.
 
 ## The traditional story (Beats 2–6)
 
@@ -97,55 +96,31 @@ Devotional tradition says Kushmanda lives at the very centre of the sun. She is 
 
 **What happens:** in a way, the first three answers are all true. One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg. This is a devotional reading of the word, not grammar from an old text. Yet in the Devi Mahatmya, Brahma praises the Devi as the one who creates the universe, holds it up and at the end draws it back into herself (ch. 1, verses 72–73 in the hindupad.com numbering; editions number it differently). A smile, and all the power there is, in one Devi.
 
+**Short evening:** start at "One popular explanation of her name is *ku*, a little, plus *ushma*, warmth, plus *anda*, egg: a little warmth that hatched the cosmic egg."
+
 ### Beat 6: The gourd and the golden egg (tradition)
 
 *Kushmanda* is also the Sanskrit word for a pumpkin or gourd, and the ash gourd is a favourite offering to her on this night. Some people explain her name this way too (popular devotional tradition). Behind her story stand much older pictures of beginning. The Rig Veda praises Hiranyagarbha, the golden embryo, which arose at the start of everything (RV 10.121). The Chandogya Upanishad says the sun was born from the cosmic egg, and teaches that the sun is Brahman, the ultimate reality (Ch. Up. 3.19). Kushmanda's story joins these old ideas, the egg and the sun, into one smiling Devi.
 
 **Did you know? (popular and local tradition):** *petha*, the translucent sweet that Agra is famous for, is made from ash gourd. And in Varanasi, the Durga Kund temple is locally identified with Kushmanda; the present temple dates from the eighteenth century.
 
-## Beat 7: Three ideas (interpretation)
+## Beat 7: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it. On the short path, use only the third.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. Creation as joy**
+- **Word:** Creation
+- **Idea:** What you make carries something of why you made it.
+- **Description:** In her story the universe isn’t built by force or labour. It begins with a smile in the dark, and a small warm egg of light. Old Indian philosophy asks why anyone would create at all, and one answer is lila, play: creation out of delight, not need. And Kushmanda doesn’t leave what she made. She lives at the core of the sun, keeping it warm. Our reading is that why you make something shows up in what it becomes, and that making something starts a relationship with it rather than finishing a task.
 
-- **Simply:** in this story, the world doesn't begin because something is missing. It begins with a smile.
-- **From the story:** before anything exists, the Devi smiles, and light and the cosmic egg come from that smile.
-- **Traditional reading:** Hindu philosophy calls creation *lila*, divine play. The Brahma Sutra (2.1.33) answers the question "why would a complete being create anything?" by saying: for play, as people sometimes act for the sheer joy of it.
-- **Other readings:** the Rig Veda poet of the creation hymn doesn't claim to know why the world began at all (RV 10.129.6–7). Is joy an answer, or a hope? And is there anything you make only because you enjoy making it?
-
-**2. Light that sustains others**
-
-- **Simply:** some people are like a sun for everyone around them.
-- **From the story:** Kushmanda lives in the sun and gives it its light. The sun lights everything else.
-- **Traditional reading:** the Chandogya Upanishad teaches meditation on the sun as Brahman (3.19). Yogic interpretation links tonight with the heart chakra, the centre of warmth and love.
-- **Contemporary:** in the story, even the sun has a source. Who lights the people who light us? What happens to someone who is always expected to shine?
-
-**3. A little warmth, very large effects**
-
-- **Simply:** very big things often start very small.
-- **From the story:** her name is read as "a little warmth" that hatched a universe.
-- **Traditional reading:** in the Chandogya Upanishad (6.12), a father asks his son to split a tiny banyan seed. The son sees nothing inside. From that unseen essence, the father says, the great tree grows.
-- **Other readings:** small beginnings can grow into harm as easily as good. A rumour starts small too. If small things matter this much, are we responsible for how they grow?
-
-## Beat 8: Two ways of asking how it began (optional, contemporary)
-
-**For the parent (show before this beat):** this beat is optional and skipped on the short path. It is a conversation, not a lesson in which answer wins. Families hold different views about how science and sacred stories fit together, and many Hindus see no conflict at all. Don't settle it for your child. If they ask whether ancient texts predicted modern science, say honestly that some people claim so, and most scholars are cautious.
-
-- **Science (a different kind of knowledge):** scientists' best account is that about 13.8 billion years ago the universe was extremely hot and dense. It has been expanding and cooling ever since. The oldest light we can still detect was released about 380,000 years later; telescopes see it today as a faint glow across the whole sky. Science asks *how* and *when*, tests its ideas against evidence, and changes its answers when the evidence changes.
-- **A sacred story:** Kushmanda's story isn't trying to measure anything. It asks what the universe *means*: that it began in joy and warmth, and that the Devi is present in it.
-- **An old text that kept the question open:** the Rig Veda creation hymn ends by asking who really knows how it began. It wonders whether even the one who watches from the highest heaven knows (RV 10.129.6–7).
-- **Ask:** which questions can science answer that a story can't? Which questions can a story answer that science can't? Are there any neither can answer?
-
-## Beat 9: Hagrid's cake at midnight (hogwarts)
+## Beat 8: Hagrid's cake at midnight (hogwarts)
 
 - **Reference:** Harry. *Philosopher's Stone*, chapter 3, "The Letters from No One" (the countdown), and chapter 4, "The Keeper of the Keys". Film: *Philosopher's Stone* (2001), the hut on the rock.
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** in the book the cake is a sticky chocolate cake with "Happy Birthday Harry" in green icing, and Hagrid admits he may have sat on it. In the film it is pink with the words misspelled, and Hagrid adds that he baked it himself. The film also shows Harry drawing a cake in the dust of the floor before midnight *(to check)*. None of this changes the moment we discuss.
 
-**Retelling (spoken style).** Letters from Hogwarts keep arriving for Harry, hundreds of them, and Uncle Vernon is desperate to escape them. He drags the family to a damp hut on a rock out at sea, in the middle of a storm. Dudley gets the sofa; Harry lies on the floor. Tomorrow is Harry's eleventh birthday, and he counts down the minutes on Dudley's watch. He wonders whether the Dursleys will even remember. Last year they gave him a coat-hanger and a pair of Uncle Vernon's old socks. At midnight there's a tremendous bang, and the door is smashed in. A giant of a man squeezes into the hut. He pulls out a slightly squashed box for Harry. Inside is a birthday cake with Harry's name on it. Harry means to say thank you, but the words get lost, and he asks who the man is instead. Hagrid gets a fire going, cooks sausages, and tells Harry he's a wizard.
+**Retelling (spoken style).** Letters from Hogwarts keep arriving for Harry, hundreds of them, and Uncle Vernon drags the family to a damp hut on a rock out at sea, in the middle of a storm. Harry lies on the floor, counting down the minutes to his eleventh birthday on Dudley's watch. He wonders whether the Dursleys will even remember; last year they gave him a coat-hanger and a pair of Uncle Vernon's old socks. At midnight there's a tremendous bang, and the door is smashed in. A giant of a man squeezes into the hut and pulls out a slightly squashed box for Harry. Inside is a birthday cake with Harry's name on it. Harry means to say thank you, but the words get lost, and he asks who the man is instead. Hagrid gets a fire going, cooks sausages, and tells Harry he's a wizard.
 
-**The connection:** Idea 3, a little warmth with very large effects.
+**The connection:**
 
 - **What is similar:** in a dark, cold place, a small, warm thing arrives at midnight, and a whole new world begins for Harry. It is the first birthday anyone has truly marked for him.
 - **What is different:**
@@ -155,8 +130,9 @@ Each idea shows the simple version first, then the deeper one, then the story mo
     - Kushmanda's story is sacred and cosmic. Harry's is one boy's birthday in a novel.
 - **Why the comparison helps:** a cosmic egg is hard to picture. A squashed cake in a storm, and a boy who doesn't know how to say thank you, is easy. It lets a child feel what "a little warmth" might mean.
 - **Strength: speculative.** The feeling matches; the story, the scale and the decision do not.
+- **Link to the theme (Creation):** Hagrid was sent only to deliver a letter; the cake was his own idea, brought so that someone would mark Harry's birthday. Squashed, and possibly sat on, it still carries that reason, which is why Harry can't find the words to thank him, and that night begins a friendship that lasts the whole series.
 
-## Beat 10: Think it through (comparison)
+## Beat 9: Think it through (comparison)
 
 **The ladder**
 
@@ -178,15 +154,15 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 
 **Activity: the night without the cake (2 minutes, with a visible timer).** Imagine Hagrid arrived with only the letter. Each person has 45 seconds to describe how Harry might remember that night now. Then decide together: what exactly did the cake add, if anything?
 
-## Beat 11: The Christmas jumper (hogwarts)
+## Beat 10: The Christmas jumper (hogwarts)
 
 - **Reference:** Harry. *Philosopher's Stone*, chapter 12, "The Mirror of Erised", with chapter 6, "The Journey from Platform Nine and Three-Quarters", where he first meets Mrs Weasley. Film: *Philosopher's Stone* (2001), Christmas morning.
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film keeps the jumpers but not the explanation. Ron says his mum made his, and that Harry seems to have one too. Ron telling his mum that Harry expected no presents, and the fudge, are in the book only.
 
-**Retelling (spoken style).** It's Harry's first Christmas at Hogwarts. He has never expected much from Christmas, and this year he expects nothing at all. But on Christmas morning there's a pile of presents at the foot of his bed. The Dursleys have sent a fifty-pence coin. And there's a lumpy parcel from Mrs Weasley, Ron's mother. Harry has met her once, for a few moments, when she showed him how to get onto the platform at King's Cross. Inside is a thick, hand-knitted jumper in emerald green, and a big box of homemade fudge. Ron groans: he had told his mum that Harry wasn't expecting any presents. She knits one for each of her children every year, he explains, and his is always maroon. Later, one of the twins notices that Harry's jumper is better than theirs. Perhaps, he jokes, she makes more of an effort for people who aren't family.
+**Retelling (spoken style).** It's Harry's first Christmas at Hogwarts, and he expects nothing at all. But on Christmas morning there's a pile of presents at the foot of his bed. The Dursleys have sent a fifty-pence coin, and there's a lumpy parcel from Mrs Weasley, Ron's mother, whom Harry has met once, for a few moments, at King's Cross. Inside is a thick, hand-knitted jumper in emerald green, and a big box of homemade fudge. Ron groans: he had told his mum that Harry wasn't expecting any presents. She knits one for each of her children every year, he explains, and his is always maroon. Later, one of the twins notices that Harry's jumper is better than theirs. Perhaps, he jokes, she makes more of an effort for people who aren't family.
 
-**The connection:** Idea 2, light that sustains others, and Idea 3, a little warmth.
+**The connection:**
 
 - **What is similar:** a small, warm gift reaches someone who expected nothing, and it starts something that lasts. Harry gets a Weasley jumper for years afterwards, and the Weasleys become something like a family to him.
 - **What is different:**
@@ -195,10 +171,9 @@ Each idea shows the simple version first, then the deeper one, then the story mo
     - Nothing is created from nothing. Mrs Weasley is doing what she already does for her own children, and widens the circle by one.
 - **Why the comparison helps:** it asks what makes a small kindness grow into something big: the size of the gift, or that it kept coming?
 - **Strength: speculative.** Like the cake, it matches a feeling. It has slightly more of a decision in it.
+- **Link to the theme (Creation):** Mrs Weasley knits the jumper by hand because Ron told her Harry expected no presents, and it carries that reason: Harry is given what her own children get each year. And she doesn't make just one. A jumper arrives for Harry year after year, more like the start of a relationship than a task finished.
 
-## Beat 12: Think it through (comparison)
-
-On the short path, ask one question and skip the activity.
+## Beat 11: Think it through (comparison)
 
 **The ladder**
 
@@ -218,9 +193,9 @@ On the short path, ask one question and skip the activity.
 
 **Stance line:** "A gift from someone who barely knows you means more" ↔ "A gift means most from the people closest to you".
 
-**Activity: should she knit it? (2 minutes, with a visible timer; skip on the short path).** It's November, and Mrs Weasley has just read Ron's letter. The child argues for 30 seconds that she *shouldn't* knit for Harry: money is tight, he isn't hers, he might be embarrassed. The parent argues for 30 seconds that she should. Then swap. Which argument was harder to make?
+**Activity: should she knit it? (2 minutes, with a visible timer).** It's November, and Mrs Weasley has just read Ron's letter. The child argues for 30 seconds that she *shouldn't* knit for Harry: money is tight, he isn't hers, he might be embarrassed. The parent argues for 30 seconds that she should. Then swap. Which argument was harder to make?
 
-## Beat 13: Side by side (comparison)
+## Beat 12: Side by side (comparison)
 
 Questions are revealed one at a time. None has a single right answer.
 
@@ -232,11 +207,11 @@ Questions are revealed one at a time. None has a single right answer.
 
 **What doesn't compare (always shown):** Kushmanda is a Devi, worshipped today, and her story is about the beginning of everything that exists. Hagrid and Mrs Weasley are fictional people being kind. We are comparing the *feeling* of warmth arriving in the dark, and even that link is ours, not the author's. Tonight's comparison is speculative, and that's all right to say.
 
-## Beat 14: Today (contemporary)
+## Beat 13: Today (contemporary)
 
-This is the night's longest beat. There are three situations and a family activity; the short path uses only the first situation and a 3-minute activity. Each situation shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
 
-**1. The new person at lunch.** A new student has joined your class. For a week they've eaten lunch alone. Your friends haven't noticed, or haven't said anything.
+**The new person at lunch.** A new student has joined your class. For a week they've eaten lunch alone. Your friends haven't noticed, or haven't said anything.
 
 - "Ask them to sit with us. It costs nothing."
 - "It does cost something. My friends might not want them there, and then it's awkward."
@@ -245,35 +220,13 @@ This is the night's longest beat. There are three situations and a family activi
 - "Only do it if I mean to keep doing it. A one-off isn't really kindness."
 - **Ask:** Hagrid brought one cake; Mrs Weasley sent a jumper every year. Is a small kindness you only do once still worth doing?
 
-**2. Always the one who cheers everyone up.** In your friendship group you're the funny one, the one who notices when someone's sad and makes them laugh. Lately you're tired and fed up, and nobody has asked how you are.
+## Beat 14: Reflection (contemporary)
 
-- "Keep going. People rely on me, and it feels good to help."
-- "Say something to one friend. They can't know unless I tell them."
-- "Step back for a bit and see who notices."
-- "It's a bit unfair. Why is it always my job?"
-- "Talk to someone outside the group, like a parent, about how it feels."
-- **Ask:** in the story, even the sun has a source of light. Is it fair to expect one person to always be the warm one? What would you want your friends to do?
-
-**3. The joke that grew.** You made up a nickname for a classmate as a joke, just once, in a group chat. It spread. Now half the year uses it, and you can tell the classmate hates it.
-
-- "Apologise to them directly. I started it."
-- "Tell everyone to stop using it. If I started it, maybe I can end it."
-- "It's out of my hands now. I only said it once."
-- "Ask the classmate what they'd want. Maybe they don't want more attention on it."
-- "Tell a teacher. It's become bigger than me."
-- **Ask:** small things can start big good things, and big hurtful things too. Who is responsible for how something grows: the person who started it, or everyone who passed it on?
-
-**Activity: our small beginnings (4 minutes, or 3 on the short path; this is the night's main activity).** Set a timer. Each person has 90 seconds to tell the other about one small thing that started something big in their own life or in the family's. It might be a chance meeting, one conversation, a teacher's comment, a first lesson, or a door someone opened. The listener then asks one question about it. Finish with one minute together: what small thing could we start this week, and what might it grow into?
-
-## Beat 15: Reflection (contemporary)
-
-Pick one or two questions; you don't need them all. The night's main activity, "our small beginnings", comes just before this, in Beat 14.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
-- If you began a world, what would come first?
 - Kushmanda began the universe with a smile. Why do you think the story chose a smile, and not a shout or a battle?
-- Which mattered more to Harry, the cake or the jumper? Why?
 - Who has been a bit like a sun for you?
 
 **Go deeper**
@@ -287,7 +240,9 @@ Pick one or two questions; you don't need them all. The night's main activity, "
 
 **Private note (saved only on this device):** one small beginning I want to remember is…
 
-**Takeaway (shown last):** tonight's story suggests that the biggest things can begin with the smallest warmth, even a smile in the dark. What we start, kind or unkind, can grow far beyond us. Tomorrow, the Devi holds a child on her lap: Skandamata, the mother of Skanda.
+**The theme again (shown last, then in the closing):** Creation. What you make carries something of why you made it.
+
+**Tomorrow:** the Devi holds a child on her lap: Skandamata, the mother of Skanda.
 
 ## For the parent
 
@@ -296,7 +251,7 @@ Pick one or two questions; you don't need them all. The night's main activity, "
 - The story leads tonight. Give it time, and don't rush to the Harry Potter scenes, which are deliberately short.
 - Say plainly that tonight's comparison is speculative. Showing a child how to admit a weak link is part of the lesson.
 - Kushmanda's creation story is devotional tradition, not a Puranic narrative. The older texts quoted (Rig Veda, Chandogya Upanishad) are background, not her story.
-- Harry's forgotten birthdays may touch a nerve for a child who has ever felt overlooked. If it does, let the conversation go there, and keep the family activity warm.
+- Harry's forgotten birthdays may touch a nerve for a child who has ever felt overlooked. If it does, let the conversation go there, and keep it warm.
 
 **Sources and confidence**
 
@@ -312,12 +267,10 @@ Pick one or two questions; you don't need them all. The night's main activity, "
 | Darkness hidden in darkness; desire as the first seed; "who really knows?" | Rig Veda 10.129.3–4, 6–7 | Tradition | High; translations vary |
 | Hiranyagarbha, the golden embryo | Rig Veda 10.121 | Tradition | High |
 | Egg splitting into silver earth and golden sky; the sun as Brahman | Chandogya Upanishad 3.19 | Tradition | High |
-| The banyan seed | Chandogya Upanishad 6.12 | Tradition | High |
 | The Devi creates, sustains and withdraws the universe | Devi Mahatmya ch. 1, Brahma's hymn (vv. 72–73 at hindupad.com; numbering varies) | Tradition | High (content); medium (verse numbers) |
 | Creation as play (*lila*) | Brahma Sutra 2.1.33 | Interpretation (philosophical) | High |
 | Om as the first sound | Widely held Hindu teaching | Interpretation | Medium (stated generally) |
 | Petha made from ash gourd; Durga Kund identified with Kushmanda | Popular and local tradition; temple guides | Tradition (local) | Medium |
-| Universe about 13.8 billion years old; oldest light about 380,000 years later | Modern cosmology | Contemporary (science) | High |
 | Countdown in the hut; coat-hanger and socks | *Philosopher's Stone* ch. 3 | Hogwarts | High |
 | Hagrid's arrival and the cake | *Philosopher's Stone* ch. 4; 2001 film | Hogwarts | High |
 | Film: pink cake, misspelled, "baked it myself" | 2001 film, transcript | Hogwarts | High (line); medium (cake design) |
@@ -330,11 +283,12 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 ---
 
+
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 24 minutes with discussion, or about 16 as a short evening: on a short evening, skip the two choice questions (each marked **[Full night only]**; still read what follows), the second scene (from "The second scene" to its stance line) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 11 minutes)
+## Part 1: Opening and the story (about 9 minutes)
 
 Last night, Shiva arrived for his wedding with a wild, frightening procession. Parvati's mother fainted, and Parvati became Chandraghanta, fierce and protective, until Shiva agreed to appear gently.
 
@@ -352,7 +306,7 @@ From that smile, light spread through the darkness. And a great egg appeared, th
 
 This is how devotional tradition tells it, the way families pray and sing about her. It isn't from one of the long old Puranas. But it is how millions of people know her.
 
-**[PAUSE: Choice. Ask: "If you were beginning a world, what would come first? Light, a sound, a seed or egg, or someone to share it with?" Listen to the reasons.]**
+**[PAUSE: Choice. Full night only. Ask: "If you were beginning a world, what would come first? Light, a sound, a seed or egg, or someone to share it with?" Listen to the reasons.]**
 
 In her story, a smile comes first, and the light comes from the smile. Other old Hindu texts begin differently. One hymn in the Rig Veda says that in the beginning darkness was hidden in darkness, and desire arose like the first seed of mind. Another begins with a golden embryo. And the Chandogya Upanishad tells of an egg that split in two: a silver half that became the earth, and a gold half that became the sky. The tradition keeps all of these side by side.
 
@@ -362,7 +316,7 @@ Where does Kushmanda live? Devotees say she lives at the very centre of the sun.
 
 In pictures she has eight arms. She holds a water pot and a pot of nectar, a bow and an arrow, a lotus, a discus, a mace and a string of prayer beads. She rides a lion. People pray to her for health, strength and a long life.
 
-**[PAUSE: Choice. Ask: "How much power do you think it takes to begin a universe? All the power there is, a single spark, something gentle like a smile, or can nobody know?"]**
+**[PAUSE: Choice. Full night only. Ask: "How much power do you think it takes to begin a universe? All the power there is, a single spark, something gentle like a smile, or can nobody know?"]**
 
 Here is a lovely thing about her name. One popular explanation splits it into three parts: *ku*, a little; *ushma*, warmth; and *anda*, egg. A little warmth that hatched the egg of the universe. That's a devotional reading of the word, not a rule of grammar, but people love it.
 
@@ -372,31 +326,17 @@ And yet another old text, the Devi Mahatmya, praises the Devi as the one who cre
 
 **[Pause: about 1 minute. Optional: "Which picture of the beginning do you like best: the smile, the egg, or the seed?"]**
 
-## Part 2: The ideas and two Hogwarts scenes (about 10 minutes, or 12 with the optional conversation)
+## Part 2: The theme and two Hogwarts scenes (about 9 minutes)
 
-Three ideas come out of tonight's story. People read them in different ways, so these are readings, not rules.
+Tonight's word is creation. What you make carries something of why you made it.
 
-The first is that creation can be joy. In this story, the world doesn't begin because something was missing. It begins with a smile. Hindu philosophers had a word for this: *lila*, divine play. Creating for the sheer joy of it.
-
-The second is light that sustains others. The sun lights everything, but in this story even the sun has a source. Which makes you wonder who lights the people who light us.
-
-The third is that a little warmth can have very large effects. In the Chandogya Upanishad, a father asks his son to split open a tiny banyan seed. The son looks and sees nothing inside. From that unseen something, the father says, the whole great tree grows.
-
-**[Pause: ask, "Which of these three feels most true to you?" On the short path, read only the third idea.]**
-
-**[OPTIONAL (skip on the short path): read Beat 8. For the parent: this is a conversation, not a contest between science and faith. Don't settle it for your child.]**
-
-**[Optional:]** Scientists have a different way of asking how the universe began. Their best answer is that about 13.8 billion years ago, everything was unimaginably hot and packed together, and it has been spreading out and cooling ever since. The oldest light we can still see was let loose a few hundred thousand years after that. Telescopes pick it up today as a faint glow from every part of the sky. Science asks how and when, and checks its answers against evidence. A story like Kushmanda's asks something else: what the universe means. And about three thousand years ago, a Rig Veda poet ended his creation hymn with a question. Who really knows how it all began? Perhaps even the one watching from the highest heaven doesn't know.
-
-**[Optional pause: ask, "What questions can science answer that a story can't? What can a story answer that science can't?"]**
+In her story the universe isn’t built by force or labour. It begins with a smile in the dark, and a small warm egg of light. Old Indian philosophy asks why anyone would create at all, and one answer is lila, play: creation out of delight, not need. And Kushmanda doesn’t leave what she made. She lives at the core of the sun, keeping it warm. Our reading is that why you make something shows up in what it becomes, and that making something starts a relationship with it rather than finishing a task.
 
 Now, Hogwarts. Two short scenes, both from *Philosopher's Stone*. Remember, the link is only a feeling, not a matching choice.
 
 The first is from chapters three and four, and it's in the film.
 
-Letters from Hogwarts keep arriving for Harry, hundreds of them, and Uncle Vernon is desperate to escape them. He drags everyone to a damp hut on a rock out at sea, in a storm. Dudley gets the sofa. Harry lies on the floor. Tomorrow is his eleventh birthday, and he counts down the minutes on Dudley's watch, wondering if anyone will remember. Last year the Dursleys gave him a coat-hanger and a pair of Uncle Vernon's old socks.
-
-At midnight there's an enormous bang, and the door crashes in. A giant of a man squeezes into the hut. He hands Harry a slightly squashed box. Inside is a birthday cake with Harry's name on it. Harry wants to say thank you, but the words get lost, and instead he asks who the man is. It's Hagrid. He gets a fire going, cooks sausages, and tells Harry he's a wizard.
+Letters from Hogwarts keep arriving for Harry, hundreds of them, and Uncle Vernon drags the family to a damp hut on a rock out at sea, in the middle of a storm. Harry lies on the floor, counting down the minutes to his eleventh birthday on Dudley's watch. He wonders whether the Dursleys will even remember; last year they gave him a coat-hanger and a pair of Uncle Vernon's old socks. At midnight there's a tremendous bang, and the door is smashed in. A giant of a man squeezes into the hut and pulls out a slightly squashed box for Harry. Inside is a birthday cake with Harry's name on it. Harry means to say thank you, but the words get lost, and he asks who the man is instead. Hagrid gets a fire going, cooks sausages, and tells Harry he's a wizard.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -416,11 +356,9 @@ Hagrid didn't create a world. The wizarding world was already there, and he brou
 
 The second scene is from chapter twelve, Christmas morning, and it's in the film too.
 
-It's Harry's first Christmas at Hogwarts. He expects nothing. But when he wakes up, there's a pile of presents at the end of his bed. The Dursleys have sent a fifty-pence coin. And there's a lumpy parcel from Mrs Weasley, Ron's mum. Harry has met her once, for a few moments, when she showed him how to get onto the platform at King's Cross.
+It's Harry's first Christmas at Hogwarts, and he expects nothing at all. But on Christmas morning there's a pile of presents at the foot of his bed. The Dursleys have sent a fifty-pence coin, and there's a lumpy parcel from Mrs Weasley, Ron's mother, whom Harry has met once, for a few moments, at King's Cross. Inside is a thick, hand-knitted jumper in emerald green, and a big box of homemade fudge. Ron groans: he had told his mum that Harry wasn't expecting any presents. She knits one for each of her children every year, he explains, and his is always maroon. Later, one of the twins notices that Harry's jumper is better than theirs. Perhaps, he jokes, she makes more of an effort for people who aren't family.
 
-Inside is a thick, hand-knitted jumper in emerald green, and a big box of homemade fudge. Ron groans. He'd told his mum that Harry wasn't expecting any presents. She makes one for each of them every year, he says, and his is always maroon. Later one of the twins jokes that Harry's is nicer than theirs: maybe she tries harder for people who aren't family.
-
-**[PAUSE: Think it through. Choose one or two (one on the short path):]**
+**[PAUSE: Think it through. Choose two or three:]**
 
 - **[Notice: why did Mrs Weasley send a present at all? Who told her?]**
 - **[Wonder: why might a jumper mean more to Harry than something expensive?]**
@@ -429,9 +367,9 @@ Inside is a thick, hand-knitted jumper in emerald green, and a big box of homema
 
 **[STANCE LINE: "A gift from someone who barely knows you means more" or "A gift means most from the people closest to you".]**
 
-**[ACTIVITY (skip on the short path): 2 minutes. It's November and Mrs Weasley has just read Ron's letter. Your child argues for 30 seconds that she shouldn't knit for Harry; you argue that she should. Then swap. Which side was harder?]**
+**[ACTIVITY: 2 minutes. It's November and Mrs Weasley has just read Ron's letter. Your child argues for 30 seconds that she shouldn't knit for Harry; you argue that she should. Then swap. Which side was harder?]**
 
-## Part 3: Side by side, today, and closing (about 9 minutes)
+## Part 3: Side by side, today, and closing (about 6 minutes)
 
 Let's put the stories next to each other. There's no single right answer to any of these.
 
@@ -450,9 +388,7 @@ Imagine a new student has joined your class. For a week they've eaten lunch alon
 
 Some people would say ask them over, because it costs nothing. Some would say it does cost something, because your friends might not want them there. Some would wait, because some people like being alone at first, and pity can feel worse than nothing. Some would ask once, kindly, and let them decide. And some would say only do it if you mean to keep doing it.
 
-**[PAUSE: ask, "Hagrid brought one cake; Mrs Weasley sent a jumper every year. Is a small kindness you only do once still worth doing?" On the long path, also use the "always the one who cheers everyone up" and "the joke that grew" situations from Beat 14.]**
-
-**[ACTIVITY: 4 minutes, or 3 on the short path. This is the night's main activity. Each of you has 90 seconds to tell the other about one small thing that started something big in your life or the family's: a chance meeting, a conversation, a teacher's comment, a first lesson. The listener asks one question about it. Then, together: what small thing could we start this week?]**
+**[PAUSE: ask, "Hagrid brought one cake; Mrs Weasley sent a jumper every year. Is a small kindness you only do once still worth doing?"]**
 
 Last questions.
 
@@ -460,10 +396,10 @@ Last questions.
 
 **[TOGETHER: "What is one small, warm thing our family does that we'd want to keep going for years?"]**
 
-Tonight's story says the biggest things can begin with the smallest warmth, even a smile in the dark. And what we start, kind or unkind, can grow far beyond us.
+Tonight's word is creation. What you make carries something of why you made it.
 
 Tomorrow, the Devi holds a child on her lap. She is Skandamata, the mother of Skanda.
 
 **[End. Optional: each of you says, or writes in the app's private note, one small beginning you want to remember.]**
 
-**Timing:** about 11 minutes for Part 1, 10 for Part 2 (12 with the optional conversation) and 9 for Part 3 (including the 4-minute family activity), so about 30 minutes in all. The short path takes about 20: no optional conversation, one idea, two ladder questions for the first scene and one for the second, no second activity, one "Today" situation and a 3-minute family activity.
+**Timing:** about 9 minutes for Part 1, 9 for Part 2 and 6 for Part 3, so about 24 minutes in all. A short evening takes about 16: no choice questions, one scene, two ladder questions, and no side by side.

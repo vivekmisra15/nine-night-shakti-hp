@@ -4,31 +4,33 @@ The lesson and the read-aloud script for Night 6. The plan for all nine nights i
 
 # Lesson
 
-Night 6 takes about 30 minutes, or about 20 on the short path. Its question: when something is unjust and nobody can fix it alone, what do we do with our anger? The night tells how the gods, beaten by the buffalo-demon Mahishasura, poured out their fury as light, and how that light became the Devi. Then come two Harry Potter scenes: Dumbledore's Army is formed, and three friends get past the trapdoor together.
+Night 6 takes about 25 minutes, or about 16 as a short evening. Its question: when something is unjust and nobody can fix it alone, what do we do with our anger? The night tells how the gods, beaten by the buffalo-demon Mahishasura, poured out their fury as light, and how that light became the Devi. Then come two Harry Potter scenes: Dumbledore's Army is formed, and three friends get past the trapdoor together.
 
 ## At a glance
 
 - **Intensity:** gentle. The battle with Mahishasura ends in his death. Tell it as the texts do, plainly and without gore. Read the parent note in Beat 6 before you begin.
-- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, skip the second scene's activity, and use only the first "Today" situation.
+- **Short evening (about 16 minutes):** the opening, the story (Beats 2–7; each choice shows its set-up and what happened, without the question), the theme, Dumbledore's Army with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out both choice questions, Through the trapdoor and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
 | 1 | Before we begin | opening | contemporary | 1.5 |
-| 2 | Heaven lost | story | tradition | 1.5 |
-| 3 | What should the gods do? | choice | hypothetical | 4.5 |
+| 2 | Heaven lost | story | tradition | 1 |
+| 3 | What should the gods do? | choice | hypothetical | 1.5 |
 | 4 | Born of light | story | tradition | 2 |
-| 5 | "What is this?" | choice | hypothetical | 2 |
+| 5 | "What is this?" | choice | hypothetical | 1.5 |
 | 6 | The battle | story | tradition | 2 |
 | 7 | Katyayani | story | tradition | 1 |
-| 8 | Three ideas | idea | interpretation | 3 |
+| 8 | The theme | idea | interpretation | 1 |
 | 9 | Dumbledore's Army | sceneIntro | hogwarts | 2 |
 | 10 | Think it through | think | comparison | 3 |
 | 11 | Through the trapdoor | sceneIntro | hogwarts | 1.5 |
-| 12 | Think it through | think | comparison | 3 |
-| 13 | Side by side | comparison | comparison | 2 |
-| 14 | Today | today | contemporary | 3 |
-| 15 | Reflection | reflection | contemporary | 2 |
+| 12 | Think it through | think | comparison | 2.5 |
+| 13 | Side by side | comparison | comparison | 1.5 |
+| 14 | Today | today | contemporary | 1.5 |
+| 15 | Reflection | reflection | contemporary | 1.5 |
+
+Beats 14 and 15 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -58,8 +60,6 @@ Long ago the gods and the asuras, the demons, fought a war that lasted a full hu
 | Wait, and look for a better moment | Patience can be wise. But Mahishasura is using everything that was theirs. Does waiting cost anything? |
 
 **What happens:** the gods went to Brahma, the creator. With Brahma at their head, they went to Shiva and Vishnu and told them everything. Then they asked: please think how he can be ended (DM 2.4–8).
-
-**Activity: the council of the gods (4 minutes, with a visible timer; this is the night's main activity).** Each of you plays a god who has lost something: Indra lost his throne, Agni lost his fire, Surya lost the sun. Take 60 seconds each to propose a plan. Then take 30 seconds each to find the weak spot in the other person's plan. Finally, you have 60 seconds together to agree one plan. Afterwards, ask: was it easier to find the weak spot in someone else's plan, or in your own?
 
 ### Beat 4: Born of light (tradition)
 
@@ -98,11 +98,11 @@ Notice that Shiva and Vishnu don't hand over their own weapons. They draw new on
 
 ### Beat 6: The battle (tradition)
 
-**For the parent (show before this beat):**
+**For the parent (a notification: the bell pulses at the start of this beat and again before she leaps onto Mahishasura and ends his life; the story does not stop):**
 
 - The Devi Mahatmya describes a real battle, and it ends with Mahishasura's death. We tell it as the text does, plainly, without gory detail.
 - The text treats this as a sacred victory that restores the order of the world. It is not about defeating people we are angry with. Say so if your child seems to take it that way.
-- Many traditional readers see Mahishasura as pride or ignorance, the "buffalo" in each of us. That is an interpretation, offered in Beat 8.
+- Many traditional readers see Mahishasura as pride or ignorance, the "buffalo" in each of us. That is an interpretation.
 - If your child is uneasy about a goddess who kills, that is a good question, not a problem. The gods themselves, in the next chapter, praise her for being merciful in her heart even while she is harsh in battle (DM 4.21–22).
 
 Mahishasura's generals came at her one after another, with chariots, elephants and horses. As she fought, the Devi breathed out, and her breaths became whole armies of helpers (DM 2.53). Her lion charged through the enemy ranks. Her generals fell, among them Chikshura and Chamara (DM 3.2–20).
@@ -138,30 +138,13 @@ The Devi Mahatmya mostly calls her Ambika or Chandika. Where does the name "Katy
 
 **Did you know? (tradition):** in Devi Mahatmya 11.25, the gods pray to Katyayani to protect them through her gentle face, adorned with three eyes. The word is *saumya*, mild or gentle. The same Devi who fought Mahishasura is praised for her gentle face.
 
-## Beat 8: Three ideas (interpretation)
+## Beat 8: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. Many powers, one purpose**
-
-- **Simply:** some things nobody can do alone, however strong they are.
-- **From the story:** every god had already fought and lost. Their light, joined together, became one Devi.
-- **Traditional reading:** the Devi is not really put together from the gods' parts. Later in the Devi Mahatmya, a demon king sneers that she fights with other people's strength. She answers that she alone exists, and that all those powers are her own (DM 10.3–5). On this reading, the gods' powers were always hers.
-- **Other readings:** a modern reader may see a story about cooperation. Notice its cost: each god had to stop being the hero, and let the power go somewhere else.
-
-**2. Anger turned into action**
-
-- **Simply:** anger can be fuel. What matters is where it goes.
-- **From the story:** Vishnu and Shiva hear about the injustice and grow angry. Their anger becomes light, not a tantrum.
-- **Traditional reading:** this is anger at injustice, the kind that restores order. The gods praise the Devi for having compassion in her heart and harshness in battle at the same time (DM 4.22).
-- **Contemporary:** many people today say anger at injustice is what starts change. Others warn that a group's shared anger can also turn into a mob. Both are true sometimes. How can you tell which is which?
-
-**3. Each gives what they have**
-
-- **Simply:** a shared purpose needs different gifts, not the same gift many times.
-- **From the story:** the trident, the discus, the bell, even the Ocean's lotus and Kubera's cup. Nobody gives the same thing.
-- **Traditional reading (interpretation):** in worship, too, people offer what they have. The cowherd girls of the Bhagavata offer earth, flowers, lamps and incense on a riverbank (BP 10.22).
-- **Contemporary:** in a team, the person whose gift seems smallest can turn out to matter most.
+- **Word:** Courage
+- **Idea:** When something is wrong, stand up to it, and stand together.
+- **Description:** Mahisha had driven the gods out of heaven, and each of them, alone, had lost. Their shared anger at the injustice blazed out as light and gathered into one form: the Devi. The Devi Mahatmya says she is eternal and simply appears when she is needed. Each god then gave her his own weapon, trusting her with what he couldn’t win alone. In a popular telling (not in the Devi Mahatmya), Mahisha had asked that only a woman could kill him, because he thought no woman could. In this story, courage isn’t the absence of fear. It’s refusing to accept a wrong, and it’s strongest when it’s shared. Often it comes from exactly where the arrogant weren’t looking.
 
 ## Beat 9: Dumbledore's Army (hogwarts)
 
@@ -169,15 +152,9 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film moves Harry's protest that real danger is nothing like school into the Hog's Head meeting. Neville, not Dobby, finds the Room of Requirement. The film doesn't show the naming as the book does; the name appears on the list of members that Umbridge seizes *(to check)*. The choice to join is the same in both.
 
-**Retelling (spoken style).** It's Harry's fifth year. Voldemort is back, but the Ministry of Magic insists he isn't, and the newspapers call Harry a liar. The new Defence teacher, Professor Umbridge, comes from the Ministry. Her lessons are reading from a book, with no spells at all. When Harry says Voldemort has returned, she gives him cruel detentions.
+**Retelling (spoken style).** It's Harry's fifth year. Voldemort is back, but the Ministry insists he isn't, the newspapers call Harry a liar, and the new Defence teacher, Professor Umbridge, teaches from a book with no spells at all. Hermione has had enough: if nobody will teach them to defend themselves, they should teach themselves, and Harry should be the teacher. Harry protests that he was lucky and always had help. At the Hog's Head, a grubby pub, he expects a handful of people, and about two dozen students turn up from three different houses. Zacharias Smith wants proof, others list what Harry has done, and they all sign Hermione's parchment, promising to keep it secret. When a new rule bans every group Umbridge hasn't approved, Dobby tells Harry about a hidden room that appears when you really need it. There Ginny points out that "D.A." could stand for Dumbledore's Army, the thing the Minister fears most, and they begin with the Disarming Charm.
 
-Hermione has had enough. If nobody will teach them to defend themselves, she says, they should teach themselves, and Harry should be the teacher. Harry protests. He was lucky, he says, and he always had help.
-
-On the next Hogsmeade weekend, they meet in a grubby pub called the Hog's Head. Harry expects a handful of people. About two dozen students turn up, from three different houses. Some want to hear about Cedric's death, and Harry refuses to talk about it. Zacharias Smith wants proof that Harry can do anything. Others start listing what he has done: the Patronus, the sword, the Stone. Harry says again that he had help. In the end they all sign Hermione's parchment, promising to keep it secret.
-
-Days later, a new rule bans every student group that Umbridge hasn't approved. Dobby tells Harry about a hidden room that appears when you really need it. Inside are cushions, books and Dark detectors. The group votes Harry its leader. Cho suggests calling it the Defence Association; Ginny points out that "D.A." could stand for Dumbledore's Army, the thing the Minister fears most. They begin with the Disarming Charm.
-
-**The connection:** Idea 1, many powers, one purpose, and Idea 2, anger turned into action.
+**The connection:** the theme: standing up to a wrong, together.
 
 - **What is similar:** people who are each powerless alone join together against an injustice. The students are angry at being left defenceless and at the Ministry's denial. That anger becomes something disciplined: practice. Each of them adds their name, as each god added a gift.
 - **What is different:**
@@ -187,6 +164,7 @@ Days later, a new rule bans every student group that Umbridge hasn't approved. D
     - The Devi is worshipped as divine power itself. Harry is a fifteen-year-old who keeps saying he was lucky.
 - **Why the comparison helps:** it turns a cosmic story into a question a pre-teen knows: what happens when people who are angry about the same thing decide to do something together?
 - **Strength: strong.** The decision to pool strength against injustice matches closely. How the power is shared is very different.
+- **Link to the theme (Courage):** Hermione refuses to accept that they should be left unable to defend themselves, and the students act on it together, signing their names to a group the school soon bans. None of them could have changed things alone.
 
 ## Beat 10: Think it through (comparison)
 
@@ -216,17 +194,9 @@ Days later, a new rule bans every student group that Umbridge hasn't approved. D
 - **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 - **Film note:** the film leaves out the troll and Snape's potion riddle. In the film, Hermione beats the Devil's Snare by relaxing and using a light spell. Her line about books, cleverness, friendship and bravery comes after the chess game, and she stays behind with Ron. Each friend still wins one obstacle, so the choice is the same.
 
-**Retelling (spoken style).** It's the end of Harry's first year. Harry, Ron and Hermione are sure someone will try to steal the Philosopher's Stone tonight, and Dumbledore is away. So they go after it themselves.
+**Retelling (spoken style).** It's the end of Harry's first year, and Harry, Ron and Hermione are sure someone will try to steal the Philosopher's Stone tonight while Dumbledore is away. Below a trapdoor, a plant wraps itself around them, and Hermione beats the Devil's Snare with fire. In a room of flying keys, Harry, the Seeker, catches the one that fits the door. On a giant chessboard Ron, the best player, sees that one of them must be taken for Harry to win, and he chooses himself. Hermione solves a riddle of potion bottles, but there is only enough for one person to go on, and she tells Harry that friendship and bravery matter more than books and cleverness. She goes back for Ron, and Harry goes on alone. At the end-of-year feast, Dumbledore gives points to all three, then ten more to Neville for standing up to his friends, and those ten win the House Cup.
 
-Past the sleeping three-headed dog, they drop through a trapdoor into a plant that wraps itself around them. Hermione knows what it is: Devil's Snare, which hates light and fire. She panics because there's no wood. Ron reminds her that she's a witch, and she conjures fire. Next is a room full of flying keys. Only one fits the door, and Harry, the Seeker, catches it on a broomstick.
-
-Then a giant chessboard. Ron is the best chess player, so he directs. Near the end he sees that one of them must be taken for Harry to win. He chooses himself. The white queen strikes him down, and Harry wins the game.
-
-Then comes a riddle of potion bottles. Hermione solves it with logic. There is only enough to send one person forward. Hermione says that books and cleverness aren't everything; friendship and bravery matter more. She goes back to look after Ron and send for Dumbledore. Harry goes on alone.
-
-At the end-of-year feast, Dumbledore gives points to Ron for the chess, to Hermione for her cool logic and to Harry for his nerve. Then he gives ten more to Neville, for standing up to his friends. Those last ten win the House Cup.
-
-**The connection:** Idea 3, each gives what they have, and Idea 1, many powers, one purpose.
+**The connection:** the theme's second half, standing together, where each gives what they have.
 
 - **What is similar:** three different gifts, cleverness, flying and chess, are each needed exactly once. None of them could have got through alone. Like the gods, each gives the one thing they're best at. Ron gives the most: himself.
 - **What is different:**
@@ -235,7 +205,8 @@ At the end-of-year feast, Dumbledore gives points to Ron for the chess, to Hermi
     - In the end Harry goes on alone. The final victory over Quirrell comes from his mother's protection and Dumbledore's return, not from the team.
     - Three eleven-year-olds are acting on a guess, and breaking rules to do it. The gods act with full knowledge of what Mahishasura has done.
 - **Why the comparison helps:** it makes "each gives what they have" concrete. A pre-teen can see that the team needs three different people, not three Harrys.
-- **Strength: strong for Idea 3; nothing here matches the anger.**
+- **Strength: strong for standing together, each giving what they have; nothing here matches the anger.**
+- **Link to the theme (Courage):** the three friends refuse to let the Stone be stolen, and get through only together; Ron choosing to be taken is the bravest step. Neville's ten points reward a different courage: standing up to a wrong among his own friends.
 
 ## Beat 12: Think it through (comparison)
 
@@ -273,9 +244,9 @@ Questions are revealed one at a time. None has a single right answer.
 
 ## Beat 14: Today (contemporary)
 
-There are three situations; the short path uses only the first. Each shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
 
-**1. The whole-class detention.** Two classmates keep messing about, and the teacher keeps giving the whole class detention. Everyone is angry. Nobody alone can change it.
+**The whole-class detention.** Two classmates keep messing about, and the teacher keeps giving the whole class detention. Everyone is angry. Nobody alone can change it.
 
 - "Write a polite letter, and get everyone to sign it."
 - "A few of us should talk to the teacher together, calmly."
@@ -284,33 +255,14 @@ There are three situations; the short path uses only the first. Each shows sever
 - "Accept it. Teachers decide, and complaining will make it worse."
 - **Ask:** which of these turns the class's anger into something useful? Which might make things worse?
 
-**2. The group project.** Your group of four has a project due. One friend is brilliant at everything and wants to do it all, so that it's good. Another friend is quiet and hasn't been asked to do anything.
-
-- "Let the brilliant one do it. We'll get a better mark."
-- "Everyone should do the part they're best at, even if it's smaller."
-- "Ask the quiet one what they'd like to do. They might surprise us."
-- "Split it four ways exactly. Fair is fair."
-- **Ask:** is the best project the same as the best team? What would each person learn?
-
-**3. The pile-on.** Someone in your year said something unkind and unfair, and it's been screenshotted. Now the year group chat is furious, and people are posting worse and worse things about them.
-
-- "They started it. They deserve to feel it."
-- "Join in a bit, or people will think you're on their side."
-- "Say 'that's enough' in the chat. You might be the first."
-- "Message them privately and ask what happened."
-- "Report the worst posts to a teacher, even though people will be annoyed."
-- **Ask:** the gods' shared anger made something good. When does a group's shared anger turn into something unjust itself?
-
 ## Beat 15: Reflection (contemporary)
 
-Pick one or two questions; you don't need them all. The night's main activity, the council of the gods, comes earlier, in Beat 3.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
 - The gods lost for a hundred years. Why do you think they hadn't joined together sooner?
-- If you had been one of the gods, which gift would you most want to give, and why?
 - Harry didn't want to teach at first. What do you think changed his mind?
-- Would you have made Ron's move in the chess game?
 
 **Go deeper**
 
@@ -323,7 +275,9 @@ Pick one or two questions; you don't need them all. The night's main activity, t
 
 **Private note (saved only on this device):** one thing I want to remember from tonight is…
 
-**Takeaway (shown last):** tonight's story asks what anger is for, and what we can do together that none of us can do alone. Tomorrow the battles grow darker, and the Devi takes her most fearsome form: Kalaratri, the dark night.
+**The theme again (shown last, then in the closing):** Courage. When something is wrong, stand up to it, and stand together.
+
+**Tomorrow:** the battles grow darker, and the Devi takes her most fearsome form: Kalaratri, the dark night.
 
 ## For the parent
 
@@ -371,9 +325,9 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 25 minutes with discussion, or about 16 as a short evening: on a short evening, skip the two choice questions (read straight on), the second scene (from "Now a second scene" to its activity) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 13 minutes)
+## Part 1: Opening and the story (about 10 minutes)
 
 Last night we met Skandamata, who held her son on her lap and still let him go to lead the gods' army. We asked how much to protect someone, and when to let them face danger.
 
@@ -388,8 +342,6 @@ Mahishasura threw Indra, king of the gods, off his throne and sat on it himself.
 Every one of them was powerful. And every one of them had already been beaten.
 
 **[PAUSE: Choice. Ask: "If you were one of the gods, what would you do now? Fight again harder, go to the greatest gods for help, join all your strength into one, or wait for a better moment?" Listen to the reasons.]**
-
-**[ACTIVITY: 4 minutes. Each of you plays a god who has lost something: Indra his throne, Agni his fire, Surya the sun. Take 60 seconds each to propose a plan, then 30 seconds each to find the weak spot in the other's plan. Then 60 seconds together to agree one plan. Ask: "Was it easier to find the weak spot in someone else's plan, or in your own?"]**
 
 Here is what the gods did. They went to Brahma, the creator. Then, with Brahma leading them, they went to Shiva and Vishnu and told them everything. Please, they said, think how he can be stopped.
 
@@ -431,27 +383,15 @@ In pictures she rides a lion. She holds a sword and a lotus. One open hand is ra
 
 **[Pause: about 1 minute. Optional: "Which part of the story will you remember?"]**
 
-## Part 2: The ideas and two Hogwarts scenes (about 12 minutes)
+## Part 2: The theme and two Hogwarts scenes (about 10 minutes)
 
-Three ideas come out of this story. People read them in different ways, so these are readings, not rules.
+Tonight's word is courage. When something is wrong, stand up to it, and stand together.
 
-The first is many powers, one purpose. Every god had already fought and lost. Together, their light became the Devi. And the old texts add a twist: later, a demon sneers that she fights with borrowed strength. She answers that all of it was hers all along.
-
-The second is anger turned into action. The gods were angry at an injustice, and their anger became light, not a tantrum. The texts praise her for having compassion in her heart even while she was fierce in battle.
-
-The third is that each gives what they have. A trident, a discus, a bell, a lotus. Nobody gave the same thing.
-
-**[Pause: ask, "Which of these three feels most true to you?"]**
+Mahisha had driven the gods out of heaven, and each of them, alone, had lost. Their shared anger at the injustice blazed out as light and gathered into one form: the Devi. The Devi Mahatmya says she is eternal and simply appears when she is needed. Each god then gave her his own weapon, trusting her with what he couldn’t win alone. In a popular telling (not in the Devi Mahatmya), Mahisha had asked that only a woman could kill him, because he thought no woman could. In this story, courage isn’t the absence of fear. It’s refusing to accept a wrong, and it’s strongest when it’s shared. Often it comes from exactly where the arrogant weren’t looking.
 
 Now, Hogwarts. This is from *Order of the Phoenix*, chapters fifteen to eighteen. It's in the film too.
 
-It's Harry's fifth year. Voldemort is back, but the Ministry of Magic says he isn't, and the newspapers call Harry a liar. The new Defence teacher, Professor Umbridge, is from the Ministry. In her lessons they read from a book. No spells, no practice. When Harry says Voldemort has returned, she gives him cruel detentions.
-
-Hermione has had enough. If nobody will teach us to defend ourselves, she says, we'll teach ourselves. And Harry should be the teacher. Harry protests. He was lucky, he says. He always had help.
-
-On the next trip to Hogsmeade, they meet in a grubby little pub called the Hog's Head. Harry expects a handful of people. About two dozen turn up, from three different houses. Zacharias Smith wants proof that Harry can do anything. The others start listing what he's done. Harry says again that he had help. In the end, everyone signs Hermione's parchment and promises to keep it secret.
-
-Then the school bans every student group that Umbridge hasn't approved. Dobby tells Harry about a hidden room that appears when you really need it. The group votes Harry its leader. Cho suggests calling it the Defence Association. Ginny points out that "D.A." could also mean Dumbledore's Army, the very thing the Minister fears most. And they begin with the Disarming Charm.
+It's Harry's fifth year. Voldemort is back, but the Ministry insists he isn't, the newspapers call Harry a liar, and the new Defence teacher, Professor Umbridge, teaches from a book with no spells at all. Hermione has had enough: if nobody will teach them to defend themselves, they should teach themselves, and Harry should be the teacher. Harry protests that he was lucky and always had help. At the Hog's Head, a grubby pub, he expects a handful of people, and about two dozen students turn up from three different houses. Zacharias Smith wants proof, others list what Harry has done, and they all sign Hermione's parchment, promising to keep it secret. When a new rule bans every group Umbridge hasn't approved, Dobby tells Harry about a hidden room that appears when you really need it. There Ginny points out that "D.A." could stand for Dumbledore's Army, the thing the Minister fears most, and they begin with the Disarming Charm.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -469,17 +409,9 @@ Then the school bans every student group that Umbridge hasn't approved. Dobby te
 
 One thing to hold on to. The gods gave their power to the Devi, and she fought. The students didn't hand their power to Harry. Each of them had to learn to do it themselves.
 
-Now a second scene, from *Philosopher's Stone*, chapter sixteen, "Through the Trapdoor". It's at the end of the first film.
+Now a second scene, from *Philosopher's Stone*, chapter sixteen, "Through the Trapdoor". It's at the end of the first film, though the film leaves out the potion riddle.
 
-Harry, Ron and Hermione are sure someone will steal the Philosopher's Stone tonight, and Dumbledore is away. So they go after it themselves.
-
-They drop through a trapdoor into a plant that wraps around them. Hermione knows it: Devil's Snare, which hates light. She frees them. Next is a room full of flying keys, and Harry, the Seeker, catches the right one on a broomstick.
-
-Then a giant chessboard. Ron is the best at chess, so he leads. Near the end he sees that one of them has to be taken for Harry to win. He chooses himself. The queen strikes him down, and Harry wins.
-
-In the book there's one more puzzle, a riddle of potions, and Hermione solves it. Then she tells Harry that books and cleverness aren't everything; friendship and bravery matter more. She goes back for Ron, and Harry goes on alone.
-
-At the end of the year, Dumbledore gives points to Ron for the chess, to Hermione for her logic and to Harry for his nerve. And then ten more to Neville, for standing up to his friends. Those ten win the House Cup.
+It's the end of Harry's first year, and Harry, Ron and Hermione are sure someone will try to steal the Philosopher's Stone tonight while Dumbledore is away. Below a trapdoor, a plant wraps itself around them, and Hermione beats the Devil's Snare with fire. In a room of flying keys, Harry, the Seeker, catches the one that fits the door. On a giant chessboard Ron, the best player, sees that one of them must be taken for Harry to win, and he chooses himself. Hermione solves a riddle of potion bottles, but there is only enough for one person to go on, and she tells Harry that friendship and bravery matter more than books and cleverness. She goes back for Ron, and Harry goes on alone. At the end-of-year feast, Dumbledore gives points to all three, then ten more to Neville for standing up to his friends, and those ten win the House Cup.
 
 Remember the gods' gifts? Cleverness, flying and chess, each needed exactly once. Nobody could have got through alone.
 
@@ -493,9 +425,9 @@ Remember the gods' gifts? Cleverness, flying and chess, each needed exactly once
 
 **[STANCE LINE: "It only worked because each did their own part" or "In the end, it came down to one person".]**
 
-**[ACTIVITY (skip on the short path): 2 minutes. Freeze at Ron's decision. You play Ron, arguing for the sacrifice, for 45 seconds. Your child plays Harry, arguing against it. Ask: "Was there a third option either of us missed?"]**
+**[ACTIVITY: 2 minutes. Freeze at Ron's decision. You play Ron, arguing for the sacrifice, for 45 seconds. Your child plays Harry, arguing against it. Ask: "Was there a third option either of us missed?"]**
 
-## Part 3: Side by side, today, and closing (about 7 minutes)
+## Part 3: Side by side, today, and closing (about 5 minutes)
 
 Let's put the stories next to each other. There's no single right answer to any of these.
 
@@ -512,7 +444,7 @@ Imagine two people in your class keep messing about, and the teacher keeps givin
 
 Some people would write a polite letter and get everyone to sign it. Some would go to the teacher in a small group, calmly. Some would tell their parents. Some would talk to the two classmates first. And some would say: accept it, because complaining will only make it worse.
 
-**[PAUSE: ask, "Which of these turns the class's anger into something useful? Which might make things worse?" On the long path, also use the group-project or pile-on situation from Beat 14.]**
+**[PAUSE: ask, "Which of these turns the class's anger into something useful? Which might make things worse?"]**
 
 Last questions.
 
@@ -520,10 +452,10 @@ Last questions.
 
 **[TOGETHER: "What is one thing our family could do together that none of us could do alone?"]**
 
-Tonight's story asks what anger is for, and what we can do together that none of us can do alone. The gods' anger, joined together, became light.
+Tonight's word is courage. When something is wrong, stand up to it, and stand together.
 
 Tomorrow the battles grow darker. The Devi takes her most fearsome form, Kalaratri, the dark night. And we'll look closely at her hands.
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from tonight.]**
 
-**Timing:** about 13 minutes for Part 1 (including the 4-minute council of the gods), 12 for Part 2 and 7 for Part 3, so about 30 minutes in all, a little over with every activity. The short path takes about 20: two ladder questions per scene, no second activity, and one "Today" situation.
+**Timing:** about 10 minutes for Part 1, 10 for Part 2 and 5 for Part 3, so about 25 minutes in all. A short evening takes about 16: no choice questions, one scene, two ladder questions, and no side by side.

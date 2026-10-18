@@ -4,33 +4,35 @@ The lesson and the read-aloud script for Night 7. The plan for all nine nights i
 
 # Lesson
 
-Night 7 takes about 30 minutes, or about 20 on the short path. Its question: can something terrifying be on your side? The night tells two battles from the Devi Mahatmya: Kali against the generals Chanda and Munda, and the demon Raktabija, who multiplies every time he is wounded. Then it meets Kalaratri, the darkest of the nine forms, whose raised hand says "do not fear". Two Harry Potter scenes follow: Lupin's boggart lesson, and Snape's memories in "The Prince's Tale".
+Night 7 takes about 25 minutes, or about 16 as a short evening. Its question: can something terrifying be on your side? The night tells two battles from the Devi Mahatmya: Kali against the generals Chanda and Munda, and the demon Raktabija, who multiplies every time he is wounded. Then it meets Kalaratri, the darkest of the nine forms, whose raised hand says "do not fear". Two Harry Potter scenes follow: Lupin's boggart lesson, and Snape's memories in "The Prince's Tale".
 
 ## At a glance
 
-- **Intensity:** some peril; the second Hogwarts scene is intense. The battles include killing, told as the texts tell them, without gore. Read the parent notes before Beat 4 and Beat 12 before you begin.
+- **Intensity:** some peril; the second Hogwarts scene is intense. The battles include killing, told as the texts tell them, without gore. Read the parent notes in Beat 4 and Beat 12 before you begin. Beat 12 has a gentle alternative (the Grim is Sirius) if you'd rather use it.
 - **The one thing to protect:** Kalaratri is never "the scary bad one". She is fierce and wholly good, and her open hand of protection is the centre of the night.
-- **Short path (about 20 minutes):** ask two of the six ladder questions per scene, skip the second scene's activity, and use only the first "Today" situation.
+- **Short evening (about 16 minutes):** the opening, the story (Beats 2–8; each choice shows its set-up and what happened, without the question), the theme, the boggart in the wardrobe with its Think it through (choose two of the six ladder questions; keep the activity), and Reflect. It leaves out the choices' questions, The Prince's Tale (or its gentle alternative) and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
-| 1 | Before we begin | opening | contemporary | 2 |
+| 1 | Before we begin | opening | contemporary | 1 |
 | 2 | The order to seize her | story | tradition | 1.5 |
-| 3 | What will she do with her anger? | choice | hypothetical | 2 |
+| 3 | What will she do with her anger? | choice | hypothetical | 1.5 |
 | 4 | From the darkened brow | story | tradition | 1.5 |
 | 5 | The demon who multiplied | story | tradition | 1.5 |
-| 6 | Every blow makes more | choice | hypothetical | 4 |
+| 6 | Every blow makes more | choice | hypothetical | 1.5 |
 | 7 | Before it touches the ground | story | tradition | 1 |
 | 8 | The one who does good | story | tradition | 1.5 |
-| 9 | Three ideas | idea | interpretation | 3 |
-| 10 | The boggart in the wardrobe | sceneIntro | hogwarts | 2 |
-| 11 | Think it through | think | comparison | 3 |
-| 12 | The Prince's Tale | sceneIntro | hogwarts | 2 |
-| 13 | Think it through | think | comparison | 3 |
-| 14 | Side by side | comparison | comparison | 2 |
-| 15 | Today | today | contemporary | 3 |
+| 9 | The theme | idea | interpretation | 1 |
+| 10 | The boggart in the wardrobe | sceneIntro | hogwarts | 1.5 |
+| 11 | Think it through | think | comparison | 2.5 |
+| 12 | The Prince's Tale (or the gentle alternative, the Grim) | sceneIntro | hogwarts | 1.5 |
+| 13 | Think it through | think | comparison | 2.5 |
+| 14 | Side by side | comparison | comparison | 1.5 |
+| 15 | Today | today | contemporary | 1.5 |
 | 16 | Reflection | reflection | contemporary | 2 |
+
+Beats 15 and 16 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -63,7 +65,7 @@ Two demon brothers, Shumbha and Nishumbha, had taken over the three worlds and d
 
 ### Beat 4: From the darkened brow (tradition)
 
-**For the parent (show before this beat):**
+**For the parent (a notification: the bell pulses at the start of this beat and again before Kali strikes down Chanda and Munda; the story does not stop):**
 
 - The Devi Mahatmya describes Kali as truly terrifying: gaunt, wide-mouthed, roaring, wearing a garland of skulls. Tell it plainly but without lingering. The text is describing power, not cruelty.
 - Tradition worships Kali as a mother. Her fierceness is aimed only at what attacks the world, never at the people who come to her. Say this plainly if your child seems frightened.
@@ -91,7 +93,7 @@ Shumbha, furious, sent out every army he had (ch. 8, verses 2–7). Now the powe
 
 **What happens:** the last two together. See Beat 7.
 
-**Activity (4 minutes; this is the night's main activity): Raktabija problems.** Each of you names one real problem that gets bigger when you hit it head-on. Examples: a rumour that spreads every time you deny it, a sibling argument, a worry you keep checking. Then the other person has 60 seconds to suggest a way to "catch it before it lands": to deal with the thing that makes it multiply. Swap. Afterwards, ask: was it easier to find the answer for someone else's problem than for your own?
+**Short evening:** leave out this screen; the story carries on in Beat 7.
 
 ### Beat 7: Before it touches the ground (tradition)
 
@@ -118,30 +120,13 @@ On the seventh night of Navaratri, the Devi is worshipped as Kalaratri. The Devi
 
 **Did you know? (tradition):** in the Devi Mahatmya, the name Kalaratri first appears in a hymn about sleep, not battle. Brahma praises the Devi as the deep sleep that holds Vishnu, and asks her to release him so he can wake and fight two demons (ch. 1). So the "dark night" is first a night of rest, which wakes into protection.
 
-## Beat 9: Three ideas (interpretation)
+## Beat 9: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. A terrifying face, with protecting hands**
-
-- **Simply:** someone can look frightening and still be completely on your side.
-- **From the story:** Kali terrifies the demon army and protects the gods. Kalaratri, the darkest form, raises her hand to say "do not fear".
-- **Traditional reading:** her fierceness is her kindness. She is fearsome to what harms, and gentle to those who come to her. Devotees say worshipping her removes fear itself.
-- **Other readings:** does a protector *need* to look frightening? Some people are fierce on the outside because the danger is real. Others are frightening for no good reason. How do you tell which is which?
-
-**2. Some problems multiply when you hit them head-on**
-
-- **Simply:** sometimes fighting harder makes a problem bigger. Then you need a different approach, often with someone else.
-- **From the story:** every blow at Raktabija makes more of him. The answer is not a stronger blow but two people with different jobs: one strikes, one catches.
-- **Traditional reading (interpretation):** Raktabija is often read as desire or bad habits. Each time you feed one, it breeds more, so they must be stopped at the root, before the "drop" lands.
-- **Contemporary:** rumours, arguments and worries can behave like Raktabija. Every denial, every sharp reply, every anxious check can make another copy.
-
-**3. Darkness is not the same as evil**
-
-- **Simply:** dark, fierce and frightening are not the same as bad.
-- **From the story:** Kali is born from anger and darkness, and she saves the world. Kalaratri, "the dark night", is called "the one who does good".
-- **Traditional reading:** the dark night is the night of time, when everything rests and returns to the Devi before a new beginning. Kali is dark because, like the night sky, she holds everything.
-- **Contemporary:** in many stories, including films, dark means bad. Is that fair? Think of night, soil, a cinema, sleep. Many good things happen in the dark.
+- **Word:** Fearlessness
+- **Idea:** Face the dark without becoming part of it.
+- **Description:** Kalaratri is the darkest form: unbound hair, three blazing eyes, fire on her breath. Yet she’s called Shubhankari, “the one who does good”, and her raised hand says “do not fear”. Her fierceness is aimed at what harms, not at the people she protects. In the Raktabija story, every blow made the demon multiply. Kali didn’t strike harder. She caught each drop before it reached the ground. Fearlessness, in this reading, isn’t fighting the dark louder. It’s facing it steadily, refusing to feed it, and not letting it change you.
 
 ## Beat 10: The boggart in the wardrobe (hogwarts)
 
@@ -149,11 +134,9 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** in the book, Lupin steps in before the boggart takes any shape for Harry. In the film, it briefly becomes a dementor in front of Harry, and then Lupin steps in. The film keeps the later talk, and the idea that Harry fears fear itself, almost unchanged. It moves the talk out of Lupin's office, and adds Lupin speaking about Harry's mother.
 
-**Retelling (spoken style).** It's Harry's third year, and the new Defence Against the Dark Arts teacher, Professor Lupin, takes the class to a staffroom wardrobe that rattles. Inside is a boggart, a creature that turns into whatever you fear most. The charm against it is "Riddikulus", Lupin explains, but the real weapon is laughter. You picture your fear turned into something funny. Neville goes first. His worst fear is Professor Snape, and Lupin helps him imagine Snape in Neville's grandmother's clothes. It works, and the room roars. One by one the others turn their fears ridiculous. Then the boggart lands in front of Harry. Before it can become what Harry fears, Lupin steps forward himself. For Lupin, it turns into a silvery-white orb, the full moon, and he banishes it. Neville finishes it off. Harry should be pleased, but he isn't. He wonders if Lupin thought he couldn't cope.
+**Retelling (spoken style).** It's Harry's third year, and Professor Lupin takes the class to a rattling wardrobe. Inside is a boggart, which becomes whatever you fear most, and the real weapon against it, Lupin says, is laughter: you say "Riddikulus" and picture your fear as something funny. Neville's worst fear is Professor Snape, so Lupin helps him imagine Snape in his grandmother's clothes, and the room roars. When the boggart reaches Harry, Lupin steps in front of him before it can change, and for Lupin it becomes the full moon, which he banishes. Harry wonders if Lupin thought he couldn't cope. Later, over tea, Lupin says he expected Voldemort, and didn't want that in a crowded classroom; Harry says he thought of the dementors. Lupin, quietly impressed, says that means what Harry fears most is fear itself. Much later, Harry learns why Lupin's boggart was the moon: Lupin is a werewolf.
 
-A few weeks later, Lupin invites Harry in for tea, and Harry asks why. Lupin says he expected Harry's boggart to become Voldemort, and didn't want that in a crowded classroom. Harry says his first thought was Voldemort, but then he thought of the dementors. Lupin is quietly impressed. That suggests, he says, that what Harry fears most is fear itself. Much later in the year, Harry learns why Lupin's boggart was the moon. Lupin is a werewolf, the very thing many people fear most.
-
-**The connection:** Idea 1, a frightening face with protecting hands, and Idea 3, darkness is not evil.
+**The connection:**
 
 - **What is similar:** fear is faced, not avoided. A guardian steps between a young person and the thing he fears most. And Lupin himself is someone the wizarding world fears, who spends the year protecting Harry.
 - **What is different:**
@@ -163,6 +146,7 @@ A few weeks later, Lupin invites Harry in for tea, and Harry asks why. Lupin say
     - Lupin hides his darkness out of shame and fear of rejection. Kalaratri's darkness is open and worshipped.
 - **Why the comparison helps:** a pre-teen knows what it's like to be afraid. This scene asks whether a fear should be laughed at or respected, which is exactly where the two stories part.
 - **Strength: strong.** The question of how to face fear matches closely; the methods deliberately don't.
+- **Link to the theme (Fearlessness):** Lupin carries something many people fear, being a werewolf, yet he spends the year teaching children to face what frightens them, and steps in front of Harry's fear himself. The dark is part of his life, but he doesn't let it make him into what people fear.
 
 ## Beat 11: Think it through (comparison)
 
@@ -188,29 +172,21 @@ A few weeks later, Lupin invites Harry in for tea, and Harry asks why. Lupin say
 
 ## Beat 12: The Prince's Tale (hogwarts)
 
-**For the parent (show before this beat):**
+**For the parent (a notification: the bell pulses at the start of this beat and again before the memory of Lily's family dying; the story does not stop):**
 
 - This scene follows Snape's death. In the book, Voldemort has his snake attack Snape in the Shrieking Shack, and Harry watches him die (*Deathly Hallows* ch. 32, "The Elder Wand"). The film moves this to a boathouse. The retelling below mentions it in one sentence.
 - The memories include Lily's death, and Dumbledore telling Snape that Harry must die. Tonight's scene stops there; Harry's walk into the forest belongs to other nights.
 - The memories also include Snape calling Lily a cruel name for Muggle-born people. The retelling does not repeat the word.
 - This beat is about a hard question, not a verdict. Snape protected Harry for years, and he was genuinely cruel to children. Let both stay true. Don't let it slide into "he was secretly good, so the cruelty didn't count", or into "he was cruel, so nothing he did counts".
-- If your child isn't ready for this tonight, use the gentle alternative: the huge black dog Harry takes for the Grim, an omen of death, turns out to be his godfather Sirius (*Prisoner of Azkaban* ch. 17–19, "Cat, Rat and Dog", "Moony, Wormtail, Padfoot and Prongs" and "The Servant of Lord Voldemort"; PoA film).
+- If your child isn't ready for this tonight, use the gentle alternative after this beat: the huge black dog Harry takes for the Grim, an omen of death, turns out to be his godfather Sirius (*Prisoner of Azkaban* ch. 17–19, "Cat, Rat and Dog", "Moony, Wormtail, Padfoot and Prongs" and "The Servant of Lord Voldemort"; PoA film).
 
 - **Reference:** Snape. *Deathly Hallows*, chapter 33, "The Prince's Tale", following chapter 32, "The Elder Wand". Film: *Deathly Hallows Part 2* (2011), the Pensieve sequence. Snape's cruelty: *Philosopher's Stone* ch. 8, "The Potions Master"; *Prisoner of Azkaban* ch. 7 and ch. 22, "Owl Post Again"; *Goblet of Fire* ch. 18, "The Weighing of the Wands".
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note:** the film's memory sequence is much shorter than the chapter. It adds a moment not in the book: Snape at Godric's Hollow, holding Lily's body. It leaves out most of the context for Snape's cruelty, so the film alone makes him easier to forgive. Use the book's fuller picture for tonight's discussion.
 
-**Retelling (spoken style).** Snape is dying. With his last strength, he gives Harry his memories and asks Harry to look at him. Harry has his mother's eyes. Harry carries the memories to Dumbledore's old office and pours them into the Pensieve.
+**Retelling (spoken style).** Snape is dying, and he gives Harry his memories to pour into the Pensieve. Harry sees Snape as a scruffy boy who befriends Lily, Harry's mother, until, humiliated, he calls her a cruel name for people born to Muggles, and she ends the friendship. Later, as a Death Eater, Snape passes Voldemort part of a prophecy, then begs Dumbledore to protect Lily's family, but they die anyway. Snape agrees to protect Lily's son, on one condition: no one must ever know. When Dumbledore tells him Harry must die at the right moment, Snape is appalled, and casts his Patronus, a silver doe: he has loved Lily all along. So the teacher who seemed to hate Harry had protected him for seven years. But Snape also picked on Harry from his first lesson, frightened Neville so much that Neville's boggart was Snape, mocked Hermione when a curse made her teeth grow, and let slip that Lupin was a werewolf. Years later, Harry names a son after him.
 
-He sees a thin, scruffy boy watching a girl on a playground swing. It's Lily, Harry's mother, and the boy is Snape. He tells her she's a witch, and they become friends. At Hogwarts she is sorted into Gryffindor and he into Slytherin. Over the years he drifts towards friends who love the Dark Arts. One day, humiliated in front of others, he calls Lily a cruel name for people born to Muggles. She ends the friendship.
-
-Years later, Snape is a Death Eater. He passes Voldemort part of a prophecy, then realises Voldemort will hunt Lily's family. He begs Dumbledore to protect them. They die anyway. Shattered, Snape agrees to help protect Lily's son, on one condition: no one must ever know.
-
-Then the memories race through the years. Snape watches over Harry, guards against Quirrell, and works as a spy. He agrees to kill Dumbledore when the time comes, because Dumbledore is dying already and asks him to. And then Dumbledore tells him Harry must die at the right moment. Snape is appalled; has he been keeping the boy alive just for that? Dumbledore asks if he has come to care for Harry. In answer, Snape casts his Patronus: a silver doe, a sign that he has loved Lily all along. Harry comes out of the Pensieve understanding that the teacher who seemed to hate him had protected him for seven years.
-
-But Snape was also the teacher who picked on Harry from his very first lesson. He was so frightening to Neville that Neville's boggart was Snape. He told Hermione he saw no difference when a curse had made her teeth grow. He let slip that Lupin was a werewolf, so Lupin had to resign. Nineteen years later, Harry names a son after him, and calls him one of the bravest men he ever knew.
-
-**The connection:** Idea 1, a frightening face with protecting hands, as a contrast.
+**The connection:**
 
 - **What is similar:** a cold, frightening exterior hides years of protection, revealed only at the end.
 - **What is different, and crucial:**
@@ -221,6 +197,27 @@ But Snape was also the teacher who picked on Harry from his very first lesson. H
     - Kalaratri is a Devi, worshipped today. Snape is a fictional, deeply flawed man, and we never present him as her equivalent.
 - **Why the comparison helps:** it tests tonight's big idea against a hard case. If a terrifying face can hide protection, can it also hide cruelty? Kalaratri shows a fierceness with no cruelty in it. Snape shows how rare that is.
 - **Strength: strong, as a contrast.** The hidden protection matches; the cruelty is the crucial difference.
+- **Link to the theme (Fearlessness):** Snape faced the dark for years, spying among Death Eaters to keep Harry alive. But the theme also asks us not to let the dark change us, and his cruelty to children shows how much of it he carried. That is where he and tonight's idea part.
+
+## Beat 12 (gentle alternative): The Grim (hogwarts)
+
+Use this instead of The Prince's Tale if your child isn't ready for it tonight.
+
+- **Reference:** Harry. *Prisoner of Azkaban*, chapters 17–19, "Cat, Rat and Dog", "Moony, Wormtail, Padfoot and Prongs" and "The Servant of Lord Voldemort". Film: *Prisoner of Azkaban* (2004).
+- **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
+
+**Retelling (spoken style).** All year, Harry has glimpsed a huge black dog, and he fears it is the Grim, an omen of death. One night the dog drags Ron through a tunnel under the Whomping Willow, and Harry and Hermione follow it to the Shrieking Shack. There the dog turns into a man: Sirius Black, the escaped prisoner Harry believes betrayed his parents to Voldemort. Harry is ready to fight him. Then Lupin arrives, and he and Sirius reveal the truth: the real traitor was Peter Pettigrew, who has been hiding for years as Ron's pet rat. Sirius is innocent, and he is Harry's godfather. When Sirius and Lupin move to kill Pettigrew, Harry stops them, saying his father wouldn't have wanted his best friends to become killers. Pettigrew is to be handed to the dementors instead.
+
+**The connection (new, for review):**
+
+- **What is similar:** something Harry takes for a sign of death turns out to be on his side. Kalaratri, the darkest and most frightening form, is wholly on the side of those who come to her.
+- **What is different:**
+    - Harry's fear came from a mistake: he misread what he saw. Kalaratri's fierceness is not a mistake. It is real, and it is itself the protection.
+    - Harry had to guess what the dog meant. Kalaratri shows what she means: her "do not fear" hand is in every picture.
+    - Kalaratri is a Devi, worshipped today. Sirius is a fictional man, and we never present him as her equivalent.
+- **Why the comparison helps:** it asks tonight's question, can something terrifying be on your side, through a scene with no death in it.
+- **Strength: partial.** A frightening shape that turns out to protect matches; the reason for the fear does not.
+- **Link to the theme (Fearlessness):** in the Shrieking Shack Harry faces the man he thinks betrayed his parents, and then the one who really did. When he could let Pettigrew be killed, he refuses. It is a real hook for facing the dark without becoming part of it, though Harry is a boy making one hard choice, not a Devi.
 
 ## Beat 13: Think it through (comparison)
 
@@ -242,13 +239,29 @@ But Snape was also the teacher who picked on Harry from his very first lesson. H
 
 **Stance line:** "What Snape did for Harry outweighs how he treated people" ↔ "Nothing he did for Harry makes up for how he treated Neville and others". Each person places a named marker and explains it in one sentence.
 
-**Activity: the two witnesses (4 minutes, with a visible timer; skip on the short path).** One person speaks for 60 seconds as Harry, after the Pensieve, about what Snape did for him. The other speaks for 60 seconds as Neville, about what Potions lessons were like. Then swap roles and do it again. Afterwards, ask: were both witnesses telling the truth?
+**Activity: the two witnesses (4 minutes, with a visible timer).** One person speaks for 60 seconds as Harry, after the Pensieve, about what Snape did for him. The other speaks for 60 seconds as Neville, about what Potions lessons were like. Then swap roles and do it again. Afterwards, ask: were both witnesses telling the truth?
+
+**With the gentle alternative (new, for review).** The questions above are about Snape, so use these instead.
+
+*Alternative ladder*
+
+1. **Notice:** what did Harry think the black dog meant?
+2. **Feel:** how might it feel to find that the shape you dreaded was your godfather?
+3. **Wonder:** why do you think Harry was so ready to believe it was an omen of death?
+4. **Stretch:** Harry judged the dog by how it looked. When is that a sensible way to stay safe, and when does it go wrong?
+5. **Turn it around:** imagine being feared because of how you look or what you are, as the dog was, and as Lupin was.
+6. **Connect:** Kalaratri looks terrifying and is wholly on your side. The Grim looked like death and was Harry's godfather. What is the same, and what is different?
+
+*Alternative stance line:* "If something looks frightening, keep away: it's safer" ↔ "Find out what it really is before you decide".
+
+*Alternative activity: second looks (3 minutes, with a visible timer).* Each person has 60 seconds to describe something that frightened them at first and turned out to be harmless, or even on their side. Afterwards, ask: what changed, the thing itself or the way you saw it?
 
 ## Beat 14: Side by side (comparison)
 
 Questions are revealed one at a time. None has a single right answer.
 
 1. Kalaratri looks terrifying and is wholly good. Lupin looks gentle and is feared for what he is. Snape looks cold, and was both cruel and protective. Which of them matches their outside?
+    *With the gentle alternative:* Kalaratri looks terrifying and is wholly good. Lupin looks gentle and is feared for what he is. The black dog looked like an omen of death and was Harry's godfather. Which of them matches their outside?
 2. Riddikulus makes a fear small. Kalaratri is worshipped in her full fierceness. Why might a tradition choose *not* to make her smaller?
 3. Raktabija multiplied every time he was hit. Harry's worst fear was fear itself. Is fear one of those things that grows when you fight it head-on?
 4. Kalaratri's fierceness is aimed only at what harms. Does where fierceness lands matter more than how fierce it is?
@@ -256,11 +269,13 @@ Questions are revealed one at a time. None has a single right answer.
 
 **What doesn't compare (always shown):** Kalaratri is a Devi, worshipped today, and her fierceness is understood as sacred and wholly good. Lupin and Snape are fictional, flawed people. We compare the question, what lies behind a frightening face, not the figures.
 
+*With the gentle alternative:* Kalaratri is a Devi, worshipped today, and her fierceness is understood as sacred and wholly good. Lupin and Sirius are fictional people. We compare the question, what lies behind a frightening face, not the figures.
+
 ## Beat 15: Today (contemporary)
 
-There are three situations; the short path uses only the first. Each shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
 
-**1. The rumour that keeps multiplying.** Someone in your year says you copied your project. You deny it in the group chat, and three more people start repeating it. Every reply seems to make it spread further.
+**The rumour that keeps multiplying.** Someone in your year says you copied your project. You deny it in the group chat, and three more people start repeating it. Every reply seems to make it spread further.
 
 - "Deny it everywhere, loudly. Silence looks like guilt."
 - "Stop replying. A rumour needs attention to survive."
@@ -269,34 +284,14 @@ There are three situations; the short path uses only the first. Each shows sever
 - "Make a joke of it so nobody takes it seriously."
 - **Ask:** which of these feed the rumour, and which catch it before it lands?
 
-**2. The fierce coach.** Your netball coach shouts, makes you run extra laps, and never gives easy praise. She also fought the league when your team was treated unfairly, and she drove a teammate home when her parents couldn't come. Your friend says she's horrible.
-
-- "Fierce coaches get the best out of you."
-- "Shouting at children is never OK, whatever the reason."
-- "It depends whether she's fierce at the problem or at the person."
-- "Strict and kind aren't opposites."
-- "Your friend's experience might be different from yours, and still be true."
-- **Ask:** where is the line between fierce and cruel? Who gets to decide?
-
-**3. Angry on someone's behalf.** Older kids are teasing your younger brother at the park. You get furious and shout at them, and they back off. But a parent across the park only sees you shouting, and you get told off.
-
-- "My anger was right. It protected him."
-- "Shouting was wrong, even for a good reason."
-- "I should have fetched an adult first."
-- "He might have wanted to handle it himself."
-- "It worked. Does that make it right?"
-- **Ask:** when does anger protect someone, and when does it become another problem?
-
 ## Beat 16: Reflection (contemporary)
 
-Pick one or two questions; you don't need them all. The night's main activity, Raktabija problems, comes earlier, in Beat 6.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
-- Why do you think the Devi's anger came out as a separate form, Kali?
-- Raktabija got stronger every time he was hit. What finally worked?
 - Kalaratri is the darkest form, and she says "do not fear". What does that hand mean to you?
-- Lupin stepped in front of Harry's fear. Would you have wanted him to?
+- Raktabija got stronger every time he was hit. What finally worked?
 
 **Go deeper**
 
@@ -309,7 +304,9 @@ Pick one or two questions; you don't need them all. The night's main activity, R
 
 **Private note (saved only on this device):** one thing I want to remember from tonight is…
 
-**Takeaway (shown last):** tonight's form is the darkest of the nine, and her raised hand says "do not fear". Something terrifying can be wholly on your side, but a frightening face can also hide cruelty, so we look at where the fierceness lands. Tomorrow, after the darkest night, comes radiance: Mahagauri, shining white after long effort.
+**The theme again (shown last, then in the closing):** Fearlessness. Face the dark without becoming part of it.
+
+**Tomorrow:** after the darkest night comes radiance: Mahagauri, shining white after long effort.
 
 ## For the parent
 
@@ -357,9 +354,11 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 25 minutes with discussion, or about 16 as a short evening: on a short evening, skip the two choice questions (read on to what happens), the second scene (from the parent note before "Now a second scene" to the end of its activity, or the gentle alternative) and the side-by-side questions at the start of Part 3. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 13 minutes)
+## Part 1: Opening and the story (about 11 minutes)
+
+**[Before you start: decide whether you'll use The Prince's Tale in Part 2, which follows Snape's death, or the gentler Grim scene. Both are in the script.]**
 
 Last night, the gods' anger blazed out as light and became one Devi, Katyayani, who defeated the buffalo-demon. Tonight is the seventh night, and the darkest.
 
@@ -395,8 +394,6 @@ One Mother struck him with a thunderbolt, and a crowd of new demons sprang up. A
 
 **[PAUSE: Choice. Ask: "You're one of the Mothers. Every time you strike, there's more of him. What do you do? Strike harder, pull back, try something completely different, or work with someone else in a new way?"]**
 
-**[ACTIVITY: 4 minutes. Each of you names one real problem that gets bigger when you hit it head-on, such as a rumour, an argument or a worry. The other has 60 seconds to suggest how to "catch it before it lands". Swap. Ask: "Was it easier to solve the other person's problem than your own?"]**
-
 The Devi looked at the frightened gods, and laughed. She turned to Kali. Open your mouth wide, she said. When I strike him, catch every drop before it touches the ground.
 
 So they worked together. The Devi struck, and Kali caught every drop before it could land, and swallowed every new demon as it appeared. No more copies rose. Raktabija weakened, and fell. The gods rejoiced.
@@ -409,29 +406,17 @@ In pictures, Kalaratri is as dark as the night sky. Her hair is loose, she has t
 
 Her name is even older than these battles. In the very first chapter of the same text, the god Brahma praises the Devi as "the night of time", while she holds Vishnu in deep sleep. So the dark night begins as a night of rest. Then it wakes, and protects.
 
-## Part 2: The ideas and two Hogwarts scenes (about 12 minutes)
+## Part 2: The theme and two Hogwarts scenes (about 10 minutes)
 
-Three ideas come out of this story. People read them in different ways, so these are readings, not rules.
+Tonight's word is fearlessness. Face the dark without becoming part of it.
 
-The first is a terrifying face with protecting hands. Kali frightened the demon army and saved the gods. Kalaratri, the darkest form, says "do not fear". Her fierceness is her kindness.
-
-The second is that some problems multiply when you hit them head-on. Every blow at Raktabija made more of him. What worked wasn't a bigger blow, but two people with different jobs: one struck, one caught. Some people read Raktabija as bad habits, which grow every time you feed them.
-
-The third is that darkness is not the same as evil. The dark night is the night of time, when everything rests before a new beginning. Think of night, soil and sleep. Many good things happen in the dark.
-
-**[Pause: ask, "Which of these three feels most true to you?"]**
+Kalaratri is the darkest form: unbound hair, three blazing eyes, fire on her breath. Yet she’s called Shubhankari, “the one who does good”, and her raised hand says “do not fear”. Her fierceness is aimed at what harms, not at the people she protects. In the Raktabija story, every blow made the demon multiply. Kali didn’t strike harder. She caught each drop before it reached the ground. Fearlessness, in this reading, isn’t fighting the dark louder. It’s facing it steadily, refusing to feed it, and not letting it change you.
 
 Now, Hogwarts. This is from *Prisoner of Azkaban*, chapters seven and eight. It's in the film too.
 
-It's Harry's third year. The new Defence Against the Dark Arts teacher, Professor Lupin, takes the class to a wardrobe that keeps rattling. Inside is a boggart, which turns into whatever you fear most. The charm is "Riddikulus", Lupin says, but the real weapon is laughter. You picture your fear turned into something funny.
+**[In the film, the boggart briefly becomes a dementor in front of Harry before Lupin steps in. In the book, Lupin steps in before it can change.]**
 
-Neville goes first. His worst fear is Professor Snape. Lupin helps him imagine Snape in Neville's grandmother's clothes, and the room roars with laughter. One by one, the others turn their fears ridiculous.
-
-Then the boggart reaches Harry. In the book, Lupin steps in before it can change; in the film it becomes a dementor first. Either way, Lupin steps in front of Harry. For Lupin, the boggart becomes a silvery-white ball, the full moon, and he banishes it. Harry should be pleased. Instead he wonders if Lupin thought he couldn't cope.
-
-Later, Harry asks him why. Lupin says he expected Harry's boggart to become Voldemort, and didn't want that in a crowded room. Harry says he did think of Voldemort first, but then he thought of the dementors. Lupin is quietly impressed. That means, he says, that what you fear most is fear itself.
-
-And much later that year, Harry learns why Lupin's boggart was the moon. Lupin is a werewolf: the very thing so many people fear.
+It's Harry's third year, and Professor Lupin takes the class to a rattling wardrobe. Inside is a boggart, which becomes whatever you fear most, and the real weapon against it, Lupin says, is laughter: you say "Riddikulus" and picture your fear as something funny. Neville's worst fear is Professor Snape, so Lupin helps him imagine Snape in his grandmother's clothes, and the room roars. When the boggart reaches Harry, Lupin steps in front of him before it can change, and for Lupin it becomes the full moon, which he banishes. Harry wonders if Lupin thought he couldn't cope. Later, over tea, Lupin says he expected Voldemort, and didn't want that in a crowded classroom; Harry says he thought of the dementors. Lupin, quietly impressed, says that means what Harry fears most is fear itself. Much later, Harry learns why Lupin's boggart was the moon: Lupin is a werewolf.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -449,21 +434,11 @@ And much later that year, Harry learns why Lupin's boggart was the moon. Lupin i
 
 Here's the big difference to hold on to. Riddikulus makes a fear smaller by making it silly. Nobody ever makes Kalaratri smaller, or laughs at her. Her fierceness *is* the protection, and she's worshipped exactly as she is.
 
-**[For the parent: the next scene follows Snape's death, and touches on Lily's death and on Dumbledore's plan that Harry must die. Read it calmly. If your child isn't ready for it tonight, tell instead how the black dog Harry thought was the Grim turned out to be his godfather, Sirius (Prisoner of Azkaban, chapters 17 to 19). Either way, don't hand your child a verdict on Snape.]**
+**[For the parent: the next scene follows Snape's death, and touches on Lily's death and on Dumbledore's plan that Harry must die. Read it calmly. If your child isn't ready for it tonight, skip to the scene below marked "Gentle alternative". Either way, don't hand your child a verdict on Snape.]**
 
 Now a second scene, from *Deathly Hallows*, chapter thirty-three, "The Prince's Tale". It's in the second *Deathly Hallows* film.
 
-Snape is dying. With his last strength, he gives Harry his memories, and asks Harry to look at him. Harry has his mother's eyes. Harry takes the memories to Dumbledore's old office and pours them into the Pensieve.
-
-He sees a thin, scruffy boy watching a girl on a swing. The girl is Lily, Harry's mother. The boy is Snape. He tells her she's a witch, and they become friends. At Hogwarts she goes to Gryffindor and he goes to Slytherin. Over the years he drifts towards friends who love the Dark Arts. One day, humiliated, he calls Lily a cruel name for people born to Muggles. She ends the friendship.
-
-Years later, Snape is a Death Eater. He passes Voldemort part of a prophecy, then realises Voldemort will hunt Lily's family. He begs Dumbledore to protect them. They die anyway. Heartbroken, Snape agrees to protect Lily's son, as long as nobody ever knows.
-
-The memories race through the years. Snape watches over Harry. He works as a spy. He agrees to kill Dumbledore when the time comes, because Dumbledore is already dying and asks him to. Then Dumbledore tells him that Harry himself must die at the right moment. Snape is appalled. Has he kept the boy alive only for that? Dumbledore asks if he's come to care for Harry. Snape answers by casting his Patronus: a silver doe, a sign that he has loved Lily all along.
-
-Harry comes out of the Pensieve knowing that the teacher who seemed to hate him had protected him for seven years.
-
-But that's not the whole of Snape. He picked on Harry from his first Potions lesson. He frightened Neville so much that Neville's boggart was Snape. He mocked Hermione when a curse made her teeth grow. He let it slip that Lupin was a werewolf, so Lupin had to leave. Years later, Harry names a son after him, and calls him one of the bravest men he ever knew.
+Snape is dying, and he gives Harry his memories to pour into the Pensieve. Harry sees Snape as a scruffy boy who befriends Lily, Harry's mother, until, humiliated, he calls her a cruel name for people born to Muggles, and she ends the friendship. Later, as a Death Eater, Snape passes Voldemort part of a prophecy, then begs Dumbledore to protect Lily's family, but they die anyway. Snape agrees to protect Lily's son, on one condition: no one must ever know. When Dumbledore tells him Harry must die at the right moment, Snape is appalled, and casts his Patronus, a silver doe: he has loved Lily all along. So the teacher who seemed to hate Harry had protected him for seven years. But Snape also picked on Harry from his first lesson, frightened Neville so much that Neville's boggart was Snape, mocked Hermione when a curse made her teeth grow, and let slip that Lupin was a werewolf. Years later, Harry names a son after him.
 
 **[PAUSE: Think it through. Choose two or three:]**
 
@@ -477,23 +452,25 @@ But that's not the whole of Snape. He picked on Harry from his first Potions les
 
 **[STANCE LINE: "What Snape did for Harry outweighs how he treated people" or "Nothing he did for Harry makes up for how he treated Neville and others".]**
 
-**[ACTIVITY (skip on the short path): 4 minutes. One of you speaks for 60 seconds as Harry after the Pensieve; the other speaks for 60 seconds as Neville, about Potions lessons. Then swap. Ask: "Were both of them telling the truth?"]**
+**[ACTIVITY: 4 minutes. One of you speaks for 60 seconds as Harry after the Pensieve; the other speaks for 60 seconds as Neville, about Potions lessons. Then swap. Ask: "Were both of them telling the truth?"]**
 
 Here's the difference that matters most tonight. Kalaratri is fierce *and* wholly good. Her fierceness only ever faces what harms. Snape protected Harry, and he was also truly cruel to children. One doesn't cancel the other.
 
-## Part 3: Side by side, today, and closing (about 7 minutes)
+**[Gentle alternative, instead of The Prince's Tale. Read: "Here's a different scene, from *Prisoner of Azkaban*, chapters seventeen to nineteen. It's in the film too. All year, Harry has glimpsed a huge black dog, and he fears it is the Grim, an omen of death. One night the dog drags Ron through a tunnel under the Whomping Willow, and Harry and Hermione follow it to the Shrieking Shack. There the dog turns into a man: Sirius Black, the escaped prisoner Harry believes betrayed his parents to Voldemort. Harry is ready to fight him. Then Lupin arrives, and he and Sirius reveal the truth: the real traitor was Peter Pettigrew, who has been hiding for years as Ron's pet rat. Sirius is innocent, and he is Harry's godfather. When Sirius and Lupin move to kill Pettigrew, Harry stops them, saying his father wouldn't have wanted his best friends to become killers. Pettigrew is to be handed to the dementors instead." Then choose two or three: "What did Harry think the black dog meant?", "Harry judged the dog by how it looked. When is that sensible, and when does it go wrong?", "Kalaratri looks terrifying and is wholly on your side. The Grim looked like death and was Harry's godfather. What is the same, and what is different?" STANCE LINE: "If something looks frightening, keep away: it's safer" or "Find out what it really is before you decide". ACTIVITY: 3 minutes. Each of you has 60 seconds to describe something that frightened you at first and turned out to be harmless, or even on your side. Ask: "What changed, the thing itself or the way you saw it?" Say: "Harry's fear came from a mistake. Kalaratri's fierceness is no mistake: it is real, and it protects."]**
+
+## Part 3: Side by side, today, and closing (about 4 minutes)
 
 Let's put the stories next to each other. There's no single right answer to any of these.
 
 **[PAUSE: ask one or two, one at a time:]**
 
-- **[Kalaratri looks terrifying and is wholly good. Lupin looks gentle and is feared. Snape looks cold, and was both cruel and protective. Which of them matches their outside?]**
+- **[Kalaratri looks terrifying and is wholly good. Lupin looks gentle and is feared. Snape looks cold, and was both cruel and protective. Which of them matches their outside?]** **[With the gentle alternative: "…The black dog looked like an omen of death and was Harry's godfather. Which of them matches their outside?"]**
 - **[Why might a tradition choose not to make Kalaratri smaller, the way Riddikulus makes a fear smaller?]**
 - **[Is fear one of those things, like Raktabija, that grows when you fight it head-on?]**
 - **[Does where fierceness lands matter more than how fierce it is?]**
 - **[What's one difference between these stories we should never forget?]**
 
-Remember: Kalaratri is a Devi, and people worship her today. Lupin and Snape are characters in a book, and both are flawed. We're comparing a question, not the figures.
+Remember: Kalaratri is a Devi, and people worship her today. Lupin and Snape are characters in a book, and both are flawed. We're comparing a question, not the figures. **[With the gentle alternative, say "Lupin and Sirius are characters in a book".]**
 
 Now, closer to home.
 
@@ -501,7 +478,7 @@ Imagine someone in your year says you copied your project. You deny it in the gr
 
 Some people would say deny it everywhere, loudly, because silence looks like guilt. Some would stop replying, because a rumour needs attention to live. Some would talk privately to the person who started it. Some would show the teacher their drafts and let the facts speak. And some would make a joke of it.
 
-**[PAUSE: ask, "Which of these feed the rumour, and which catch it before it lands?" On the long path, also use the fierce coach or the angry-at-the-park situation from Beat 15.]**
+**[PAUSE: ask, "Which of these feed the rumour, and which catch it before it lands?"]**
 
 Last questions.
 
@@ -509,10 +486,10 @@ Last questions.
 
 **[TOGETHER: "What's something that frightens one of us, and what would 'do not fear' look like from the other?"]**
 
-Tonight's form is the darkest of the nine. She is fierce enough to face what nobody else can, and her open hand says "do not fear". Something terrifying can be wholly on your side. But a frightening face can also hide cruelty, so we look at where the fierceness lands.
+Tonight's word is fearlessness. Face the dark without becoming part of it.
 
 And after the darkest night comes the light. Tomorrow, the Devi shines white and radiant after long effort: Mahagauri.
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from tonight.]**
 
-**Timing:** about 13 minutes for Part 1 (including the 4-minute activity), 12 for Part 2 and 7 for Part 3, so about 30 minutes in all. The short path takes about 20: two ladder questions per scene, no second activity, and one "Today" situation.
+**Timing:** about 11 minutes for Part 1, 10 for Part 2 and 4 for Part 3, so about 25 minutes in all. A short evening takes about 16: the choices' set-ups and outcomes without the questions, one scene, two ladder questions, and no side by side.

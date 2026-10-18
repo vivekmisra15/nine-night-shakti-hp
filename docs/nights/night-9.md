@@ -4,34 +4,36 @@ The lesson and the read-aloud script for Night 9, the last night of the series. 
 
 # Lesson
 
-Night 9 takes about 30 minutes, or about 20 on the short path. Its question: what is the right way to hold power, and is the best way sometimes to put it down? The night tells of Siddhidatri, who gives perfection away, of Shiva who becomes half Devi, and of two seekers who ask the Devi for very different gifts. Then come two Harry Potter scenes: Harry laying down the Elder Wand, and the Mirror that gives the Stone only to someone who doesn't want to use it. The night closes the series with a look back across all nine nights, and ends with Vijayadashami.
+Night 9 takes about 25 minutes, or about 16 as a short evening. Its question: what is the right way to hold power, and is the best way sometimes to put it down? The night tells of Siddhidatri, who gives perfection away, of Shiva who becomes half Devi, and of two seekers who ask the Devi for very different gifts. Then come two Harry Potter scenes: Harry laying down the Elder Wand, and the Mirror that gives the Stone only to someone who doesn't want to use it. The night closes the series with a look back across all nine nights, and ends with Vijayadashami.
 
 ## At a glance
 
-- **Intensity:** gentle. The Elder Wand scene comes straight after the Battle of Hogwarts and Harry's walk into the forest; read the parent note before Beat 10.
-- **Short path (about 20 minutes):** skip Beat 3's discussion (read the set-up and "What happens" only), ask two of the six ladder questions per scene, skip the second scene's activity, use only the first "Today" situation, and in Beat 16 light the diyas and ask one question.
+- **Intensity:** gentle. The Elder Wand scene comes straight after the Battle of Hogwarts and Harry's walk into the forest. Read the parent note in Beat 10 before you begin.
+- **Short evening (about 16 minutes):** the opening, the story (Beats 2–8; each choice shows its set-up and what happened, without the question), the theme, the Elder Wand with its Think it through (choose two of the six ladder questions; keep the activity), the look-back (light the diyas and pick one thread; no activity), and Reflect. It leaves out the choice questions, the Mirror and the Stone and its Think it through, and Side by side.
 - **Labels:** every beat carries one: *tradition*, *interpretation*, *contemporary*, *comparison*, *hogwarts* or *hypothetical*.
-- **Bring:** nine diyas or candles (or the app's nine-diya map) for Beat 16.
+- **Bring:** nine diyas or candles (or the app's nine-diya map) for Beat 15.
 
 | # | Beat | Type | Label | Minutes |
 | --- | --- | --- | --- | --- |
-| 1 | Before we begin | opening | contemporary | 1.5 |
+| 1 | Before we begin | opening | contemporary | 1 |
 | 2 | The giver of perfection | story | tradition | 1.5 |
 | 3 | Eight gifts | choice | hypothetical | 1.5 |
 | 4 | Half of Shiva | story | tradition | 1 |
 | 5 | Two seekers by the river | story | tradition | 1 |
-| 6 | What would you ask for? | choice | hypothetical | 3.5 |
+| 6 | What would you ask for? | choice | hypothetical | 1.5 |
 | 7 | What the Devi gave | story | tradition | 1 |
 | 8 | The tenth day | story | tradition | 1.5 |
-| 9 | Three ideas | idea | interpretation | 2.5 |
-| 10 | The Elder Wand | sceneIntro | hogwarts | 2 |
-| 11 | Think it through | think | comparison | 3 |
+| 9 | The theme | idea | interpretation | 1 |
+| 10 | The Elder Wand | sceneIntro | hogwarts | 1.5 |
+| 11 | Think it through | think | comparison | 2.5 |
 | 12 | The Mirror and the Stone | sceneIntro | hogwarts | 1.5 |
-| 13 | Think it through | think | comparison | 2.5 |
+| 13 | Think it through | think | comparison | 2 |
 | 14 | Side by side | comparison | comparison | 1.5 |
-| 15 | Today | today | contemporary | 2.5 |
-| 16 | Nine nights, looking back | comparison | comparison | 3 |
-| 17 | Reflection | reflection | contemporary | 1.5 |
+| 15 | Nine nights, looking back | lookBack | comparison | 2.5 |
+| 16 | Today | today | contemporary | 1.5 |
+| 17 | Reflection | reflection | contemporary | 1 |
+
+Beat 15, the look-back, closes the series and comes just before Reflect. Beats 16 and 17 are shown together as one **Reflect** section of three steps (the Today situation; the questions and private note; the theme), so the night, and the series, ends on its theme.
 
 ## Beat 1: Before we begin
 
@@ -111,8 +113,6 @@ When he finished, the king and the merchant went to a sandbank by a river. They 
 
 **What happens:** see Beat 7.
 
-**Activity (3 minutes; this is the night's main activity):** one person argues for Suratha's kind of wish (get back what was taken) and the other for Samadhi's (let go of wanting it), 60 seconds each. Swap, and do it again. Then ask: which wish took more courage? Which would you actually have made?
-
 ### Beat 7: What the Devi gave (tradition)
 
 Suratha asked for his own kingdom in this life, with his enemies' power broken, and a kingdom he could never lose in lives to come (DM 13.17). Samadhi had lost just as much. But he did not ask for his wealth. He asked for the knowledge that would free him from the feeling of "mine" and "I" (DM 13.18).
@@ -135,34 +135,17 @@ Tomorrow is Vijayadashami: *vijaya*, victory, and *dashami*, the tenth day, in t
 
 **Did you know? (regional tradition):** in much of South India, Ayudha Puja falls tonight, on the ninth day, not tomorrow. People honour the tools of their work: books, pens, musical instruments, machines, vehicles, and now laptops and phones. In many homes, books rest before the Devi overnight and nobody studies until they are taken up again on Vijayadashami.
 
-## Beat 9: Three ideas (interpretation)
+## Beat 9: The theme (interpretation)
 
-Each idea shows the simple version first, then the deeper one, then the story moments that support it.
+**The theme (interpretation; the night's one core idea, shown as the Ideas section and again at the end of the night):**
 
-**1. Power as a gift, held lightly**
-
-- **Simply:** whatever you're good at, or in charge of, you were given at least partly. How you hold it matters.
-- **From the story:** Siddhidatri gives perfection away; she doesn't keep it. Gods and asuras both come to her.
-- **Traditional reading:** the Bhagavata (11.15.33) and the Yoga Sutras (3.37) both warn that special powers can become distractions from what really matters.
-- **Other readings:** the Devi gave Suratha exactly the power he asked for, without blame. So wanting power is not wrong in itself. Perhaps the question is what it's for.
-
-**2. Completion: two halves of one whole**
-
-- **Simply:** being complete doesn't mean having everything. It can mean nothing is missing.
-- **From the story:** Ardhanarishvara is Shiva and Shakti in one form. The Devi Mahatmya ends with two seekers both answered. The nine nights end where the first began, with the Devi who was born as Daksha's daughter.
-- **Traditional reading:** Shiva and Shakti cannot be separated; consciousness and power belong together (Shaiva and Shakta interpretation).
-- **Contemporary:** some people read Ardhanarishvara today as a picture of every person holding qualities called "masculine" and "feminine". That is a modern reading, not the traditional one.
-
-**3. Honouring the tools of your work**
-
-- **Simply:** your pen, your bat, your books and your instrument deserve respect, because they help you become who you are.
-- **From the story:** Ayudha Puja tonight; Arjuna's weapons in the shami tree; children writing their first letters on Vijayadashami.
-- **Traditional reading:** the power to act comes from the Devi, so the tools through which it flows are honoured.
-- **Contemporary:** respecting a tool can also mean knowing its limits, and putting it down when it does harm.
+- **Word:** Wholeness
+- **Idea:** You are whole when you know you are part of the whole.
+- **Description:** Siddhidatri is the giver of siddhis, perfected powers, and many images show gods and sages bowing to her. In a devotional account, even Shiva received his powers through her and became Ardhanarishvara, half Shiva and half Shakti: one whole. Yet the tradition keeps saying powers are not the goal. The Yoga Sutras warn they can become obstacles, and the Devi Mahatmya calls the Goddess “the cause of liberation”. The deepest gift of the ninth night is a discovery, not a power. In the Devi Gita, the Goddess teaches that the self in every being is one with the infinite, and that knowing this sets you free. An old image for it is a wave discovering it was always the ocean. After eight nights of rootedness, resolve, readiness, creation, nurture, courage, fearlessness and renewal, the journey ends there: not with becoming stronger, but with no longer feeling separate.
 
 ## Beat 10: The Elder Wand (hogwarts)
 
-**For the parent (show before this beat):**
+**For the parent (a notification: the bell pulses at the start of this beat and again before the first sentence of the retelling, where Harry lets Voldemort's curse hit him; the story does not stop):**
 
 - This scene comes right after the Battle of Hogwarts. Fred, Lupin and Tonks have died, and Harry has just walked into the forest expecting to die.
 - The retelling doesn't dwell on any of this. If your child wants to talk about the deaths, give that space first. The rest of the night can wait.
@@ -172,11 +155,9 @@ Each idea shows the simple version first, then the deeper one, then the story mo
 - **Find the scene:** there is no link. Find it yourselves in your own copy of the book or film, using the reference above.
 - **Film note, and it matters tonight:** in the book, Harry uses the Elder Wand once, to mend his own broken wand, and decides to put it back in Dumbledore's tomb. In the film, standing on a bridge at Hogwarts with Ron and Hermione, he snaps the Elder Wand in two and throws the pieces away. The film does not show him mending his old wand *(to check)*. The film's King's Cross scene is much shorter, and Dumbledore's words about power come from the book *(to check that the film leaves them out)*. Keeping a power asleep and destroying it are two different ways of giving it up, and the difference is worth discussing.
 
-**Retelling (spoken style).** Harry has walked into the forest and let Voldemort's curse hit him. He wakes in a bright, misty place that looks like King's Cross station, and Dumbledore is there. Dumbledore makes a confession. As a young man he hungered for power, and for the Deathly Hallows, and it led him into terrible mistakes. He was offered the job of Minister for Magic more than once, and refused, because he had learned he couldn't be trusted with power. Perhaps, he says, the people best suited to power are those who never went looking for it, like Harry.
+**Retelling (spoken style).** Harry lets Voldemort's curse hit him, and wakes in a bright, misty place like King's Cross, where Dumbledore is waiting. Dumbledore confesses that as a young man he hungered for power, and it led him into terrible mistakes; later he refused to be Minister for Magic, knowing he couldn't be trusted with power. Perhaps, he says, those best suited to power never went looking for it, like Harry. Harry goes back, the battle ends, and the Elder Wand, the most powerful wand ever made, is his: he won it almost by accident, by disarming Draco Malfoy. In the headmaster's office, he mends his own broken wand with one touch of it. Then he decides to put the Elder Wand back in Dumbledore's tomb, so that if he dies undefeated, its power will end with him. Ron thinks he's mad. Harry says it's more trouble than it's worth.
 
-Harry goes back, and the battle ends. Voldemort's own curse rebounds on him. The Elder Wand, the most powerful wand ever made, flies into Harry's hand. It belongs to him now, though he won it almost by accident, by disarming Draco Malfoy weeks earlier. Afterwards, in the headmaster's office, Harry tells Dumbledore's portrait his plans. He'll keep his father's Invisibility Cloak. He won't go looking for the Resurrection Stone, which he dropped in the forest. Then he lays his own wand on the desk, broken months ago at Godric's Hollow, and mends it with one touch of the Elder Wand. He'll put the Elder Wand back where it came from, in Dumbledore's tomb. If he dies a natural death, undefeated, its power will end with him. Ron thinks he's mad. Harry says the wand is more trouble than it's worth.
-
-**The connection:** Idea 1, power held lightly, and Idea 3, honouring your own tool.
+**The connection:**
 
 - **What is similar:** Harry is offered the greatest power in his world, and chooses to use it only once, to repair something small and his own. The traditions behind Siddhidatri also warn that powers can distract from what matters (BP 11.15.33). Dumbledore's confession sounds a little like Samadhi's wish: freedom from wanting.
 - **What is different:**
@@ -187,6 +168,7 @@ Harry goes back, and the battle ends. Voldemort's own curse rebounds on him. The
     - In the book Harry keeps the power asleep; in the film he destroys it.
 - **Why the comparison helps:** it turns "the right relationship with power" into a choice a pre-teen can picture: what would you do if you were handed the strongest thing in the world?
 - **Strength: strong.** The decision matches closely. The source of the power and its history do not.
+- **Link to the theme (Wholeness):** Harry could stand above everyone as master of the most powerful wand ever made, and he chooses not to. He mends his own ordinary wand and goes back to being one among his friends. That is not the theme's discovery that the self is one with the infinite, but it points the same way: he chooses belonging over standing apart.
 
 ## Beat 11: Think it through (comparison)
 
@@ -215,13 +197,9 @@ Harry goes back, and the battle ends. Voldemort's own curse rebounds on him. The
 - **Reference:** Harry. *Philosopher's Stone*, chapter 12, "The Mirror of Erised", and chapter 17, "The Man with Two Faces". Film: *Philosopher's Stone* (2001), the Mirror scene at Christmas, the final chamber, and the hospital wing. The film keeps Dumbledore's explanation of the Mirror's rule.
 - **Find the scenes:** there are no links. Find them yourselves in your own copies of the books or films, using the references above.
 
-**Retelling (spoken style).** At Christmas in his first year, Harry finds an old mirror in an empty classroom. When he looks in it, he sees his mother and father behind him, and a whole family he has never met. He goes back night after night. Then Dumbledore finds him there. The Mirror, he explains, shows you the deepest wish of your heart. People have wasted their lives in front of it. It will be moved, and Harry shouldn't look for it again: it does no good to dwell on dreams and forget to live.
+**Retelling (spoken style).** At Christmas in his first year, Harry finds an old mirror, sees his parents behind him, and goes back night after night. Dumbledore tells him the Mirror shows your heart's deepest wish, and that he shouldn't look for it again: people have wasted their lives in front of it. Later, beyond the trapdoor, Harry finds the same Mirror, with Professor Quirrell in front of it. Quirrell has learned from Voldemort that there is no good or evil, only power, and people too weak to seek it. He sees himself handing the Stone to his master but can't get it out, so he makes Harry look. Harry's reflection pockets the Stone and winks, and something heavy drops into Harry's real pocket. Dumbledore later explains that only someone who wanted to *find* the Stone, but not *use* it, could take it. The Stone is then destroyed, with its maker Nicolas Flamel's agreement, though without it he and his wife will one day die.
 
-Months later, Harry goes down through the trapdoor and finds that same Mirror in the last chamber. Professor Quirrell is standing in front of it. Quirrell has learned from Voldemort that there is no good or evil, only power, and people too weak to go after it. He can see himself handing the Philosopher's Stone to his master, but he can't get it out. So he makes Harry look. Harry sees his reflection smile, put the Stone into its pocket, and wink. And Harry feels something heavy drop into his real pocket.
-
-Afterwards, in the hospital wing, Dumbledore explains. He set the Mirror so that only someone who wanted to *find* the Stone, but not *use* it, could take it. Anyone who wanted gold or endless life would only see themselves using it. The Stone, he adds, has now been destroyed. Its maker, Nicolas Flamel, agreed, though without it he and his wife will one day die.
-
-**The connection:** Idea 1, power as a gift, and Samadhi's wish.
+**The connection:**
 
 - **What is similar:** the Mirror gives its treasure only to someone who isn't trying to gain from it. Samadhi asked not for his wealth but for freedom from wanting. And the Bhagavata warns that powers are a distraction for anyone who seeks them for themselves.
 - **What is different:**
@@ -231,6 +209,7 @@ Afterwards, in the hospital wing, Dumbledore explains. He set the Mirror so that
     - Quirrell's belief, that there is only power, is the opposite of both stories. Notice that neither story agrees with him.
 - **Why the comparison helps:** it asks whether the people who should hold power are the ones who don't want it, and whether that's fair to people who do.
 - **Strength: partial to strong.** The idea matches well; Harry's "choice" is more innocence than decision.
+- **Link to the theme (Wholeness):** what Harry sees in the Mirror is not power or gold but his family around him: his deepest wish is not to be alone. The theme ends with "no longer feeling separate"; Harry's longing is a small, human version of that wish, though nothing in the scene suggests the oneness the theme describes.
 
 ## Beat 13: Think it through (comparison)
 
@@ -252,7 +231,7 @@ Afterwards, in the hospital wing, Dumbledore explains. He set the Mirror so that
 
 **Stance line:** "The people who should hold power are the ones who don't want it" ↔ "Wanting to lead is fine, if you know why you want it".
 
-**Activity (skip on the short path): the Mirror test (2 minutes, with a visible timer).** Each person has 30 seconds to name something they'd love to have, and 30 seconds to say honestly whether they'd want to *find* it or to *use* it. Then swap. Could either of you get it out of the Mirror?
+**Activity: the Mirror test (2 minutes, with a visible timer).** Each person has 30 seconds to name something they'd love to have, and 30 seconds to say honestly whether they'd want to *find* it or to *use* it. Then swap. Could either of you get it out of the Mirror?
 
 ## Beat 14: Side by side (comparison)
 
@@ -266,51 +245,23 @@ Questions are revealed one at a time. None has a single right answer.
 
 **What doesn't compare (always shown):** Siddhidatri is worshipped as the giver of power itself, and her story is sacred. Harry is a fictional boy who won a wand almost by accident. We compare the choice about power, not the people.
 
-## Beat 15: Today (contemporary)
+## Beat 15: Nine nights, looking back (lookBack, comparison)
 
-There are three situations; the short path uses only the first. Each shows several perspectives a thoughtful person might hold, and none is marked as the right answer.
+This beat closes the series. It comes after Side by side and before Reflect.
 
-**1. The admin button.** You're an admin of your class group chat. One person keeps posting things that upset others. You could remove them with one tap.
+**Light the diyas.** Light one diya for each night as you name it and its theme, or light them on the app's map. Read each line; don't re-teach it.
 
-- "Remove them. That's what admins are for."
-- "Message them privately first. Everyone deserves a warning."
-- "Ask the group. It's not my chat alone."
-- "Hand admin to someone else. I don't want to be the one who decides."
-- "Leave it. If I remove them, I become the bad guy."
-- **Ask:** does having the button make it your job to use it?
-
-**2. The answers in advance.** Your cousin did the same end-of-term quiz last year and offers you the answers. Nobody would ever know.
-
-- "Take them. Everyone gets help from older siblings."
-- "Say no quietly, and just revise properly."
-- "Say no, and tell the teacher the quiz gets reused." But that could get your cousin in trouble.
-- "Use them only to see what topics come up." Is that different?
-- "Share them with the whole class, so it's fair." Is it?
-- **Ask:** is an advantage unfair if nobody else can get it? What if everybody could?
-
-**3. The captain who didn't want it.** The coach makes you team captain. You didn't ask for it. Your best friend wanted it badly.
-
-- "Say no, and suggest your friend."
-- "Accept, and share the big decisions with your friend."
-- "Accept and lead your own way. The coach chose you for a reason."
-- "Ask the coach to rotate the captaincy."
-- **Ask:** Dumbledore thought the people best suited to power never sought it. Do you agree? Is that unfair to people who want to lead?
-
-## Beat 16: Nine nights, looking back (comparison)
-
-**Light the diyas.** Light one diya for each night as you name it, or light them on the app's map. Read each line; don't re-teach it.
-
-| Night | Devi | The question it asked | Hogwarts scenes |
+| Night | Devi | Theme | The idea |
 | --- | --- | --- | --- |
-| 1 | Shailaputri | What do you do when family scorns someone you love? | Aunt Marge; the Sorting |
-| 2 | Brahmacharini | What is worth failing at many times? | The Patronus lessons; Occlumency |
-| 3 | Chandraghanta | How can someone be calm and fierce at once? | Neville stands up to his friends; Molly's duel |
-| 4 | Kushmanda | Can a small warmth begin a whole world? | Hagrid's cake; the Christmas jumper |
-| 5 | Skandamata | How do you protect someone, and when do you let them go? | Molly and Sirius argue; Narcissa's lie |
-| 6 | Katyayani | What happens when many powers join against injustice? | Dumbledore's Army; past the trapdoor |
-| 7 | Kalaratri | Can something fearsome also be protective? | The boggart lesson; Snape's memories |
-| 8 | Mahagauri | Can anyone begin again, and must they choose to? | Kreacher; Ron returns |
-| 9 | Siddhidatri | What is the right way to hold power? | The Elder Wand; the Mirror |
+| 1 | Shailaputri | Rootedness | What you are rooted in can survive what you lose. |
+| 2 | Brahmacharini | Resolve | What you practise, day after day, changes who you are. |
+| 3 | Chandraghanta | Readiness | Strength can protect just by being ready. |
+| 4 | Kushmanda | Creation | What you make carries something of why you made it. |
+| 5 | Skandamata | Nurture | True care helps someone grow strong enough to go their own way. |
+| 6 | Katyayani | Courage | When something is wrong, stand up to it, and stand together. |
+| 7 | Kalaratri | Fearlessness | Face the dark without becoming part of it. |
+| 8 | Mahagauri | Renewal | After a hard time, you can begin again, clearer than before. |
+| 9 | Siddhidatri | Wholeness | You are whole when you know you are part of the whole. |
 
 **Threads that kept coming back.** Pick two:
 
@@ -323,18 +274,29 @@ There are three situations; the short path uses only the first. Each shows sever
 
 **Honesty check:** we said on Night 4 that its comparison was speculative, and on Night 1 that Sati's act has no Harry Potter parallel. Were there other nights where the comparison felt forced to you?
 
-**Activity: defend a night (3 minutes, with a visible timer).** Each person picks the night whose comparison they think was *strongest* and the one they think was *weakest*. Take 60 seconds each to defend your picks. Then 60 seconds together: is there one night where you both changed your minds about something?
+**Activity (full night only; on a short evening, light the diyas and pick one thread): defend a night (3 minutes, with a visible timer).** Each person picks the night whose comparison they think was *strongest* and the one they think was *weakest*. Take 60 seconds each to defend your picks. Then 60 seconds together: is there one night where you both changed your minds about something?
+
+## Beat 16: Today (contemporary)
+
+One situation, with several perspectives a thoughtful person might hold. None is marked as the right answer.
+
+**The admin button.** You're an admin of your class group chat. One person keeps posting things that upset others. You could remove them with one tap.
+
+- "Remove them. That's what admins are for."
+- "Message them privately first. Everyone deserves a warning."
+- "Ask the group. It's not my chat alone."
+- "Hand admin to someone else. I don't want to be the one who decides."
+- "Leave it. If I remove them, I become the bad guy."
+- **Ask:** does having the button make it your job to use it?
 
 ## Beat 17: Reflection (contemporary)
 
-Pick one or two questions; you don't need them all. The night's main activity, the two seekers, comes earlier, in Beat 6.
+Pick one or two questions; you don't need them all. The night ends on its theme.
 
 **For the child**
 
 - If Siddhidatri offered you one gift, what would you ask for now, after nine nights?
 - Was Harry right to give up the Elder Wand?
-- What is one tool of your own that deserves honouring tonight?
-- Which of the nine Devis do you remember most clearly, and why?
 
 **Go deeper**
 
@@ -347,7 +309,9 @@ Pick one or two questions; you don't need them all. The night's main activity, t
 
 **Private note (saved only on this device):** one thing I want to remember from these nine nights is…
 
-**Takeaway (shown last):** the giver of perfection gives it away, and the boy who won the strongest wand chose to mend his old one. Neither story tells us to want nothing; both ask what our power is for. Tomorrow is Vijayadashami, the day of victory, and the end of the nine nights.
+**The theme again (shown last, then in the closing):** Wholeness. You are whole when you know you are part of the whole.
+
+**The end of the series (in place of "Tomorrow"):** tomorrow is Vijayadashami, the day of victory, and the end of the nine nights.
 
 ## For the parent
 
@@ -391,9 +355,9 @@ All Harry Potter lines are paraphrased; there are no direct quotations.
 
 # Read-aloud script
 
-Read it straight through, or use it alongside the app. It runs about 30 minutes with discussion, or about 20 on the short path. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
+Read it straight through, or use it alongside the app. It runs about 25 minutes with discussion, or about 16 as a short evening: on a short evening, skip the two **[PAUSE: Choice]** questions (still read what happened after each), the second scene (from "Now a second scene" to its activity), the side-by-side questions at the start of Part 3, and the look-back activity. Lines in **[brackets]** are for the parent and are not read aloud. All Harry Potter lines are paraphrased.
 
-## Part 1: Opening and the story (about 12 minutes)
+## Part 1: Opening and the story (about 10 minutes)
 
 **[Before you start: have nine diyas or candles ready for the end, or use the app's map.]**
 
@@ -409,7 +373,7 @@ In pictures she sits on a lotus in full bloom. She has four arms, and holds a di
 
 The old books say there are eighteen of these perfections, and eight that matter most. Becoming as small as an atom. Becoming vast. Becoming light as air. Reaching anything, anywhere. Having any wish come true.
 
-**[PAUSE: Choice. Ask: "If she offered you all eight, what would you do? Take them all, take just one, take them and never use them, or say no thank you?" On the short path, just hear one answer.]**
+**[PAUSE: Choice. Ask: "If she offered you all eight, what would you do? Take them all, take just one, take them and never use them, or say no thank you?"]**
 
 Here's the interesting part. In one old text, the Bhagavata Purana, Krishna tells his friend that wise people call these powers obstacles, a waste of time for anyone seeking what really matters. The Yoga Sutras say something similar. So the giver of powers is worshipped in a tradition that also warns about wanting them.
 
@@ -433,8 +397,6 @@ When he finished, the king and the merchant went down to a sandbank by a river. 
 
 **[PAUSE: Choice. Ask: "You've lost everything through other people's greed. What would you ask for? Your kingdom back, revenge, to stop caring about what you lost, something for someone else, or nothing at all?" Listen to the reasons.]**
 
-**[ACTIVITY: 3 minutes. One of you argues for getting back what was taken, the other for letting go of wanting it, 60 seconds each. Then swap. Ask: "Which wish took more courage? Which would you really have made?"]**
-
 The king asked for his kingdom back in this life, with his enemies' power broken, and a kingdom he could never lose in lives to come.
 
 The merchant had lost just as much. But he didn't ask for his money. He asked for the kind of knowledge that would free him from the feeling of "mine" and "I".
@@ -451,27 +413,17 @@ In Kerala, tiny children write their very first letters tomorrow. And tonight, i
 
 **[Pause: about 1 minute. Optional: "What tool of yours would you put in front of the Devi tonight?"]**
 
-## Part 2: The ideas and two Hogwarts scenes (about 11 minutes)
+## Part 2: The theme and two Hogwarts scenes (about 9 minutes)
 
-Three ideas come out of tonight's stories. People read them in different ways, so these are readings, not rules.
+Tonight's word is wholeness. You are whole when you know you are part of the whole.
 
-The first is power as a gift, held lightly. Siddhidatri gives perfection away. The old books warn that powers can distract you. And yet the Devi gave the king the power he asked for, without blame. So maybe wanting power isn't wrong. Maybe the question is what it's for.
+Siddhidatri is the giver of siddhis, perfected powers, and many images show gods and sages bowing to her. In a devotional account, even Shiva received his powers through her and became Ardhanarishvara, half Shiva and half Shakti: one whole. Yet the tradition keeps saying powers are not the goal. The Yoga Sutras warn they can become obstacles, and the Devi Mahatmya calls the Goddess “the cause of liberation”. The deepest gift of the ninth night is a discovery, not a power. In the Devi Gita, the Goddess teaches that the self in every being is one with the infinite, and that knowing this sets you free. An old image for it is a wave discovering it was always the ocean. After eight nights of rootedness, resolve, readiness, creation, nurture, courage, fearlessness and renewal, the journey ends there: not with becoming stronger, but with no longer feeling separate.
 
-The second is completion. Shiva and Shakti in one form, two halves of one whole. The Devi Mahatmya ending with both seekers answered. Our nine nights ending where they began.
-
-The third is honouring the tools of your work: the pen, the book, the instrument that help you become who you are.
-
-**[Pause: ask, "Which of these three feels most true to you?"]**
-
-**[For the parent: the next scene comes straight after the Battle of Hogwarts, when Fred, Lupin and Tonks have died and Harry has walked into the forest expecting to die. The retelling doesn't dwell on it. If your child wants to talk about those deaths, let them first.]**
+**[For the parent (the app's bell pulses here): the next scene comes straight after the Battle of Hogwarts, when Fred, Lupin and Tonks have died and Harry has walked into the forest expecting to die. The retelling doesn't dwell on it. If your child wants to talk about those deaths, let them first.]**
 
 Now, Hogwarts. This is from *Deathly Hallows*, chapter thirty-five, "King's Cross", and the very end of chapter thirty-six. The film tells it differently, and we'll come to that.
 
-Harry has let Voldemort's curse hit him in the forest. He wakes in a bright, misty place like King's Cross station, and Dumbledore is there. Dumbledore makes a confession. When he was young, he hungered for power, and it led him into terrible mistakes. He was offered the job of Minister for Magic more than once and said no, because he'd learned he couldn't be trusted with power. Perhaps, he says, the people best suited to power are the ones who never went looking for it. People like Harry.
-
-Harry goes back, and the battle ends. The Elder Wand, the most powerful wand ever made, flies into his hand. It's his now, though he won it almost by accident, by disarming Draco Malfoy weeks before.
-
-Afterwards, in the headmaster's office, Harry tells Dumbledore's portrait what he'll do. He'll keep his father's Invisibility Cloak. He won't look for the Resurrection Stone he dropped in the forest. Then he lays his own wand on the desk, the one that broke at Godric's Hollow, and mends it with a single touch of the Elder Wand. He'll put the Elder Wand back in Dumbledore's tomb. If he dies a natural death, undefeated, its power will end with him. Ron thinks he's mad. Harry says it's more trouble than it's worth.
+Harry lets Voldemort's curse hit him, and wakes in a bright, misty place like King's Cross, where Dumbledore is waiting. Dumbledore confesses that as a young man he hungered for power, and it led him into terrible mistakes; later he refused to be Minister for Magic, knowing he couldn't be trusted with power. Perhaps, he says, those best suited to power never went looking for it, like Harry. Harry goes back, the battle ends, and the Elder Wand, the most powerful wand ever made, is his: he won it almost by accident, by disarming Draco Malfoy. In the headmaster's office, he mends his own broken wand with one touch of it. Then he decides to put the Elder Wand back in Dumbledore's tomb, so that if he dies undefeated, its power will end with him. Ron thinks he's mad. Harry says it's more trouble than it's worth.
 
 In the film it's different. Harry stands on a bridge with Ron and Hermione, snaps the Elder Wand in two, and throws the pieces away.
 
@@ -493,11 +445,7 @@ One thing to hold on to. Siddhidatri is the source of power, and she gives it aw
 
 Now a second scene, from *Philosopher's Stone*, chapters twelve and seventeen. Both moments are in the film.
 
-At Christmas in his first year, Harry finds an old mirror in an empty classroom. When he looks into it, he sees his mother and father standing behind him, and a whole family he's never met. He goes back night after night. Then Dumbledore finds him there. The Mirror shows you the deepest wish of your heart, he explains. People have wasted their lives in front of it. It will be moved, and Harry shouldn't look for it again. It does no good to dwell on dreams and forget to live.
-
-Months later, Harry goes through the trapdoor, and in the last chamber, there's the Mirror again. Professor Quirrell stands in front of it. Quirrell believes there's no good or evil, only power, and people too weak to go after it. He can see himself handing the Philosopher's Stone to his master, but he can't get it out. So he makes Harry look. Harry sees his reflection smile, put the Stone in its pocket, and wink. And he feels something heavy drop into his real pocket.
-
-Afterwards, Dumbledore explains. He set the Mirror so that only someone who wanted to *find* the Stone, but not *use* it, could take it.
+At Christmas in his first year, Harry finds an old mirror, sees his parents behind him, and goes back night after night. Dumbledore tells him the Mirror shows your heart's deepest wish, and that he shouldn't look for it again: people have wasted their lives in front of it. Later, beyond the trapdoor, Harry finds the same Mirror, with Professor Quirrell in front of it. Quirrell has learned from Voldemort that there is no good or evil, only power, and people too weak to seek it. He sees himself handing the Stone to his master but can't get it out, so he makes Harry look. Harry's reflection pockets the Stone and winks, and something heavy drops into Harry's real pocket. Dumbledore later explains that only someone who wanted to *find* the Stone, but not *use* it, could take it. The Stone is then destroyed, with its maker Nicolas Flamel's agreement, though without it he and his wife will one day die.
 
 Remember the merchant, who didn't ask for his money back? Both stories wonder whether the person who doesn't grab for power is the one who should receive it. But they don't agree completely. The Devi gave the king exactly the power he wanted.
 
@@ -511,9 +459,9 @@ Remember the merchant, who didn't ask for his money back? Both stories wonder wh
 
 **[STANCE LINE: "The people who should hold power are the ones who don't want it" or "Wanting to lead is fine, if you know why you want it".]**
 
-**[ACTIVITY (skip on the short path): 2 minutes. Each of you names something you'd love to have, then says honestly whether you'd want to find it or use it. Could either of you get it out of the Mirror?]**
+**[ACTIVITY: 2 minutes. Each of you names something you'd love to have, then says honestly whether you'd want to find it or use it. Could either of you get it out of the Mirror?]**
 
-## Part 3: Side by side, today, looking back, and closing (about 9 minutes)
+## Part 3: Side by side, looking back, today, and closing (about 6 minutes)
 
 Let's put the stories next to each other. There's no single right answer to any of these.
 
@@ -524,39 +472,39 @@ Let's put the stories next to each other. There's no single right answer to any 
 - **[Harry used the Elder Wand to mend his own old wand. Why might the ordinary tool matter more than the powerful one?]**
 - **[What's one difference between these stories we should never forget?]**
 
-Now, closer to home.
+Now, before we finish, let's look back at all nine nights.
+
+**[Light one diya for each night as you read its theme. Go slowly.]**
+
+Night one, Shailaputri. Rootedness. What you are rooted in can survive what you lose.
+
+Night two, Brahmacharini. Resolve. What you practise, day after day, changes who you are.
+
+Night three, Chandraghanta. Readiness. Strength can protect just by being ready.
+
+Night four, Kushmanda. Creation. What you make carries something of why you made it.
+
+Night five, Skandamata. Nurture. True care helps someone grow strong enough to go their own way.
+
+Night six, Katyayani. Courage. When something is wrong, stand up to it, and stand together.
+
+Night seven, Kalaratri. Fearlessness. Face the dark without becoming part of it.
+
+Night eight, Mahagauri. Renewal. After a hard time, you can begin again, clearer than before.
+
+Night nine, Siddhidatri. Wholeness. You are whole when you know you are part of the whole.
+
+**[Pause: let the nine flames burn for a moment in quiet.]**
+
+**[PAUSE: ask one or two: "Which night stayed with you most?" "Which comparison was strongest, and which felt forced?" "Are you who your family made you, or who you choose to be?" On a full night, use the "defend a night" activity in Beat 15: 3 minutes.]**
+
+And now, closer to home.
 
 Imagine you're an admin of your class group chat. One person keeps posting things that upset everyone. You could remove them with one tap.
 
 Some people would say remove them, because that's what admins are for. Some would message them privately first, because everyone deserves a warning. Some would ask the group. Some would hand admin to someone else, because they don't want to be the one who decides. And some would leave it, so they don't become the bad guy.
 
-**[PAUSE: ask, "Does having the button make it your job to use it?" On the long path, also use the quiz-answers or team-captain situation from Beat 15.]**
-
-And now, before we finish, let's look back at all nine nights.
-
-**[Light one diya for each night as you read its line. Go slowly.]**
-
-Night one, Shailaputri: what do you do when family scorns someone you love?
-
-Night two, Brahmacharini: what is worth failing at many times?
-
-Night three, Chandraghanta: how can someone be calm and fierce at once?
-
-Night four, Kushmanda: can a small warmth begin a whole world?
-
-Night five, Skandamata: how do you protect someone, and when do you let them go?
-
-Night six, Katyayani: what happens when many powers join against injustice?
-
-Night seven, Kalaratri: can something fearsome also be protective?
-
-Night eight, Mahagauri: can anyone begin again?
-
-Night nine, Siddhidatri: what is the right way to hold power?
-
-**[Pause: let the nine flames burn for a moment in quiet.]**
-
-**[PAUSE: ask one or two: "Which night stayed with you most?" "Which comparison was strongest, and which felt forced?" "Are you who your family made you, or who you choose to be?" On the long path, use the "defend a night" activity in Beat 16: 3 minutes.]**
+**[PAUSE: ask, "Does having the button make it your job to use it?"]**
 
 Last questions.
 
@@ -564,10 +512,10 @@ Last questions.
 
 **[TOGETHER: "What is one thing we want to carry from these nine nights into the rest of the year?"]**
 
-Tonight's stories don't tell us to want nothing. The Devi gave the king his kingdom. But they keep asking the same question: what is our power for?
+Tonight's word is wholeness. You are whole when you know you are part of the whole.
 
-The giver of perfection gives it away. The boy who won the strongest wand in the world used it once, to mend his old one. And tomorrow is Vijayadashami, the day of victory, when the nine nights are complete.
+And tomorrow is Vijayadashami, the day of victory, when the nine nights are complete.
 
 **[End. Optional: each of you says, or writes in the app's private note, one thing you want to remember from all nine nights.]**
 
-**Timing:** about 12 minutes for Part 1 (including the 3-minute two-seekers activity), 11 for Part 2 and 9 for Part 3 (including the look-back), so about 32 minutes in all. The short path takes about 20: one answer at the eight-gifts choice, two ladder questions per scene, no second activity, one "Today" situation, and in the look-back just the diyas and one question.
+**Timing:** about 10 minutes for Part 1, 9 for Part 2 and 6 for Part 3 (including the look-back), so about 25 minutes in all. A short evening takes about 16: no choice questions, one scene with two ladder questions, no side by side, and in the look-back just the diyas and one thread.
