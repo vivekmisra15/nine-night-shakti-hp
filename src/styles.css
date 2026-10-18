@@ -113,6 +113,17 @@ button.big {
   color: var(--text);
 }
 
+/* A link inside a sentence, e.g. "Read the full disclaimer" on the splash. */
+.link-button.inline {
+  display: inline;
+  min-height: 0;
+  padding: 0;
+  font-size: inherit;
+  color: var(--gold);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 :focus-visible {
   outline: 3px solid var(--accent);
   outline-offset: 2px;
@@ -196,9 +207,12 @@ input[type='range'] {
   position: relative;
   min-height: 100dvh;
   overflow: hidden;
-  display: grid;
-  place-items: center;
-  padding: 2rem 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2.5rem 16px 1.2rem;
 }
 
 .splash-sky {
@@ -210,48 +224,90 @@ input[type='range'] {
 
 .splash-content {
   position: relative;
-  max-width: 46rem;
+  max-width: 64rem;
   text-align: center;
+}
+
+/* The app's name, small and spaced, above the large question. */
+.splash-eyebrow {
+  margin: 0 0 1rem;
+  font-family: var(--mono);
+  font-size: clamp(0.75rem, 1.6vw, 0.95rem);
+  letter-spacing: 0.35em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.splash-headline {
+  margin: 0 0 1.6rem;
+  font-size: clamp(2.8rem, 9vw, 6rem);
+  line-height: 1.05;
 }
 
 .splash-questions {
   list-style: none;
   padding: 0;
-  margin: 0 0 2rem;
+  margin: 0 0 1.8rem;
   font-family: var(--serif);
   font-style: italic;
-  font-size: clamp(1.15rem, 2.6vw, 1.7rem);
+  font-size: clamp(1.1rem, 2.4vw, 1.6rem);
+  color: var(--muted);
 }
 
 .splash-questions li {
-  margin: 0.6rem 0;
-  animation: rise-in 1.4s ease-out;
-  transition: opacity 1.2s;
+  margin: 0.45rem 0;
 }
 
-.q-current { opacity: 1; }
-.q-past { opacity: 0.55; }
-
-.splash-heading {
-  font-size: clamp(2.2rem, 6vw, 4.2rem);
-  margin: 0 0 1.5rem;
-  transition: font-size 1s ease;
+.splash-intro {
+  margin: 0 auto 0.9rem;
+  max-width: 42rem;
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
 }
 
-/* After Begin, the title moves up and steps back for the questions. */
-.splash-begun .splash-heading {
-  font-size: clamp(1.6rem, 4vw, 2.6rem);
+.splash-note {
+  margin: 0 auto 1.6rem;
+  max-width: 40rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* The disclaimer sits below the content (never on top of it on a phone). */
+/* On a phone everything is a little smaller, so the splash fits one screen. */
+@media (max-width: 700px) {
+  .splash {
+    gap: 1rem;
+    padding-top: 1.4rem;
+  }
+  .splash-eyebrow {
+    margin-bottom: 0.6rem;
+    letter-spacing: 0.16em;
+    font-size: 0.68rem;
+  }
+  .splash-headline {
+    margin-bottom: 0.9rem;
+    font-size: 2.6rem;
+  }
+  .splash-questions {
+    margin-bottom: 1rem;
+    font-size: 1.02rem;
+  }
+  .splash-questions li {
+    margin: 0.3rem 0;
+  }
+  .splash-intro {
+    font-size: 1rem;
+  }
+  .splash-note {
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+  }
 }
 
 .splash-footer {
-  position: absolute;
-  bottom: 1rem;
-  left: 0;
-  right: 0;
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.2rem;
   padding: 0 16px;
 }
 
@@ -463,6 +519,22 @@ input[type='range'] {
   .prep tr {
     break-inside: avoid;
   }
+}
+
+/* ---------- Disclaimer page (laid out like the prep sheet) ---------- */
+
+.disclaimer {
+  max-width: 46rem;
+}
+
+.disclaimer h2 {
+  margin: 1.6rem 0 0.5rem;
+  font-size: 1.25rem;
+  color: var(--gold);
+}
+
+.disclaimer li {
+  margin: 0.3rem 0;
 }
 
 /* ---------- Spoiler notice ---------- */
@@ -1232,7 +1304,6 @@ fieldset {
   .line,
   .unfold,
   .primary-idea,
-  .splash-questions li,
   .map-ring,
   .bell-pulse {
     animation: none;

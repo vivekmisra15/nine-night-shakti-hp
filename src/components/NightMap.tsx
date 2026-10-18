@@ -14,6 +14,7 @@ interface Props {
   completed: number[];
   onOpen: (night: number) => void;
   onPrep: () => void; // opens the parent prep sheet
+  onDisclaimer: () => void; // opens the full disclaimer
   settings: Settings;
   onSettings: (s: Settings) => void;
 }
@@ -32,7 +33,7 @@ function useNarrow() {
   return narrow;
 }
 
-export function NightMap({ completed, onOpen, onPrep, settings, onSettings }: Props) {
+export function NightMap({ completed, onOpen, onPrep, onDisclaimer, settings, onSettings }: Props) {
   const narrow = useNarrow();
   const [t, setT] = useState(0);
   useEffect(() => {
@@ -60,6 +61,9 @@ export function NightMap({ completed, onOpen, onPrep, settings, onSettings }: Pr
         <h1>{appTitle}</h1>
         <div className="row">
           <button onClick={onPrep}>Parent prep sheet</button>
+          <button className="link-button" onClick={onDisclaimer}>
+            Disclaimer
+          </button>
           <button aria-pressed={settings.music} onClick={() => set({ music: !settings.music })}>
             ♪ Music {settings.music ? 'on' : 'off'}
           </button>

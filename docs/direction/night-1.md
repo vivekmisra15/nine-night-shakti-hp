@@ -41,13 +41,7 @@ Status: approved 16 October 2026; revised 17 October 2026 after the first build.
 
 ### Splash and map
 
-- **Splash:** a night sky with slow stars and a soft glow. The title is always shown. It opens with "Begin the journey", a music switch and volume (no subtitle). Browsers allow sound only after a tap, so the music starts on Begin, softly, rising over a few seconds: calm tanpura and bansuri in Bhupali (no wind or other noise). After Begin, the title moves up and four questions fade in beneath it, one at a time (each from the Recurring themes table in `docs/NINE_NIGHTS_CONTENT.md`):
-  - *Are you who your family made you, or who you choose to be?*
-  - *What does protecting someone cost the protector, and the protected?*
-  - *When should you stand against your own side?*
-  - *Can anyone begin again, and must they choose to?*
-
-  Then "Continue" goes on to the map (Skip is always there). The Harry Potter disclaimer (in `docs/NINE_NIGHTS_CONTENT.md`) is shown small at the bottom throughout. The spoiler notice and "How we compare" (with the disclaimer again) follow, once, before Night 1.
+- **Splash (revised 18 October 2026):** one screen over a night sky with slow stars and a soft glow: the app's name small at the top, the large question *What is power for?*, the four questions (from the Recurring themes table in `docs/NINE_NIGHTS_CONTENT.md`) fading in one at a time, the introduction and the note ("The opening splash" in the same file), then "Begin the journey", the music switch and volume. Begin starts the music softly and goes to the map. The one-sentence disclaimer and a link to the full Disclaimer page are at the bottom. The spoiler notice and "How we compare" follow, once, before Night 1.
 - **Map:** a constellation of nine diyas on a winding dotted path (top to bottom on a phone). Completed nights glow, Night 1 is highlighted, and unbuilt nights are faded and read "being written". Night 1 shows शैलपुत्री beside Shailaputri.
 
 ### Steps, and where each screen's words come from

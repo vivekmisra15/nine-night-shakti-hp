@@ -7,6 +7,7 @@ import { unlock, useSplashMusic } from './audio';
 import { scores } from './audio/scores';
 import { ClosingScreen } from './components/ClosingScreen';
 import { NightMap } from './components/NightMap';
+import { DisclaimerPage } from './components/DisclaimerPage';
 import { NightPlayer } from './components/NightPlayer';
 import { PrepSheet } from './components/PrepSheet';
 import { SplashScreen } from './components/SplashScreen';
@@ -19,6 +20,7 @@ type Screen =
   | { name: 'splash' }
   | { name: 'map' }
   | { name: 'prep' }
+  | { name: 'disclaimer'; from: 'splash' | 'map' }
   | { name: 'notice'; night: number }
   | { name: 'night'; night: number }
   | { name: 'closing'; night: number };
@@ -60,12 +62,17 @@ export default function App() {
   }, []);
 
   // Calm music under the splash, the map and the prep sheet.
-  useSplashMusic(settings, screen.name === 'splash' || screen.name === 'map' || screen.name === 'prep');
+  useSplashMusic(settings, screen.name === 'splash' || screen.name === 'map' || screen.name === 'prep' || screen.name === 'disclaimer');
 
   const backToMap = useCallback(() => setScreen({ name: 'map' }), []);
 
   if (screen.name === 'splash') {
-    return <SplashScreen settings={settings} onSettings={setSettings} reading={reading} onBegin={backToMap} />;
+    return <SplashScreen settings={settings} onSettings={setSettings} reading={reading} onBegin={backToMap} onDisclaimer={() => setScreen({ name: 'disclaimer', from: 'splash' })} />;
+  }
+
+  if (screen.name === 'disclaimer') {
+    const fromSplash = screen.from === 'splash';
+    return <DisclaimerPage backLabel={fromSplash ? 'Back' : 'Back to the map'} onBack={() => setScreen(fromSplash ? { name: 'splash' } : { name: 'map' })} />;
   }
 
   if (screen.name === 'prep') {
@@ -122,6 +129,7 @@ export default function App() {
       settings={settings}
       onSettings={setSettings}
       onPrep={() => setScreen({ name: 'prep' })}
+      onDisclaimer={() => setScreen({ name: 'disclaimer', from: 'map' })}
       onOpen={(night) => setScreen(progress.seenSpoiler ? { name: 'night', night } : { name: 'notice', night })}
     />
   );

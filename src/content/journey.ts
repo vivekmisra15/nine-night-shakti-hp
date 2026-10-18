@@ -34,6 +34,14 @@ export const splashQuestions = [
   'Can anyone begin again, and must they choose to?',
 ];
 
+// The splash's large question, introduction and note, copied from
+// "The opening splash" in docs/NINE_NIGHTS_CONTENT.md.
+export const splashHeadline = 'What is power for?';
+export const splashIntro =
+  'Over nine nights we meet nine forms of the Devi and hear their traditional stories. Then we look at the same questions through scenes from the Harry Potter books and films.';
+export const splashNote =
+  'These are different kinds of story. The Devi is sacred in a living tradition; Harry Potter is fiction. We compare the choices people make, never the Devi with a character.';
+
 export const beginLabel = 'Begin the journey';
 
 // Shown small on the splash and with "How we compare". Copied from

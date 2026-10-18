@@ -25,7 +25,7 @@ Supriya owns this project. She is learning to build applications.
 
 - **Every beat shows a visible label:** `tradition`, `interpretation`, `contemporary`, `comparison`, `hogwarts` (a book or film scene) or `hypothetical`. This lets the child always tell a source's narrative from a modern reading.
 - **Hindu deities are sacred figures in a living religion; Harry Potter characters are fictional.** Never present a character as a Devi's equivalent. Never imply that J.K. Rowling or the filmmakers intended any parallel.
-- **Disclaimer:** the opening splash and "How we compare" say that the Harry Potter books and films were not written with Navaratri or the Devi in mind, and that the links are our own interpretation (wording in `docs/NINE_NIGHTS_CONTENT.md`).
+- **Disclaimer:** the full disclaimer and statement of intent is `docs/DISCLAIMER.md`, shown in the app on a Disclaimer page (`src/content/disclaimer.ts`). The splash shows its one-sentence version with a link to that page; the map links to it too; the README gives its short version. "How we compare" keeps its own sentence: the Harry Potter books and films were not written with Navaratri or the Devi in mind, and the links are our own interpretation (wording in `docs/NINE_NIGHTS_CONTENT.md`).
 - **Harry Potter text is always paraphrased.** No direct quotations beyond a few words. Never invent quotes, chapters or scene details.
 - **Spoilers:** the audience has read all seven books and seen all eight films. Show the spoiler notice (Night 1, Beat 1) once, before the series starts.
 - **Gentle alternatives:** where a night offers a gentler second Harry Potter scene in place of an intense one (Nights 2, 3 and 7), the parent chooses which scene to use at the start of that night.
@@ -125,7 +125,7 @@ Follow `docs/ANIMATION_AND_MUSIC.md` (due to be rewritten). Where it asks for mo
 - **Demons and battles:** demons are dark smoke or shadow, never monstrous detail; a battle is light pushing back darkness; a death is a shadow dissolving or a flame going out. No body, wound or blood is ever drawn.
 - **Other people** (Daksha, family members, sages, crowds) are fine gold outlines with simple faces or none. Never caricatured, never filled "costume" figures.
 - Harry Potter scenes are abstract and atmospheric only, shown with letterbox bars so they read as a film or book scene. There are no recognisable characters, actors, crests, logos, film typography, stills or cover art.
-- The app opens on a splash: the title over a night sky, with "Begin the journey". That tap starts the music softly (browsers allow sound only after a tap). The title stays, and four questions fade in beneath it one at a time over the music; then "Continue" leads to the map. The Harry Potter disclaimer is shown small at the bottom.
+- The app opens on a one-screen splash over a night sky (wording in "The opening splash", `docs/NINE_NIGHTS_CONTENT.md`): the app's name small at the top, the large question "What is power for?", the four splash questions fading in one at a time, a short introduction and a note on the two kinds of story, then "Begin the journey" with the music switch. Begin starts the music softly (browsers allow sound only after a tap) and goes to the map. The one-sentence disclaimer and its link to the Disclaimer page are at the bottom.
 - The nine-night map is a constellation: nine diyas along a winding dotted path (top to bottom on a phone), lighting up as nights are completed. Unbuilt nights are faded and read "being written".
 
 ## Music and sound

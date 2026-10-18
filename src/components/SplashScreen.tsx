@@ -1,35 +1,35 @@
-// The opening splash. The title is always there, over a night sky.
+// The opening splash, on one screen over a night sky: the app's name small
+// at the top, one large question, the four splash questions fading in one at
+// a time, a short introduction and a note on the two kinds of story, then
+// "Begin the journey" with the music switch. The one-sentence disclaimer and
+// its link sit at the bottom.
 //
-// 1. First: the title, "Begin the journey" and the music switch. Browsers
-//    allow sound only after a tap, so the music starts (softly) on Begin.
-// 2. After Begin: the title moves up, and four questions fade in beneath it,
-//    one at a time, over the music. Then "Continue" goes on to the map.
-//    "Skip" is always there.
-// The Harry Potter disclaimer is shown small at the bottom throughout.
+// Browsers allow sound only after a tap, so the music starts (softly) when
+// the family taps Begin, and plays on under the map.
 
 import { useEffect, useState } from 'react';
 import { unlock } from '../audio';
-import { appTitle, beginLabel, hpDisclaimer, splashQuestions } from '../content/journey';
+import { disclaimerSentence } from '../content/disclaimer';
+import { appTitle, beginLabel, splashHeadline, splashIntro, splashNote, splashQuestions } from '../content/journey';
 import type { Settings } from '../state/progress';
 import { Glow, Particles, Sky } from '../visuals/shared';
 import { Rich } from './Rich';
 
-const FIRST = 1.2; // seconds before the first question
-const EACH = 3.6; // seconds between questions
-const DONE = FIRST + (splashQuestions.length - 1) * EACH + 1.5; // when Continue appears
+const FIRST = 0.8; // seconds before the first question appears
+const EACH = 1.1; // seconds between questions
 
 interface Props {
   settings: Settings;
   onSettings: (s: Settings) => void;
-  reading: boolean; // no animation: the questions are shown all at once
+  reading: boolean; // no animation: everything is shown at once
   onBegin: () => void; // go on to the map
+  onDisclaimer: () => void; // open the full disclaimer page
 }
 
-export function SplashScreen({ settings, onSettings, reading, onBegin }: Props) {
-  const [begun, setBegun] = useState(false);
+export function SplashScreen({ settings, onSettings, reading, onBegin, onDisclaimer }: Props) {
   const [t, setT] = useState(0);
 
-  // A simple clock: it drifts the sky, and times the questions after Begin.
+  // A simple clock: it drifts the sky, and fades the questions in.
   useEffect(() => {
     const start = performance.now();
     let frame = requestAnimationFrame(function tick(now) {
@@ -37,18 +37,19 @@ export function SplashScreen({ settings, onSettings, reading, onBegin }: Props) 
       frame = requestAnimationFrame(tick);
     });
     return () => cancelAnimationFrame(frame);
-  }, [begun]);
+  }, []);
 
   const begin = () => {
     unlock(); // the tap that lets the music play
-    setBegun(true);
+    onBegin();
   };
   const set = (patch: Partial<Settings>) => onSettings({ ...settings, ...patch });
-  const shown = !begun ? 0 : reading ? splashQuestions.length : splashQuestions.filter((_, i) => t >= FIRST + i * EACH).length;
-  const finished = begun && (reading || t >= DONE);
+  // How visible each question is (0 to 1); the text below follows the last one.
+  const fade = (i: number) => (reading ? 1 : Math.min(1, Math.max(0, (t - FIRST - i * EACH) / 0.9)));
+  const rest = fade(splashQuestions.length);
 
   return (
-    <main className={`splash${begun ? ' splash-begun' : ''}`}>
+    <main className="splash">
       <svg className="splash-sky" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
         <Sky top="#070A18" bottom="#1E2A5A" t={t} stars={110} starColour="#FFF4D6" />
         <Glow x={800} y={520} r={420} colour="#F29F3D" opacity={0.12} />
@@ -56,54 +57,53 @@ export function SplashScreen({ settings, onSettings, reading, onBegin }: Props) 
       </svg>
 
       <div className="splash-content">
-        <h1 className="splash-heading">{appTitle}</h1>
+        <p className="splash-eyebrow">{appTitle}</p>
+        <h1 className="splash-headline">{splashHeadline}</h1>
 
-        {!begun ? (
-          <>
-            <div className="row center">
-              <button className="primary big" onClick={begin} autoFocus>
-                {beginLabel}
-              </button>
-              <button aria-pressed={settings.music} onClick={() => set({ music: !settings.music })}>
-                ♪ Music {settings.music ? 'on' : 'off'}
-              </button>
-              <input
-                className="volume"
-                type="range"
-                min={0}
-                max={1}
-                step={0.05}
-                value={settings.volumes.music}
-                onChange={(e) => set({ volumes: { ...settings.volumes, music: Number(e.target.value) } })}
-                aria-label="Music volume"
-              />
-            </div>
-            {settings.music && <p className="muted small">The music begins softly when you start.</p>}
-          </>
-        ) : (
-          <>
-            <ul className="splash-questions" aria-live="polite">
-              {splashQuestions.slice(0, shown).map((q, i) => (
-                <li key={i} className={i === shown - 1 && !finished ? 'q-current' : 'q-past'}>
-                  <Rich text={q} />
-                </li>
-              ))}
-            </ul>
-            {/* Always in the layout (just hidden), so nothing jumps when it appears. */}
-            <button className="primary big" onClick={onBegin} style={{ visibility: finished ? 'visible' : 'hidden' }}>
-              Continue
+        <ul className="splash-questions">
+          {splashQuestions.map((q, i) => (
+            <li key={i} style={{ opacity: fade(i) }}>
+              <Rich text={q} />
+            </li>
+          ))}
+        </ul>
+
+        <div className="splash-about" style={{ opacity: rest }}>
+          <p className="splash-intro">
+            <Rich text={splashIntro} />
+          </p>
+          <p className="splash-note">
+            <Rich text={splashNote} />
+          </p>
+          <div className="row center">
+            <button className="primary big" onClick={begin} autoFocus>
+              {beginLabel}
             </button>
-          </>
-        )}
+            <button aria-pressed={settings.music} onClick={() => set({ music: !settings.music })}>
+              ♪ Music {settings.music ? 'on' : 'off'}
+            </button>
+            <input
+              className="volume"
+              type="range"
+              min={0}
+              max={1}
+              step={0.05}
+              value={settings.volumes.music}
+              onChange={(e) => set({ volumes: { ...settings.volumes, music: Number(e.target.value) } })}
+              aria-label="Music volume"
+            />
+          </div>
+        </div>
       </div>
 
       <div className="splash-footer">
+        {/* One sentence, and a link to the full disclaimer page. */}
         <p className="splash-disclaimer">
-          <Rich text={hpDisclaimer} />
+          <Rich text={disclaimerSentence} />{' '}
+          <button className="link-button inline" onClick={onDisclaimer}>
+            Read the full disclaimer
+          </button>
         </p>
-        <button className="link-button small" onClick={onBegin} style={{ visibility: begun && !finished ? 'visible' : 'hidden' }}>
-          Skip
-        </button>
       </div>
     </main>
   );

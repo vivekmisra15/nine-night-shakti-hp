@@ -2,6 +2,10 @@
 
 An interactive web app for a parent and a pre-teen, one night of Navaratri at a time. Each night tells a Navadurga story from traditional sources, then compares a decision in it with a decision in a Harry Potter scene, showing the differences honestly. It has no backend, no accounts and no network calls.
 
+## Disclaimer
+
+*Nine Nights* is independent, free and non-commercial, and is not affiliated with J.K. Rowling, Warner Bros. or the Harry Potter publishers. It reproduces no text, images, audio or video from the books or films: scenes are retold in our own words, the pictures are original abstract artwork, and families find the scenes in their own copies. The interpretations are our own. See the [full disclaimer](docs/DISCLAIMER.md), which the app also shows on its Disclaimer page.
+
 **Status (18 October 2026):** all nine nights are built and handed over for review: the opening splash, the constellation map, the parent prep sheet, and Nights 1–9, each with its pictures, music, short evening and closing. Nights 2, 3 and 7 offer a gentle alternative Harry Potter scene, and Night 9 closes the series with a look back over all nine nights.
 
 ## Running it

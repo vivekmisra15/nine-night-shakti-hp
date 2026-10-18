@@ -45,7 +45,13 @@ Each night starts with the Devi's story, finds the *decision* inside it, and onl
 - Harry Potter's death-and-return imagery (the forest walk, King's Cross, "master of death") is offered as *our* comparison, never as hidden theology. Never suggest that J.K. Rowling or the filmmakers intended a parallel.
 - Paraphrase every quote. Any direct quotation stays well under 15 words, and they are rare.
 
-**Disclaimer (shown on the opening splash and with "How we compare"; draft wording, 17 October 2026, for Supriya to review):** The Harry Potter books and films were not written with Navaratri or the Devi in mind. The links we draw between them are our own interpretation.
+**The opening splash (new wording, 18 October 2026, for Supriya to review):** the app's name small at the top, then one large question, the four splash questions (from the Recurring themes table), a short introduction, a note on the two kinds of story, "Begin the journey", and the one-sentence disclaimer.
+
+- **The large question:** What is power for?
+- **Introduction:** Over nine nights we meet nine forms of the Devi and hear their traditional stories. Then we look at the same questions through scenes from the Harry Potter books and films.
+- **Note:** These are different kinds of story. The Devi is sacred in a living tradition; Harry Potter is fiction. We compare the choices people make, never the Devi with a character.
+
+**Disclaimer (shown with "How we compare"; the full disclaimer, with the splash screen's one-sentence version, is in `docs/DISCLAIMER.md`; draft wording, 17 October 2026, for Supriya to review):** The Harry Potter books and films were not written with Navaratri or the Devi in mind. The links we draw between them are our own interpretation.
 
 **Spoilers and intensity**
 
