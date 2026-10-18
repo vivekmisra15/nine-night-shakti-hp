@@ -2,7 +2,7 @@
 
 An interactive web app for a parent and a pre-teen, one night of Navaratri at a time. Each night tells a Navadurga story from traditional sources, then compares a decision in it with a decision in a Harry Potter scene, showing the differences honestly. It has no backend, no accounts and no network calls.
 
-**Status (17 October 2026):** Night 1 is complete and handed over for review: the opening splash, the constellation map, and Night 1 in 25 steps (17 on a short evening), with its pictures, music and closing. The map also has a printable parent prep sheet, and a speaker button beside each Devi's name. Nights 2–9 read "being written" on the map.
+**Status (18 October 2026):** all nine nights are built and handed over for review: the opening splash, the constellation map, the parent prep sheet, and Nights 1–9, each with its pictures, music, short evening and closing. Nights 2, 3 and 7 offer a gentle alternative Harry Potter scene, and Night 9 closes the series with a look back over all nine nights.
 
 ## Running it
 
